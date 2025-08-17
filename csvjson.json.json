@@ -1,0 +1,1162 @@
+[
+  {
+    "kata": "iso'o",
+    "arti": "kamu"
+  },
+  {
+    "kata": "inda'u",
+    "arti": "saya"
+  },
+  {
+    "kata": "ia",
+    "arti": "dia"
+  },
+  {
+    "kata": "mo'ia",
+    "arti": "mereka"
+  },
+  {
+    "kata": "ingkita",
+    "arti": "kita"
+  },
+  {
+    "kata": "isimiu",
+    "arti": "kalian"
+  },
+  {
+    "kata": "isami",
+    "arti": "kami"
+  },
+  {
+    "kata": "bapa",
+    "arti": "bapak"
+  },
+  {
+    "kata": "mama",
+    "arti": "ibu"
+  },
+  {
+    "kata": "aka",
+    "arti": "kakak"
+  },
+  {
+    "kata": "ai",
+    "arti": "adik"
+  },
+  {
+    "kata": "tolida",
+    "arti": "sepupu"
+  },
+  {
+    "kata": "kapele",
+    "arti": "saudara kandung"
+  },
+  {
+    "kata": "elea",
+    "arti": "saudara"
+  },
+  {
+    "kata": "ama pusanao",
+    "arti": "paman"
+  },
+  {
+    "kata": "ina pusanao",
+    "arti": "bibi"
+  },
+  {
+    "kata": "tete",
+    "arti": "kakek"
+  },
+  {
+    "kata": "nene",
+    "arti": "nenek"
+  },
+  {
+    "kata": "ungkaka",
+    "arti": "anak"
+  },
+  {
+    "kata": "dawo",
+    "arti": "ipar"
+  },
+  {
+    "kata": "cumpe",
+    "arti": "anak sulung"
+  },
+  {
+    "kata": "ka'opu",
+    "arti": "anak bungsu"
+  },
+  {
+    "kata": "meja",
+    "arti": "meja"
+  },
+  {
+    "kata": "kurusi",
+    "arti": "kursi"
+  },
+  {
+    "kata": "lemari",
+    "arti": "lemari"
+  },
+  {
+    "kata": "kasoro",
+    "arti": "kasur"
+  },
+  {
+    "kata": "pulango",
+    "arti": "bantal"
+  },
+  {
+    "kata": "pajamara",
+    "arti": "lampu api"
+  },
+  {
+    "kata": "payasa",
+    "arti": "cermin"
+  },
+  {
+    "kata": "embere",
+    "arti": "ember"
+  },
+  {
+    "kata": "kasambure",
+    "arti": "sapu"
+  },
+  {
+    "kata": "kampuhaita",
+    "arti": "jemuran"
+  },
+  {
+    "kata": "piri",
+    "arti": "piring"
+  },
+  {
+    "kata": "galasi",
+    "arti": "gelas"
+  },
+  {
+    "kata": "kasendo",
+    "arti": "sendok"
+  },
+  {
+    "kata": "pisau",
+    "arti": "piso"
+  },
+  {
+    "kata": "tawe",
+    "arti": "panci"
+  },
+  {
+    "kata": "kawali",
+    "arti": "wajan"
+  },
+  {
+    "kata": "komporo",
+    "arti": "kompor"
+  },
+  {
+    "kata": "loea",
+    "arti": "loyang"
+  },
+  {
+    "kata": "teremusu",
+    "arti": "termus"
+  },
+  {
+    "kata": "cere",
+    "arti": "teko"
+  },
+  {
+    "kata": "kasidu",
+    "arti": "centong"
+  },
+  {
+    "kata": "obe",
+    "arti": "obeng"
+  },
+  {
+    "kata": "palu",
+    "arti": "palu"
+  },
+  {
+    "kata": "karakaji",
+    "arti": "gergaji"
+  },
+  {
+    "kata": "obe",
+    "arti": "bor"
+  },
+  {
+    "kata": "paku",
+    "arti": "paku"
+  },
+  {
+    "kata": "mitere",
+    "arti": "meteran"
+  },
+  {
+    "kata": "lemu",
+    "arti": "lem"
+  },
+  {
+    "kata": "buku",
+    "arti": "buku"
+  },
+  {
+    "kata": "pena",
+    "arti": "pulpen"
+  },
+  {
+    "kata": "katoloti",
+    "arti": "pensil"
+  },
+  {
+    "kata": "kahapusu",
+    "arti": "penghapus"
+  },
+  {
+    "kata": "karatasi",
+    "arti": "kertas"
+  },
+  {
+    "kata": "tasi",
+    "arti": "tas"
+  },
+  {
+    "kata": "loko",
+    "arti": "batu"
+  },
+  {
+    "kata": "hone",
+    "arti": "pasir"
+  },
+  {
+    "kata": "wuta",
+    "arti": "tanah"
+  },
+  {
+    "kata": "gunu",
+    "arti": "gunung"
+  },
+  {
+    "kata": "tai",
+    "arti": "laut"
+  },
+  {
+    "kata": "we'e/ye'e",
+    "arti": "air"
+  },
+  {
+    "kata": "olu",
+    "arti": "awan"
+  },
+  {
+    "kata": "kia",
+    "arti": "hujan"
+  },
+  {
+    "kata": "wantoloure",
+    "arti": "pelangi"
+  },
+  {
+    "kata": "hulunga",
+    "arti": "bayangan"
+  },
+  {
+    "kata": "gawu",
+    "arti": "debu"
+  },
+  {
+    "kata": "ngoi",
+    "arti": "angin"
+  },
+  {
+    "kata": "ka'ana",
+    "arti": "rumah"
+  },
+  {
+    "kata": "daoa",
+    "arti": "pasar"
+  },
+  {
+    "kata": "karindi",
+    "arti": "dinding"
+  },
+  {
+    "kata": "hato",
+    "arti": "atap"
+  },
+  {
+    "kata": "dompe",
+    "arti": "dompet"
+  },
+  {
+    "kata": "pau",
+    "arti": "payung"
+  },
+  {
+    "kata": "rante",
+    "arti": "kalung"
+  },
+  {
+    "kata": "singkaru",
+    "arti": "cincin"
+  },
+  {
+    "kata": "doe",
+    "arti": "uang"
+  },
+  {
+    "kata": "kalologa",
+    "arti": "koin"
+  },
+  {
+    "kata": "uba",
+    "arti": "obat"
+  },
+  {
+    "kata": "kasuru",
+    "arti": "sisir"
+  },
+  {
+    "kata": "deu",
+    "arti": "jarum"
+  },
+  {
+    "kata": "bana",
+    "arti": "benang"
+  },
+  {
+    "kata": "api",
+    "arti": "api"
+  },
+  {
+    "kata": "butolo",
+    "arti": "botol"
+  },
+  {
+    "kata": "bani",
+    "arti": "ban"
+  },
+  {
+    "kata": "bendera",
+    "arti": "bendera"
+  },
+  {
+    "kata": "baterei",
+    "arti": "baterai"
+  },
+  {
+    "kata": "baju",
+    "arti": "baju"
+  },
+  {
+    "kata": "sala",
+    "arti": "celana"
+  },
+  {
+    "kata": "ceti",
+    "arti": "cat"
+  },
+  {
+    "kata": "esi",
+    "arti": "es"
+  },
+  {
+    "kata": "foto",
+    "arti": "foto"
+  },
+  {
+    "kata": "felem",
+    "arti": "film"
+  },
+  {
+    "kata": "gitara",
+    "arti": "gitar"
+  },
+  {
+    "kata": "gunci",
+    "arti": "gunting"
+  },
+  {
+    "kata": "gola",
+    "arti": "gula"
+  },
+  {
+    "kata": "gabusu",
+    "arti": "gabus"
+  },
+  {
+    "kata": "hando",
+    "arti": "handuk"
+  },
+  {
+    "kata": "pandi",
+    "arti": "ikat pinggang"
+  },
+  {
+    "kata": "kakamboba",
+    "arti": "jendela"
+  },
+  {
+    "kata": "lala",
+    "arti": "jalan"
+  },
+  {
+    "kata": "kunci",
+    "arti": "kajoli"
+  },
+  {
+    "kata": "kancia",
+    "arti": "kain"
+  },
+  {
+    "kata": "hagari",
+    "arti": "lantai"
+  },
+  {
+    "kata": "masina",
+    "arti": "mesin"
+  },
+  {
+    "kata": "oto",
+    "arti": "mobil"
+  },
+  {
+    "kata": "balobu",
+    "arti": "mankgok"
+  },
+  {
+    "kata": "noda",
+    "arti": "noda"
+  },
+  {
+    "kata": "kahompo",
+    "arti": "pintu"
+  },
+  {
+    "kata": "kapupuru",
+    "arti": "resleting"
+  },
+  {
+    "kata": "supeda",
+    "arti": "sepeda"
+  },
+  {
+    "kata": "sabo",
+    "arti": "sabun"
+  },
+  {
+    "kata": "tasi",
+    "arti": "tas"
+  },
+  {
+    "kata": "pusi",
+    "arti": "ujung"
+  },
+  {
+    "kata": "pusi",
+    "arti": "pingsan"
+  },
+  {
+    "kata": "tatampa",
+    "arti": "wadah"
+  },
+  {
+    "kata": "adati",
+    "arti": "adat"
+  },
+  {
+    "kata": "mudindi",
+    "arti": "dingin"
+  },
+  {
+    "kata": "musodo/mumpana",
+    "arti": "panas"
+  },
+  {
+    "kata": "geru",
+    "arti": "aduk"
+  },
+  {
+    "kata": "alo",
+    "arti": "hari"
+  },
+  {
+    "kata": "ungku",
+    "arti": "panggil"
+  },
+  {
+    "kata": "kampuhadari",
+    "arti": "belajar"
+  },
+  {
+    "kata": "hadari",
+    "arti": "ajar"
+  },
+  {
+    "kata": "akal",
+    "arti": "akala"
+  },
+  {
+    "kata": "purasa",
+    "arti": "akar"
+  },
+  {
+    "kata": "pacimburi",
+    "arti": "akhir"
+  },
+  {
+    "kata": "pangulu",
+    "arti": "duluan"
+  },
+  {
+    "kata": "pukoni",
+    "arti": "kenal"
+  },
+  {
+    "kata": "pidadi/sayoro",
+    "arti": "sayur"
+  },
+  {
+    "kata": "kama'aso",
+    "arti": "lauk"
+  },
+  {
+    "kata": "kepala",
+    "arti": "pocu"
+  },
+  {
+    "kata": "hunai",
+    "arti": "cuci"
+  },
+  {
+    "kata": "pihunai",
+    "arti": "cuci piring"
+  },
+  {
+    "kata": "pitopa",
+    "arti": "cuci baju"
+  },
+  {
+    "kata": "pilonu",
+    "arti": "cuci mulut"
+  },
+  {
+    "kata": "pereku",
+    "arti": "cuci muka"
+  },
+  {
+    "kata": "alati",
+    "arti": "alat"
+  },
+  {
+    "kata": "ala",
+    "arti": "ambil"
+  },
+  {
+    "kata": "ancamu",
+    "arti": "ancam"
+  },
+  {
+    "kata": "ane",
+    "arti": "andai"
+  },
+  {
+    "kata": "ane",
+    "arti": "anai"
+  },
+  {
+    "kata": "agiu",
+    "arti": "aneh"
+  },
+  {
+    "kata": "wasa",
+    "arti": "anyam"
+  },
+  {
+    "kata": "ma'ana",
+    "arti": "makna"
+  },
+  {
+    "kata": "ma'ana",
+    "arti": "arti"
+  },
+  {
+    "kata": "mukolo",
+    "arti": "asam"
+  },
+  {
+    "kata": "mumeko",
+    "arti": "manis"
+  },
+  {
+    "kata": "mupaki",
+    "arti": "pahit"
+  },
+  {
+    "kata": "mulala",
+    "arti": "sakit"
+  },
+  {
+    "kata": "mulala",
+    "arti": "pedas"
+  },
+  {
+    "kata": "mumbaka",
+    "arti": "enak"
+  },
+  {
+    "kata": "muhai",
+    "arti": "asin"
+  },
+  {
+    "kata": "mubuto",
+    "arti": "busuk"
+  },
+  {
+    "kata": "muwondu",
+    "arti": "harum"
+  },
+  {
+    "kata": "musasu",
+    "arti": "takut"
+  },
+  {
+    "kata": "musili",
+    "arti": "iri"
+  },
+  {
+    "kata": "kucio",
+    "arti": "kikir"
+  },
+  {
+    "kata": "popoi",
+    "arti": "asah"
+  },
+  {
+    "kata": "hau",
+    "arti": "asap"
+  },
+  {
+    "kata": "ka",
+    "arti": "atau"
+  },
+  {
+    "kata": "cia",
+    "arti": "tidak"
+  },
+  {
+    "kata": "ombe",
+    "arti": "iya"
+  },
+  {
+    "kata": "andi'ai",
+    "arti": "entah"
+  },
+  {
+    "kata": "hawali",
+    "arti": "tapi"
+  },
+  {
+    "kata": "munginci wuku",
+    "arti": "haus"
+  },
+  {
+    "kata": "muharo",
+    "arti": "lapar"
+  },
+  {
+    "kata": "mubunci",
+    "arti": "kenyang"
+  },
+  {
+    "kata": "awalu",
+    "arti": "awal"
+  },
+  {
+    "kata": "pulai",
+    "arti": "awas"
+  },
+  {
+    "kata": "kagugura",
+    "arti": "ayakan"
+  },
+  {
+    "kata": "pigugura",
+    "arti": "mengayak"
+  },
+  {
+    "kata": "wawi",
+    "arti": "babi"
+  },
+  {
+    "kata": "ndoke",
+    "arti": "monyet"
+  },
+  {
+    "kata": "baca",
+    "arti": "baca"
+  },
+  {
+    "kata": "tamba",
+    "arti": "bacok"
+  },
+  {
+    "kata": "dodo",
+    "arti": "potong"
+  },
+  {
+    "kata": "iris",
+    "arti": "die"
+  },
+  {
+    "kata": "sumbele",
+    "arti": "sembelih"
+  },
+  {
+    "kata": "bada",
+    "arti": "badan"
+  },
+  {
+    "kata": "ku'ajo",
+    "arti": "seperti"
+  },
+  {
+    "kata": "pukana",
+    "arti": "mirip"
+  },
+  {
+    "kata": "dawu",
+    "arti": "beri"
+  },
+  {
+    "kata": "sana",
+    "arti": "senang"
+  },
+  {
+    "kata": "pulu",
+    "arti": "bahasa"
+  },
+  {
+    "kata": "babahu",
+    "arti": "bahu"
+  },
+  {
+    "kata": "umela",
+    "arti": "baik"
+  },
+  {
+    "kata": "mudai",
+    "arti": "buruk"
+  },
+  {
+    "kata": "sula",
+    "arti": "bakar"
+  },
+  {
+    "kata": "bakar",
+    "arti": "cunu"
+  },
+  {
+    "kata": "tapa",
+    "arti": "panggang"
+  },
+  {
+    "kata": "mungau",
+    "arti": "gosong"
+  },
+  {
+    "kata": "muntaha",
+    "arti": "matang"
+  },
+  {
+    "kata": "mumata",
+    "arti": "mentah"
+  },
+  {
+    "kata": "mata",
+    "arti": "mata"
+  },
+  {
+    "kata": "tolinga",
+    "arti": "telinga"
+  },
+  {
+    "kata": "ngo'o",
+    "arti": "hidung"
+  },
+  {
+    "kata": "baga",
+    "arti": "pipi"
+  },
+  {
+    "kata": "ngi'i",
+    "arti": "gigi"
+  },
+  {
+    "kata": "wusa",
+    "arti": "dahi"
+  },
+  {
+    "kata": "wusa",
+    "arti": "ubun-ubun"
+  },
+  {
+    "kata": "pocu",
+    "arti": "rambut"
+  },
+  {
+    "kata": "kabulu pocu",
+    "arti": "kepala"
+  },
+  {
+    "kata": "katoa",
+    "arti": "keher"
+  },
+  {
+    "kata": "lima",
+    "arti": "tangan"
+  },
+  {
+    "kata": "wunga",
+    "arti": "jari"
+  },
+  {
+    "kata": "kake",
+    "arti": "kaki"
+  },
+  {
+    "kata": "wici",
+    "arti": "betis"
+  },
+  {
+    "kata": "paha",
+    "arti": "paha"
+  },
+  {
+    "kata": "kuni",
+    "arti": "pantat"
+  },
+  {
+    "kata": "perut",
+    "arti": "hawa"
+  },
+  {
+    "kata": "toruku",
+    "arti": "punggung"
+  },
+  {
+    "kata": "buku",
+    "arti": "tulang"
+  },
+  {
+    "kata": "rea",
+    "arti": "darah"
+  },
+  {
+    "kata": "kunusu",
+    "arti": "kuku"
+  },
+  {
+    "kata": "ela",
+    "arti": "lidah"
+  },
+  {
+    "kata": "wulu",
+    "arti": "bulu"
+  },
+  {
+    "kata": "cu'u",
+    "arti": "lutut"
+  },
+  {
+    "kata": "jangku",
+    "arti": "jenggot"
+  },
+  {
+    "kata": "supi",
+    "arti": "kumis"
+  },
+  {
+    "kata": "kere",
+    "arti": "alis"
+  },
+  {
+    "kata": "cici",
+    "arti": "payudara"
+  },
+  {
+    "kata": "tuwuni",
+    "arti": "pusar"
+  },
+  {
+    "kata": "lolosua",
+    "arti": "sendi"
+  },
+  {
+    "kata": "sina'a",
+    "arti": "napas"
+  },
+  {
+    "kata": "bolosi",
+    "arti": "balas"
+  },
+  {
+    "kata": "bale",
+    "arti": "balik"
+  },
+  {
+    "kata": "bangko",
+    "arti": "bangku"
+  },
+  {
+    "kata": "bangu",
+    "arti": "bangun"
+  },
+  {
+    "kata": "banti",
+    "arti": "banting"
+  },
+  {
+    "kata": "hamba",
+    "arti": "bantu"
+  },
+  {
+    "kata": "to'aru",
+    "arti": "banyak"
+  },
+  {
+    "kata": "bara",
+    "arti": "barang"
+  },
+  {
+    "kata": "bara",
+    "arti": "barat"
+  },
+  {
+    "kata": "cimburu",
+    "arti": "timur"
+  },
+  {
+    "kata": "salata",
+    "arti": "selatan"
+  },
+  {
+    "kata": "napa",
+    "arti": "utara"
+  },
+  {
+    "kata": "pindondole",
+    "arti": "baring"
+  },
+  {
+    "kata": "kancalaha",
+    "arti": "barter"
+  },
+  {
+    "kata": "baru",
+    "arti": "baru"
+  },
+  {
+    "kata": "mubere",
+    "arti": "basah"
+  },
+  {
+    "kata": "muwei",
+    "arti": "basi"
+  },
+  {
+    "kata": "wulusi",
+    "arti": "basuh"
+  },
+  {
+    "kata": "batala",
+    "arti": "batal"
+  },
+  {
+    "kata": "batako",
+    "arti": "batako"
+  },
+  {
+    "kata": "batasi",
+    "arti": "batas"
+  },
+  {
+    "kata": "kuda",
+    "arti": "batuk"
+  },
+  {
+    "kata": "la'a",
+    "arti": "batang"
+  },
+  {
+    "kata": "wono",
+    "arti": "aroma"
+  },
+  {
+    "kata": "bawa",
+    "arti": "bawa"
+  },
+  {
+    "kata": "woru",
+    "arti": "bawah"
+  },
+  {
+    "kata": "wawo",
+    "arti": "atas"
+  },
+  {
+    "kata": "tonga",
+    "arti": "tengah"
+  },
+  {
+    "kata": "bawa",
+    "arti": "bawang"
+  },
+  {
+    "kata": "baea",
+    "arti": "bayam"
+  },
+  {
+    "kata": "bayara",
+    "arti": "bayar"
+  },
+  {
+    "kata": "sailalo",
+    "arti": "bebas"
+  },
+  {
+    "kata": "pusalai",
+    "arti": "beda"
+  },
+  {
+    "kata": "pukana",
+    "arti": "sama"
+  },
+  {
+    "kata": "bada",
+    "arti": "bedak"
+  },
+  {
+    "kata": "mba'ina",
+    "arti": "begini"
+  },
+  {
+    "kata": "mbacuke'e",
+    "arti": "begitu"
+  },
+  {
+    "kata": "winalu",
+    "arti": "bekal"
+  },
+  {
+    "kata": "bekasi",
+    "arti": "bekas"
+  },
+  {
+    "kata": "bongka",
+    "arti": "belah"
+  },
+  {
+    "kata": "mupisa",
+    "arti": "pecah"
+  },
+  {
+    "kata": "sapulei",
+    "arti": "belai"
+  },
+  {
+    "kata": "balaka",
+    "arti": "belakang"
+  },
+  {
+    "kata": "kaboro",
+    "arti": "belalang"
+  },
+  {
+    "kata": "kaboro jumba",
+    "arti": "belalang sembah"
+  },
+  {
+    "kata": "kamirondo",
+    "arti": "jangkrik"
+  },
+  {
+    "kata": "huleo",
+    "arti": "matahari"
+  },
+  {
+    "kata": "mu'apu",
+    "arti": "sore"
+  },
+  {
+    "kata": "murondo",
+    "arti": "malam"
+  },
+  {
+    "kata": "alo",
+    "arti": "hari"
+  },
+  {
+    "kata": "wula",
+    "arti": "bulan"
+  },
+  {
+    "kata": "jamu",
+    "arti": "jam"
+  },
+  {
+    "kata": "wawala",
+    "arti": "pagi"
+  },
+  {
+    "kata": "kondocua",
+    "arti": "siang"
+  },
+  {
+    "kata": "balu",
+    "arti": "beli"
+  },
+  {
+    "kata": "belo",
+    "arti": "belok"
+  },
+  {
+    "kata": "ciapo",
+    "arti": "belum"
+  },
+  {
+    "kata": "po'olimo",
+    "arti": "sudah"
+  },
+  {
+    "kata": "kanderaha",
+    "arti": "benalu"
+  },
+  {
+    "kata": "banara",
+    "arti": "benar"
+  },
+  {
+    "kata": "badi",
+    "arti": "benci"
+  },
+  {
+    "kata": "bangka",
+    "arti": "bengkak"
+  },
+  {
+    "kata": "lola",
+    "arti": "terbang"
+  },
+  {
+    "kata": "bego",
+    "arti": "bengkok"
+  },
+  {
+    "kata": "bele",
+    "arti": "miring"
+  }
+]
