@@ -1,3110 +1,7330 @@
 [
   {
-    "kata": "iso'o",
-    "arti": "kamu"
+    "adati": "ai",
+    "adat": "adik"
   },
   {
-    "kata": "inda'u",
-    "arti": "saya"
+    "adati": "geru",
+    "adat": "aduk"
   },
   {
-    "kata": "ia",
-    "arti": "dia"
+    "adati": "we'e/ye'e",
+    "adat": "air"
   },
   {
-    "kata": "mo'ia",
-    "arti": "mereka"
+    "adati": "hadari",
+    "adat": "ajar"
   },
   {
-    "kata": "ingkita",
-    "arti": "kita"
+    "adati": "akal",
+    "adat": "akala"
   },
   {
-    "kata": "isimiu",
-    "arti": "kalian"
+    "adati": "purasa",
+    "adat": "akar"
   },
   {
-    "kata": "isami",
-    "arti": "kami"
+    "adati": "pacimburi",
+    "adat": "akhir"
   },
   {
-    "kata": "ama",
-    "arti": "bapak"
+    "adati": "sandi",
+    "adat": "alas tiang rumah panggung, biasanya terbuat dari batu"
   },
   {
-    "kata": "ina",
-    "arti": "ibu"
+    "adati": "dapura",
+    "adat": "alas yang tebuat dari batu atau besi untuk meletakan panci saat memasak"
   },
   {
-    "kata": "aka",
-    "arti": "kakak"
+    "adati": "alati",
+    "adat": "alat"
   },
   {
-    "kata": "ai",
-    "arti": "adik"
+    "adati": "kapasaki",
+    "adat": "alat untuk menghancurkan dengan cara di pukul, biasanya digunakan untuk menghancurkan makanan"
   },
   {
-    "kata": "tolida",
-    "arti": "sepupu"
+    "adati": "sikapu",
+    "adat": "alat untuk menyerut kayu"
   },
   {
-    "kata": "kapele",
-    "arti": "saudara kandung"
+    "adati": "kere",
+    "adat": "alis"
   },
   {
-    "kata": "elea",
-    "arti": "saudara"
+    "adati": "kawasa",
+    "adat": "allah"
   },
   {
-    "kata": "ama pusanao",
-    "arti": "paman"
+    "adati": "ala",
+    "adat": "ambil"
   },
   {
-    "kata": "ina pusanao",
-    "arti": "bibi"
+    "adati": "ane",
+    "adat": "anai"
   },
   {
-    "kata": "tete",
-    "arti": "kakek"
+    "adati": "ungkaka",
+    "adat": "anak"
   },
   {
-    "kata": "nene",
-    "arti": "nenek"
+    "adati": "ka'opu",
+    "adat": "anak bungsu"
   },
   {
-    "kata": "ungkaka",
-    "arti": "anak"
+    "adati": "cumpe",
+    "adat": "anak sulung"
   },
   {
-    "kata": "dawo",
-    "arti": "ipar"
+    "adati": "ana we'e",
+    "adat": "anak tiri"
   },
   {
-    "kata": "cumpe",
-    "arti": "anak sulung"
+    "adati": "ana ngkailu",
+    "adat": "anak yatim"
   },
   {
-    "kata": "ka'opu",
-    "arti": "anak bungsu"
+    "adati": "ancamu",
+    "adat": "ancam"
   },
   {
-    "kata": "meja",
-    "arti": "meja"
+    "adati": "ane",
+    "adat": "andai"
   },
   {
-    "kata": "kurusi",
-    "arti": "kursi"
+    "adati": "agiu",
+    "adat": "aneh"
   },
   {
-    "kata": "lemari",
-    "arti": "lemari"
+    "adati": "ngoi",
+    "adat": "angin"
   },
   {
-    "kata": "kasoro",
-    "arti": "kasur"
+    "adati": "riwu",
+    "adat": "angin yang sangat kencang"
   },
   {
-    "kata": "pulango",
-    "arti": "bantal"
+    "adati": "au",
+    "adat": "anjing"
   },
   {
-    "kata": "pajamara",
-    "arti": "lampu api"
+    "adati": "wasa",
+    "adat": "anyam"
   },
   {
-    "kata": "payasa",
-    "arti": "cermin"
+    "adati": "para'a",
+    "adat": "apa"
   },
   {
-    "kata": "embere",
-    "arti": "ember"
+    "adati": "para'ano",
+    "adat": "apa"
   },
   {
-    "kata": "kasambure",
-    "arti": "sapu"
+    "adati": "api",
+    "adat": "api"
   },
   {
-    "kata": "kampuhaita",
-    "arti": "jemuran"
+    "adati": "wono",
+    "adat": "aroma"
   },
   {
-    "kata": "piri",
-    "arti": "piring"
+    "adati": "kata",
+    "adat": "arti"
   },
   {
-    "kata": "galasi",
-    "arti": "gelas"
+    "adati": "ma'ana",
+    "adat": "arti"
   },
   {
-    "kata": "kasendo",
-    "arti": "sendok"
+    "adati": "popoi",
+    "adat": "asah"
   },
   {
-    "kata": "pisau",
-    "arti": "piso"
+    "adati": "mukolo",
+    "adat": "asam"
   },
   {
-    "kata": "tawe",
-    "arti": "panci"
+    "adati": "hau",
+    "adat": "asap"
   },
   {
-    "kata": "kawali",
-    "arti": "wajan"
+    "adati": "muhai",
+    "adat": "asin"
   },
   {
-    "kata": "komporo",
-    "arti": "kompor"
+    "adati": "hato",
+    "adat": "atap"
   },
   {
-    "kata": "loea",
-    "arti": "loyang"
+    "adati": "wawo",
+    "adat": "atas"
   },
   {
-    "kata": "teremusu",
-    "arti": "termus"
+    "adati": "ka",
+    "adat": "atau"
   },
   {
-    "kata": "cere",
-    "arti": "teko"
+    "adati": "awalu",
+    "adat": "awal"
   },
   {
-    "kata": "kasidu",
-    "arti": "centong"
+    "adati": "olu",
+    "adat": "awan"
   },
   {
-    "kata": "obe",
-    "arti": "obeng"
+    "adati": "pulai",
+    "adat": "awas"
   },
   {
-    "kata": "palu",
-    "arti": "palu"
+    "adati": "kagugura",
+    "adat": "ayakan"
   },
   {
-    "kata": "karakaji",
-    "arti": "gergaji"
+    "adati": "manu",
+    "adat": "ayam"
   },
   {
-    "kata": "obe",
-    "arti": "bor"
+    "adati": "wawi",
+    "adat": "babi"
   },
   {
-    "kata": "paku",
-    "arti": "paku"
+    "adati": "baca",
+    "adat": "baca"
   },
   {
-    "kata": "mitere",
-    "arti": "meteran"
+    "adati": "tamba",
+    "adat": "bacok"
   },
   {
-    "kata": "lemu",
-    "arti": "lem"
+    "adati": "bada",
+    "adat": "badan"
   },
   {
-    "kata": "buku",
-    "arti": "buku"
+    "adati": "rope",
+    "adat": "bagian depan kapal"
   },
   {
-    "kata": "pena",
-    "arti": "pulpen"
+    "adati": "kili",
+    "adat": "bagian selangkangan pada celana"
   },
   {
-    "kata": "katoloti",
-    "arti": "pensil"
+    "adati": "dawua",
+    "adat": "bagian yang didapatkan dari hasil"
   },
   {
-    "kata": "kahapusu",
-    "arti": "penghapus"
+    "adati": "pulu",
+    "adat": "bahasa"
   },
   {
-    "kata": "karatasi",
-    "arti": "kertas"
+    "adati": "babahu",
+    "adat": "bahu"
   },
   {
-    "kata": "tasi",
-    "arti": "tas"
+    "adati": "umela",
+    "adat": "baik"
   },
   {
-    "kata": "loko",
-    "arti": "batu"
+    "adati": "baju",
+    "adat": "baju"
   },
   {
-    "kata": "hone",
-    "arti": "pasir"
+    "adati": "sula",
+    "adat": "bakar"
   },
   {
-    "kata": "wuta",
-    "arti": "tanah"
+    "adati": "bolosi",
+    "adat": "balas"
   },
   {
-    "kata": "gunu",
-    "arti": "gunung"
+    "adati": "bale",
+    "adat": "balik"
   },
   {
-    "kata": "tai",
-    "arti": "laut"
+    "adati": "bani",
+    "adat": "ban"
   },
   {
-    "kata": "we'e/ye'e",
-    "arti": "air"
+    "adati": "bangko",
+    "adat": "bangku"
   },
   {
-    "kata": "olu",
-    "arti": "awan"
+    "adati": "bangu",
+    "adat": "bangun"
   },
   {
-    "kata": "kia",
-    "arti": "hujan"
+    "adati": "pulango",
+    "adat": "bantal"
   },
   {
-    "kata": "wantoloure",
-    "arti": "pelangi"
+    "adati": "banti",
+    "adat": "banting"
   },
   {
-    "kata": "hulunga",
-    "arti": "bayangan"
+    "adati": "hamba",
+    "adat": "bantu"
   },
   {
-    "kata": "gawu",
-    "arti": "debu"
+    "adati": "to'aru",
+    "adat": "banyak"
   },
   {
-    "kata": "ngoi",
-    "arti": "angin"
+    "adati": "ama",
+    "adat": "bapak"
   },
   {
-    "kata": "ka'ana",
-    "arti": "rumah"
+    "adati": "bara",
+    "adat": "barang"
   },
   {
-    "kata": "daoa",
-    "arti": "pasar"
+    "adati": "bara",
+    "adat": "barat"
   },
   {
-    "kata": "karindi",
-    "arti": "dinding"
+    "adati": "pindondole",
+    "adat": "baring"
   },
   {
-    "kata": "hato",
-    "arti": "atap"
+    "adati": "kancalaha",
+    "adat": "barter"
   },
   {
-    "kata": "dompe",
-    "arti": "dompet"
+    "adati": "kasambe",
+    "adat": "barter"
   },
   {
-    "kata": "pau",
-    "arti": "payung"
+    "adati": "baru",
+    "adat": "baru"
   },
   {
-    "kata": "rante",
-    "arti": "kalung"
+    "adati": "mubere",
+    "adat": "basah"
   },
   {
-    "kata": "singkaru",
-    "arti": "cincin"
+    "adati": "mubere",
+    "adat": "basah"
   },
   {
-    "kata": "doe",
-    "arti": "uang"
+    "adati": "muwei",
+    "adat": "basi"
   },
   {
-    "kata": "kalologa",
-    "arti": "koin"
+    "adati": "wulusi",
+    "adat": "basuh"
   },
   {
-    "kata": "uba",
-    "arti": "obat"
+    "adati": "batako",
+    "adat": "batako"
   },
   {
-    "kata": "kasuru",
-    "arti": "sisir"
+    "adati": "batala",
+    "adat": "batal"
   },
   {
-    "kata": "deu",
-    "arti": "jarum"
+    "adati": "la'a",
+    "adat": "batang"
   },
   {
-    "kata": "bana",
-    "arti": "benang"
+    "adati": "batasi",
+    "adat": "batas"
   },
   {
-    "kata": "api",
-    "arti": "api"
+    "adati": "baterei",
+    "adat": "baterai"
   },
   {
-    "kata": "butolo",
-    "arti": "botol"
+    "adati": "loko",
+    "adat": "batu"
   },
   {
-    "kata": "bani",
-    "arti": "ban"
+    "adati": "kuda",
+    "adat": "batuk"
   },
   {
-    "kata": "bendera",
-    "arti": "bendera"
+    "adati": "bawa",
+    "adat": "bawa"
   },
   {
-    "kata": "baterei",
-    "arti": "baterai"
+    "adati": "woru",
+    "adat": "bawah"
   },
   {
-    "kata": "baju",
-    "arti": "baju"
+    "adati": "woru",
+    "adat": "bawah"
   },
   {
-    "kata": "sala",
-    "arti": "celana"
+    "adati": "bawa",
+    "adat": "bawang"
   },
   {
-    "kata": "ceti",
-    "arti": "cat"
+    "adati": "baea",
+    "adat": "bayam"
   },
   {
-    "kata": "esi",
-    "arti": "es"
+    "adati": "hulunga",
+    "adat": "bayangan"
   },
   {
-    "kata": "foto",
-    "arti": "foto"
+    "adati": "bayara",
+    "adat": "bayar"
   },
   {
-    "kata": "felem",
-    "arti": "film"
+    "adati": "sailalo",
+    "adat": "bebas"
   },
   {
-    "kata": "gitara",
-    "arti": "gitar"
+    "adati": "beca",
+    "adat": "becak"
   },
   {
-    "kata": "gunci",
-    "arti": "gunting"
+    "adati": "pusalai",
+    "adat": "beda"
   },
   {
-    "kata": "gola",
-    "arti": "gula"
+    "adati": "bada",
+    "adat": "bedak"
   },
   {
-    "kata": "gabusu",
-    "arti": "gabus"
+    "adati": "mba'ina",
+    "adat": "begini"
   },
   {
-    "kata": "hando",
-    "arti": "handuk"
+    "adati": "mbacuke'e",
+    "adat": "begitu"
   },
   {
-    "kata": "pandi",
-    "arti": "ikat pinggang"
+    "adati": "winalu",
+    "adat": "bekal"
   },
   {
-    "kata": "kakamboba",
-    "arti": "jendela"
+    "adati": "bekasi",
+    "adat": "bekas"
   },
   {
-    "kata": "lala",
-    "arti": "jalan"
+    "adati": "pikarja'a",
+    "adat": "bekerja"
   },
   {
-    "kata": "kunci",
-    "arti": "kajoli"
+    "adati": "ala punambo",
+    "adat": "bekerja untuk mendapatkan upah"
   },
   {
-    "kata": "kancia",
-    "arti": "kain"
+    "adati": "beli",
+    "adat": "bel"
   },
   {
-    "kata": "hagari",
-    "arti": "lantai"
+    "adati": "bongka",
+    "adat": "belah"
   },
   {
-    "kata": "masina",
-    "arti": "mesin"
+    "adati": "sapulei",
+    "adat": "belai"
   },
   {
-    "kata": "oto",
-    "arti": "mobil"
+    "adati": "kampuhadari",
+    "adat": "belajar"
   },
   {
-    "kata": "balobu",
-    "arti": "mankgok"
+    "adati": "balaka",
+    "adat": "belakang"
   },
   {
-    "kata": "noda",
-    "arti": "noda"
+    "adati": "kaboro",
+    "adat": "belalang"
   },
   {
-    "kata": "kahompo",
-    "arti": "pintu"
+    "adati": "kaboro",
+    "adat": "belalang"
   },
   {
-    "kata": "kapupuru",
-    "arti": "resleting"
+    "adati": "kaboro jumba",
+    "adat": "belalang sembah"
   },
   {
-    "kata": "supeda",
-    "arti": "sepeda"
+    "adati": "walanda",
+    "adat": "belanda"
   },
   {
-    "kata": "sabo",
-    "arti": "sabun"
+    "adati": "balu",
+    "adat": "beli"
   },
   {
-    "kata": "tasi",
-    "arti": "tas"
+    "adati": "belo",
+    "adat": "belok"
   },
   {
-    "kata": "pusi",
-    "arti": "ujung"
+    "adati": "ciapo",
+    "adat": "belum"
   },
   {
-    "kata": "pusi",
-    "arti": "pingsan"
+    "adati": "kanderaha",
+    "adat": "benalu"
   },
   {
-    "kata": "tatampa",
-    "arti": "wadah"
+    "adati": "bana",
+    "adat": "benang"
   },
   {
-    "kata": "adati",
-    "arti": "adat"
+    "adati": "banara",
+    "adat": "benar"
   },
   {
-    "kata": "mudindi",
-    "arti": "dingin"
+    "adati": "kana",
+    "adat": "benar"
   },
   {
-    "kata": "musodo/mumpana",
-    "arti": "panas"
+    "adati": "badi",
+    "adat": "benci"
   },
   {
-    "kata": "geru",
-    "arti": "aduk"
+    "adati": "bendera",
+    "adat": "bendera"
   },
   {
-    "kata": "alo",
-    "arti": "hari"
+    "adati": "bangka",
+    "adat": "bengkak"
   },
   {
-    "kata": "ungku",
-    "arti": "panggil"
+    "adati": "bego",
+    "adat": "bengkok"
   },
   {
-    "kata": "kampuhadari",
-    "arti": "belajar"
+    "adati": "wine",
+    "adat": "benih"
   },
   {
-    "kata": "hadari",
-    "arti": "ajar"
+    "adati": "ajo",
+    "adat": "bentuk"
   },
   {
-    "kata": "akal",
-    "arti": "akala"
+    "adati": "kuracu",
+    "adat": "beracun"
   },
   {
-    "kata": "purasa",
-    "arti": "akar"
+    "adati": "paritonga",
+    "adat": "berada ditengah"
   },
   {
-    "kata": "pacimburi",
-    "arti": "akhir"
+    "adati": "pibanaka",
+    "adat": "berak"
   },
   {
-    "kata": "pangulu",
-    "arti": "duluan"
+    "adati": "rame-rame",
+    "adat": "beramai-ramai"
   },
   {
-    "kata": "pukoni",
-    "arti": "kenal"
+    "adati": "baranda",
+    "adat": "beranda"
   },
   {
-    "kata": "pidadi/sayoro",
-    "arti": "sayur"
+    "adati": "barani",
+    "adat": "berani"
   },
   {
-    "kata": "kama'aso",
-    "arti": "lauk"
+    "adati": "popia",
+    "adat": "berapa"
   },
   {
-    "kata": "kepala",
-    "arti": "pocu"
+    "adati": "bae",
+    "adat": "beras"
   },
   {
-    "kata": "hunai",
-    "arti": "cuci"
+    "adati": "muboa",
+    "adat": "berat"
   },
   {
-    "kata": "pihunai",
-    "arti": "cuci piring"
+    "adati": "kunaweo",
+    "adat": "berat"
   },
   {
-    "kata": "pitopa",
-    "arti": "cuci baju"
+    "adati": "lui",
+    "adat": "berbaring disebelah dengan maksud menidurkan"
   },
   {
-    "kata": "pilonu",
-    "arti": "cuci mulut"
+    "adati": "kakabonga",
+    "adat": "bercanda"
   },
   {
-    "kata": "pereku",
-    "arti": "cuci muka"
+    "adati": "tade",
+    "adat": "berdiri"
   },
   {
-    "kata": "alati",
-    "arti": "alat"
+    "adati": "pu'agoi",
+    "adat": "berebut"
   },
   {
-    "kata": "ala",
-    "arti": "ambil"
+    "adati": "pikanangu",
+    "adat": "berenang"
   },
   {
-    "kata": "ancamu",
-    "arti": "ancam"
+    "adati": "bagara",
+    "adat": "bergerak"
   },
   {
-    "kata": "ane",
-    "arti": "andai"
+    "adati": "cingkulu",
+    "adat": "bergerak turun"
   },
   {
-    "kata": "ane",
-    "arti": "anai"
+    "adati": "tara",
+    "adat": "berhenti"
   },
   {
-    "kata": "agiu",
-    "arti": "aneh"
+    "adati": "dawu",
+    "adat": "beri"
   },
   {
-    "kata": "wasa",
-    "arti": "anyam"
+    "adati": "dawu",
+    "adat": "beri"
   },
   {
-    "kata": "ma'ana",
-    "arti": "makna"
+    "adati": "hopali",
+    "adat": "beringin"
   },
   {
-    "kata": "ma'ana",
-    "arti": "arti"
+    "adati": "warero",
+    "adat": "berisik"
   },
   {
-    "kata": "mukolo",
-    "arti": "asam"
+    "adati": "po'omba",
+    "adat": "beritahu"
   },
   {
-    "kata": "mumeko",
-    "arti": "manis"
+    "adati": "putaro",
+    "adat": "berjudi"
   },
   {
-    "kata": "mupaki",
-    "arti": "pahit"
+    "adati": "totolu",
+    "adat": "berjumlah tiga"
   },
   {
-    "kata": "mulala",
-    "arti": "sakit"
+    "adati": "popicu",
+    "adat": "berjumlah tujuh"
   },
   {
-    "kata": "mulala",
-    "arti": "pedas"
+    "adati": "pimbitembite",
+    "adat": "berkata kata"
   },
   {
-    "kata": "mumbaka",
-    "arti": "enak"
+    "adati": "pilanggo",
+    "adat": "berkunjung"
   },
   {
-    "kata": "muhai",
-    "arti": "asin"
+    "adati": "hela",
+    "adat": "berlayar"
   },
   {
-    "kata": "mubuto",
-    "arti": "busuk"
+    "adati": "kulumu",
+    "adat": "berlumut"
   },
   {
-    "kata": "muwondu",
-    "arti": "harum"
+    "adati": "baraba",
+    "adat": "bermain"
   },
   {
-    "kata": "musasu",
-    "arti": "takut"
+    "adati": "babaraba",
+    "adat": "bermain main"
   },
   {
-    "kata": "musili",
-    "arti": "iri"
+    "adati": "barabaci",
+    "adat": "bermain main dengan sesuatu"
   },
   {
-    "kata": "kucio",
-    "arti": "kikir"
+    "adati": "kumina",
+    "adat": "berminyak"
   },
   {
-    "kata": "popoi",
-    "arti": "asah"
+    "adati": "pimodala",
+    "adat": "bermodal"
   },
   {
-    "kata": "hau",
-    "arti": "asap"
+    "adati": "pisina'a",
+    "adat": "bernapas"
   },
   {
-    "kata": "ka",
-    "arti": "atau"
+    "adati": "kunilai",
+    "adat": "bernilai"
   },
   {
-    "kata": "cia",
-    "arti": "tidak"
+    "adati": "pulele",
+    "adat": "bersamaan"
   },
   {
-    "kata": "ombe",
-    "arti": "iya"
+    "adati": "asa-asa",
+    "adat": "bersama-sama"
   },
   {
-    "kata": "andi'ai",
-    "arti": "entah"
+    "adati": "pikangkeda",
+    "adat": "bersandar"
   },
   {
-    "kata": "hawali",
-    "arti": "tapi"
+    "adati": "pisasantai",
+    "adat": "bersantai santai"
   },
   {
-    "kata": "munginci wuku",
-    "arti": "haus"
+    "adati": "pikaropu",
+    "adat": "bersarang"
   },
   {
-    "kata": "muharo",
-    "arti": "lapar"
+    "adati": "kupani",
+    "adat": "bersayap"
   },
   {
-    "kata": "mubunci",
-    "arti": "kenyang"
+    "adati": "mantale",
+    "adat": "berserakan"
   },
   {
-    "kata": "awalu",
-    "arti": "awal"
+    "adati": "pu'I'isoki",
+    "adat": "bersesak sesakan"
   },
   {
-    "kata": "pulai",
-    "arti": "awas"
+    "adati": "sisiapu",
+    "adat": "bersiapu"
   },
   {
-    "kata": "kagugura",
-    "arti": "ayakan"
+    "adati": "barasi",
+    "adat": "bersih"
   },
   {
-    "kata": "pigugura",
-    "arti": "mengayak"
+    "adati": "aciho",
+    "adat": "bersin"
   },
   {
-    "kata": "wawi",
-    "arti": "babi"
+    "adati": "kumbea",
+    "adat": "bersinar"
   },
   {
-    "kata": "ndoke",
-    "arti": "monyet"
+    "adati": "kulabi",
+    "adat": "bersisa"
   },
   {
-    "kata": "baca",
-    "arti": "baca"
+    "adati": "pikawowo",
+    "adat": "bersiul"
   },
   {
-    "kata": "tamba",
-    "arti": "bacok"
+    "adati": "kubamba",
+    "adat": "bersuara"
   },
   {
-    "kata": "dodo",
-    "arti": "potong"
+    "adati": "pibamba-bamba",
+    "adat": "bersuara terus menerus"
   },
   {
-    "kata": "iris",
-    "arti": "die"
+    "adati": "putabraki",
+    "adat": "bertabrakan"
   },
   {
-    "kata": "sumbele",
-    "arti": "sembelih"
+    "adati": "pudangku",
+    "adat": "bertabrakan kepala"
   },
   {
-    "kata": "bada",
-    "arti": "badan"
+    "adati": "kutaku-taku",
+    "adat": "bertahun-tahun"
   },
   {
-    "kata": "ku'ajo",
-    "arti": "seperti"
+    "adati": "citambaki",
+    "adat": "bertambah"
   },
   {
-    "kata": "pukana",
-    "arti": "mirip"
+    "adati": "pilanggo",
+    "adat": "bertamu"
   },
   {
-    "kata": "dawu",
-    "arti": "beri"
+    "adati": "kutandu",
+    "adat": "bertanduk"
   },
   {
-    "kata": "sana",
-    "arti": "senang"
+    "adati": "putangobi",
+    "adat": "bertangkup"
   },
   {
-    "kata": "pulu",
-    "arti": "bahasa"
+    "adati": "pireru",
+    "adat": "berteduh dari hujan"
   },
   {
-    "kata": "babahu",
-    "arti": "bahu"
+    "adati": "pikaka'alua",
+    "adat": "berteduh dari panas matahari"
   },
   {
-    "kata": "umela",
-    "arti": "baik"
+    "adati": "pu'a'andea",
+    "adat": "berteman"
   },
   {
-    "kata": "mudai",
-    "arti": "buruk"
+    "adati": "putabu",
+    "adat": "bertemu"
   },
   {
-    "kata": "sula",
-    "arti": "bakar"
+    "adati": "putabu",
+    "adat": "bertemu"
   },
   {
-    "kata": "bakar",
-    "arti": "cunu"
+    "adati": "pugera",
+    "adat": "bertengkar"
   },
   {
-    "kata": "tapa",
-    "arti": "panggang"
+    "adati": "kuntoa",
+    "adat": "berteriak"
   },
   {
-    "kata": "mungau",
-    "arti": "gosong"
+    "adati": "katotolu",
+    "adat": "bertiga"
   },
   {
-    "kata": "muntaha",
-    "arti": "matang"
+    "adati": "putola-tola",
+    "adat": "bertolak-tolakan"
   },
   {
-    "kata": "mumata",
-    "arti": "mentah"
+    "adati": "pusambe",
+    "adat": "bertukar"
   },
   {
-    "kata": "mata",
-    "arti": "mata"
+    "adati": "pikacubo",
+    "adat": "bertumpu"
   },
   {
-    "kata": "tolinga",
-    "arti": "telinga"
+    "adati": "kukua",
+    "adat": "beruban"
   },
   {
-    "kata": "ngo'o",
-    "arti": "hidung"
+    "adati": "kapipindua",
+    "adat": "berulang-ulang"
   },
   {
-    "kata": "baga",
-    "arti": "pipi"
+    "adati": "kudawua",
+    "adat": "beruntung"
   },
   {
-    "kata": "ngi'i",
-    "arti": "gigi"
+    "adati": "samponi",
+    "adat": "besan"
   },
   {
-    "kata": "wusa",
-    "arti": "dahi"
+    "adati": "to'owa",
+    "adat": "besar"
   },
   {
-    "kata": "wusa",
-    "arti": "ubun-ubun"
+    "adati": "ase",
+    "adat": "besi"
   },
   {
-    "kata": "pocu",
-    "arti": "rambut"
+    "adati": "nabita",
+    "adat": "besok"
   },
   {
-    "kata": "kabulu pocu",
-    "arti": "kepala"
+    "adati": "nabita murondo",
+    "adat": "besok malam"
   },
   {
-    "kata": "katoa",
-    "arti": "keher"
+    "adati": "wici",
+    "adat": "betis"
   },
   {
-    "kata": "lima",
-    "arti": "tangan"
+    "adati": "kana",
+    "adat": "betul"
   },
   {
-    "kata": "wunga",
-    "arti": "jari"
+    "adati": "ina pusanao",
+    "adat": "bibi"
   },
   {
-    "kata": "kake",
-    "arti": "kaki"
+    "adati": "wiwi",
+    "adat": "bibir"
   },
   {
-    "kata": "wici",
-    "arti": "betis"
+    "adati": "wiwi",
+    "adat": "bibir"
   },
   {
-    "kata": "paha",
-    "arti": "paha"
+    "adati": "pugau",
+    "adat": "bicara"
   },
   {
-    "kata": "kuni",
-    "arti": "pantat"
+    "adati": "buku",
+    "adat": "biji"
   },
   {
-    "kata": "perut",
-    "arti": "hawa"
+    "adati": "po'oomba",
+    "adat": "bilang"
   },
   {
-    "kata": "toruku",
-    "arti": "punggung"
+    "adati": "kadadi",
+    "adat": "binatang"
   },
   {
-    "kata": "buku",
-    "arti": "tulang"
+    "adati": "bingu",
+    "adat": "bingung"
   },
   {
-    "kata": "rea",
-    "arti": "darah"
+    "adati": "wicuko",
+    "adat": "bintang"
   },
   {
-    "kata": "kunusu",
-    "arti": "kuku"
+    "adati": "mbali",
+    "adat": "bisa"
   },
   {
-    "kata": "ela",
-    "arti": "lidah"
+    "adati": "kakasa",
+    "adat": "bisik"
   },
   {
-    "kata": "wulu",
-    "arti": "bulu"
+    "adati": "kakunaweo",
+    "adat": "bobot"
   },
   {
-    "kata": "cu'u",
-    "arti": "lutut"
+    "adati": "musonbu",
+    "adat": "bocor"
   },
   {
-    "kata": "jangku",
-    "arti": "jenggot"
+    "adati": "kabodo",
+    "adat": "bodoh"
   },
   {
-    "kata": "supi",
-    "arti": "kumis"
+    "adati": "kulaba",
+    "adat": "bohong"
   },
   {
-    "kata": "kere",
-    "arti": "alis"
+    "adati": "bola",
+    "adat": "bola"
   },
   {
-    "kata": "cici",
-    "arti": "payudara"
+    "adati": "bula bale",
+    "adat": "bolak balik/mondar mandir"
   },
   {
-    "kata": "tuwuni",
-    "arti": "pusar"
+    "adati": "buneka",
+    "adat": "boneka"
   },
   {
-    "kata": "lolosua",
-    "arti": "sendi"
+    "adati": "bongkara",
+    "adat": "bongkar"
   },
   {
-    "kata": "sina'a",
-    "arti": "napas"
+    "adati": "obe",
+    "adat": "bor"
   },
   {
-    "kata": "bolosi",
-    "arti": "balas"
+    "adati": "boronga",
+    "adat": "borong"
   },
   {
-    "kata": "bale",
-    "arti": "balik"
+    "adati": "bota",
+    "adat": "botak"
   },
   {
-    "kata": "bangko",
-    "arti": "bangku"
+    "adati": "butolo",
+    "adat": "botol"
   },
   {
-    "kata": "bangu",
-    "arti": "bangun"
+    "adati": "wua",
+    "adat": "buah"
   },
   {
-    "kata": "banti",
-    "arti": "banting"
+    "adati": "kabi",
+    "adat": "buang"
   },
   {
-    "kata": "hamba",
-    "arti": "bantu"
+    "adati": "pakana",
+    "adat": "buat"
   },
   {
-    "kata": "to'aru",
-    "arti": "banyak"
+    "adati": "lembu",
+    "adat": "buih"
   },
   {
-    "kata": "bara",
-    "arti": "barang"
+    "adati": "tataku",
+    "adat": "bujuk"
   },
   {
-    "kata": "bara",
-    "arti": "barat"
+    "adati": "lengka",
+    "adat": "buka"
   },
   {
-    "kata": "cimburu",
-    "arti": "timur"
+    "adati": "nciano",
+    "adat": "bukan"
   },
   {
-    "kata": "salata",
-    "arti": "selatan"
+    "adati": "toruku",
+    "adat": "bukit"
   },
   {
-    "kata": "napa",
-    "arti": "utara"
+    "adati": "buku",
+    "adat": "buku"
   },
   {
-    "kata": "pindondole",
-    "arti": "baring"
+    "adati": "wula",
+    "adat": "bulan"
   },
   {
-    "kata": "kancalaha",
-    "arti": "barter"
+    "adati": "bobolu",
+    "adat": "bulat"
   },
   {
-    "kata": "baru",
-    "arti": "baru"
+    "adati": "wulu",
+    "adat": "bulu"
   },
   {
-    "kata": "mubere",
-    "arti": "basah"
+    "adati": "wulu",
+    "adat": "bulu"
   },
   {
-    "kata": "muwei",
-    "arti": "basi"
+    "adati": "rampa",
+    "adat": "bumbu"
   },
   {
-    "kata": "wulusi",
-    "arti": "basuh"
+    "adati": "bobolu",
+    "adat": "bundar"
   },
   {
-    "kata": "batala",
-    "arti": "batal"
+    "adati": "kamba",
+    "adat": "bunga"
   },
   {
-    "kata": "batako",
-    "arti": "batako"
+    "adati": "bongko",
+    "adat": "bungkuk"
   },
   {
-    "kata": "batasi",
-    "arti": "batas"
+    "adati": "bungkusi",
+    "adat": "bungkus"
   },
   {
-    "kata": "kuda",
-    "arti": "batuk"
+    "adati": "pongko",
+    "adat": "bunuh"
   },
   {
-    "kata": "la'a",
-    "arti": "batang"
+    "adati": "mudai",
+    "adat": "buruk"
   },
   {
-    "kata": "wono",
-    "arti": "aroma"
+    "adati": "ngkamanu-manu",
+    "adat": "burung"
   },
   {
-    "kata": "bawa",
-    "arti": "bawa"
+    "adati": "lembu",
+    "adat": "busa"
   },
   {
-    "kata": "woru",
-    "arti": "bawah"
+    "adati": "mubuto",
+    "adat": "busuk"
   },
   {
-    "kata": "wawo",
-    "arti": "atas"
+    "adati": "ngkawilo",
+    "adat": "buta"
   },
   {
-    "kata": "tonga",
-    "arti": "tengah"
+    "adati": "saha",
+    "adat": "cabai"
   },
   {
-    "kata": "bawa",
-    "arti": "bawang"
+    "adati": "raha",
+    "adat": "cabang"
   },
   {
-    "kata": "baea",
-    "arti": "bayam"
+    "adati": "howu",
+    "adat": "cabut"
   },
   {
-    "kata": "bayara",
-    "arti": "bayar"
+    "adati": "utu",
+    "adat": "cacar"
   },
   {
-    "kata": "sailalo",
-    "arti": "bebas"
+    "adati": "kabonga",
+    "adat": "canda"
   },
   {
-    "kata": "pusalai",
-    "arti": "beda"
+    "adati": "managada",
+    "adat": "cantik"
   },
   {
-    "kata": "pukana",
-    "arti": "sama"
+    "adati": "cara",
+    "adat": "cara"
   },
   {
-    "kata": "bada",
-    "arti": "bedak"
+    "adati": "kamata",
+    "adat": "cari"
   },
   {
-    "kata": "mba'ina",
-    "arti": "begini"
+    "adati": "ceti",
+    "adat": "cat"
   },
   {
-    "kata": "mbacuke'e",
-    "arti": "begitu"
+    "adati": "caturu",
+    "adat": "catur"
   },
   {
-    "kata": "winalu",
-    "arti": "bekal"
+    "adati": "sala",
+    "adat": "celana"
   },
   {
-    "kata": "bekasi",
-    "arti": "bekas"
+    "adati": "sala kodo",
+    "adat": "celana dalam"
   },
   {
-    "kata": "bongka",
-    "arti": "belah"
+    "adati": "colo",
+    "adat": "celup"
   },
   {
-    "kata": "mupisa",
-    "arti": "pecah"
+    "adati": "pabui",
+    "adat": "cemberut"
   },
   {
-    "kata": "sapulei",
-    "arti": "belai"
+    "adati": "kasidu",
+    "adat": "centong"
   },
   {
-    "kata": "balaka",
-    "arti": "belakang"
+    "adati": "marimba",
+    "adat": "cepat"
   },
   {
-    "kata": "kaboro",
-    "arti": "belalang"
+    "adati": "puga'a",
+    "adat": "cerai"
   },
   {
-    "kata": "kaboro jumba",
-    "arti": "belalang sembah"
+    "adati": "cucula",
+    "adat": "cerita"
   },
   {
-    "kata": "kamirondo",
-    "arti": "jangkrik"
+    "adati": "payasa",
+    "adat": "cermin"
   },
   {
-    "kata": "huleo",
-    "arti": "matahari"
+    "adati": "singkaru",
+    "adat": "cincin"
   },
   {
-    "kata": "mu'apu",
-    "arti": "sore"
+    "adati": "tertukar",
+    "adat": "cisambe"
   },
   {
-    "kata": "murondo",
-    "arti": "malam"
+    "adati": "piwono",
+    "adat": "cium"
   },
   {
-    "kata": "alo",
-    "arti": "hari"
+    "adati": "bobo",
+    "adat": "cium"
   },
   {
-    "kata": "wula",
-    "arti": "bulan"
+    "adati": "coba",
+    "adat": "coba"
   },
   {
-    "kata": "jamu",
-    "arti": "jam"
+    "adati": "coco",
+    "adat": "cocok"
   },
   {
-    "kata": "wawala",
-    "arti": "pagi"
+    "adati": "kambabawa",
+    "adat": "congklak"
   },
   {
-    "kata": "kondocua",
-    "arti": "siang"
+    "adati": "conto",
+    "adat": "contoh"
   },
   {
-    "kata": "balu",
-    "arti": "beli"
+    "adati": "coro",
+    "adat": "cor"
   },
   {
-    "kata": "belo",
-    "arti": "belok"
+    "adati": "core",
+    "adat": "coret"
   },
   {
-    "kata": "ciapo",
-    "arti": "belum"
+    "adati": "kudai/kuadi",
+    "adat": "cubit"
   },
   {
-    "kata": "po'olimo",
-    "arti": "sudah"
+    "adati": "hunai",
+    "adat": "cuci"
   },
   {
-    "kata": "kanderaha",
-    "arti": "benalu"
+    "adati": "pitopa",
+    "adat": "cuci baju"
   },
   {
-    "kata": "banara",
-    "arti": "benar"
+    "adati": "pereku",
+    "adat": "cuci muka"
   },
   {
-    "kata": "badi",
-    "arti": "benci"
+    "adati": "pilonu",
+    "adat": "cuci mulut"
   },
   {
-    "kata": "bangka",
-    "arti": "bengkak"
+    "adati": "pihunai",
+    "adat": "cuci piring"
   },
   {
-    "kata": "lola",
-    "arti": "terbang"
+    "adati": "ompu-ompu",
+    "adat": "cucu"
   },
   {
-    "kata": "bego",
-    "arti": "bengkok"
+    "adati": "cucuru",
+    "adat": "cucur"
   },
   {
-    "kata": "bele",
-    "arti": "miring"
+    "adati": "hawite",
+    "adat": "Cuma"
   },
   {
-    "kata": "wine",
-    "arti": "benih"
+    "adati": "cungkeli",
+    "adat": "cungkil"
   },
   {
-    "kata": "mowine",
-    "arti": "perempuan"
+    "adati": "bakar",
+    "adat": "cunu"
   },
   {
-    "kata": "muhane",
-    "arti": "laki-laki"
+    "adati": "pakaco",
+    "adat": "curang"
   },
   {
-    "kata": "ajo",
-    "arti": "bentuk"
+    "adati": "mbulaku",
+    "adat": "curi"
   },
   {
-    "kata": "pibanaka",
-    "arti": "berak"
+    "adati": "curiga",
+    "adat": "curiga"
   },
   {
-    "kata": "baranda",
-    "arti": "beranda"
+    "adati": "kakara",
+    "adat": "dada"
   },
   {
-    "kata": "barani",
-    "arti": "berani"
+    "adati": "dadara",
+    "adat": "dadar"
   },
   {
-    "kata": "popia",
-    "arti": "berapa"
+    "adati": "pudaga",
+    "adat": "dagang"
   },
   {
-    "kata": "bae",
-    "arti": "beras"
+    "adati": "dage",
+    "adat": "daging"
   },
   {
-    "kata": "muboa",
-    "arti": "berat"
+    "adati": "koha",
+    "adat": "dahak"
   },
   {
-    "kata": "dawu",
-    "arti": "beri"
+    "adati": "wusa",
+    "adat": "dahi"
   },
   {
-    "kata": "hopali",
-    "arti": "beringin"
+    "adati": "ende",
+    "adat": "dahi"
   },
   {
-    "kata": "warero",
-    "arti": "berisik"
+    "adati": "ambulea",
+    "adat": "dahulu"
   },
   {
-    "kata": "po'omba",
-    "arti": "beritahu"
+    "adati": "rasi",
+    "adat": "daki"
   },
   {
-    "kata": "barasi",
-    "arti": "bersih"
+    "adati": "kundalo",
+    "adat": "dalam"
   },
   {
-    "kata": "aciho",
-    "arti": "bersin"
+    "adati": "lalo",
+    "adat": "dalam"
   },
   {
-    "kata": "to'owa",
-    "arti": "besar"
+    "adati": "mai",
+    "adat": "dan"
   },
   {
-    "kata": "ase",
-    "arti": "besi"
+    "adati": "pamboke",
+    "adat": "dandan"
   },
   {
-    "kata": "kana",
-    "arti": "betul"
+    "adati": "mbali",
+    "adat": "dapat"
   },
   {
-    "kata": "kana",
-    "arti": "benar"
+    "adati": "hawu",
+    "adat": "dapur"
   },
   {
-    "kata": "wiwi",
-    "arti": "bibir"
+    "adati": "rea",
+    "adat": "darah"
   },
   {
-    "kata": "pugau",
-    "arti": "bicara"
+    "adati": "mina",
+    "adat": "dari"
   },
   {
-    "kata": "buku",
-    "arti": "biji"
+    "adati": "mina aso",
+    "adat": "dari"
   },
   {
-    "kata": "po'oomba",
-    "arti": "bilang"
+    "adati": "dasi",
+    "adat": "dasi"
   },
   {
-    "kata": "kadadi",
-    "arti": "binatang"
+    "adati": "bundo",
+    "adat": "datang"
   },
   {
-    "kata": "bingu",
-    "arti": "bingung"
+    "adati": "ro'o",
+    "adat": "daun"
   },
   {
-    "kata": "wicuko",
-    "arti": "bintang"
+    "adati": "bose",
+    "adat": "dayung"
   },
   {
-    "kata": "mbali",
-    "arti": "bisa"
+    "adati": "putaloi",
+    "adat": "debat"
   },
   {
-    "kata": "kakasa",
-    "arti": "bisik"
+    "adati": "gawu",
+    "adat": "debu"
   },
   {
-    "kata": "musonbu",
-    "arti": "bocor"
+    "adati": "gawu",
+    "adat": "debu"
   },
   {
-    "kata": "kakunaweo",
-    "arti": "bobot"
+    "adati": "tatangku",
+    "adat": "dekat"
   },
   {
-    "kata": "kunaweo",
-    "arti": "berat"
+    "adati": "denda",
+    "adat": "denda"
   },
   {
-    "kata": "kabodo",
-    "arti": "bodoh"
+    "adati": "ropa",
+    "adat": "depa"
   },
   {
-    "kata": "kulaba",
-    "arti": "bohong"
+    "adati": "haroa",
+    "adat": "depan"
   },
   {
-    "kata": "bola",
-    "arti": "bola"
+    "adati": "muranca",
+    "adat": "deras"
   },
   {
-    "kata": "buneka",
-    "arti": "boneka"
+    "adati": "desa",
+    "adat": "desa"
   },
   {
-    "kata": "bongkara",
-    "arti": "bongkar"
+    "adati": "lupa",
+    "adat": "dewasa"
   },
   {
-    "kata": "boronga",
-    "arti": "borong"
+    "adati": "i",
+    "adat": "di"
   },
   {
-    "kata": "bota",
-    "arti": "botak"
+    "adati": "ia",
+    "adat": "dia"
   },
   {
-    "kata": "wua",
-    "arti": "buah"
+    "adati": "ti",
+    "adat": "diam"
   },
   {
-    "kata": "kabi",
-    "arti": "buang"
+    "adati": "pu'ambalia",
+    "adat": "diantara dua benda"
   },
   {
-    "kata": "ngga'aso",
-    "arti": "untuk"
+    "adati": "rende",
+    "adat": "didih"
   },
   {
-    "kata": "pakana",
-    "arti": "buat"
+    "adati": "iris",
+    "adat": "die"
   },
   {
-    "kata": "tataku",
-    "arti": "bujuk"
+    "adati": "karindi",
+    "adat": "dinding"
   },
   {
-    "kata": "lengka",
-    "arti": "buka"
+    "adati": "karindi",
+    "adat": "dinding"
   },
   {
-    "kata": "nciano",
-    "arti": "bukan"
+    "adati": "mudindi",
+    "adat": "dingin"
   },
   {
-    "kata": "toruku",
-    "arti": "bukit"
+    "adati": "cipi'uba",
+    "adat": "diobati"
   },
   {
-    "kata": "bobolu",
-    "arti": "bulat"
+    "adati": "kaminaki",
+    "adat": "dioles dengan minyak atau sesuatu yang berminyak"
   },
   {
-    "kata": "rampa",
-    "arti": "bumbu"
+    "adati": "doa",
+    "adat": "doa"
   },
   {
-    "kata": "bobolu",
-    "arti": "bundar"
+    "adati": "batata",
+    "adat": "doa selamat"
   },
   {
-    "kata": "kamba",
-    "arti": "bunga"
+    "adati": "doktere",
+    "adat": "dokter"
   },
   {
-    "kata": "bongko",
-    "arti": "bungkuk"
+    "adati": "dompe",
+    "adat": "dompet"
   },
   {
-    "kata": "bungkusi",
-    "arti": "bungkus"
+    "adati": "lai-lai",
+    "adat": "dongeng"
   },
   {
-    "kata": "pongko",
-    "arti": "bunuh"
+    "adati": "doro",
+    "adat": "dorong"
   },
   {
-    "kata": "wulu",
-    "arti": "bulu"
+    "adati": "dosa",
+    "adat": "dosa"
   },
   {
-    "kata": "ngkamanu-manu",
-    "arti": "burung"
+    "adati": "rua",
+    "adat": "dua"
   },
   {
-    "kata": "lembu",
-    "arti": "busa"
+    "adati": "hora",
+    "adat": "duduk"
   },
   {
-    "kata": "lembu",
-    "arti": "buih"
+    "adati": "pubali",
+    "adat": "duel"
   },
   {
-    "kata": "ngkawilo",
-    "arti": "buta"
+    "adati": "bisa",
+    "adat": "dukun"
   },
   {
-    "kata": "saha",
-    "arti": "cabai"
+    "adati": "duku",
+    "adat": "dukung"
   },
   {
-    "kata": "raha",
-    "arti": "cabang"
+    "adati": "pangulu",
+    "adat": "duluan"
   },
   {
-    "kata": "howu",
-    "arti": "cabut"
+    "adati": "donia",
+    "adat": "dunia"
   },
   {
-    "kata": "utu",
-    "arti": "cacar"
+    "adati": "dupa",
+    "adat": "dupan"
   },
   {
-    "kata": "kabonga",
-    "arti": "canda"
+    "adati": "rui",
+    "adat": "duri"
   },
   {
-    "kata": "kakabonga",
-    "arti": "bercanda"
+    "adati": "laba",
+    "adat": "dusta"
   },
   {
-    "kata": "managada",
-    "arti": "cantik"
+    "adati": "lalangu",
+    "adat": "ejek"
   },
   {
-    "kata": "cara",
-    "arti": "cara"
+    "adati": "kapui",
+    "adat": "ekor"
   },
   {
-    "kata": "kamata",
-    "arti": "cari"
+    "adati": "nini",
+    "adat": "elastis"
   },
   {
-    "kata": "pikamata",
-    "arti": "mencari"
+    "adati": "bulawa",
+    "adat": "emas"
   },
   {
-    "kata": "caturu",
-    "arti": "catur"
+    "adati": "embere",
+    "adat": "ember"
   },
   {
-    "kata": "colo",
-    "arti": "celup"
+    "adati": "luha",
+    "adat": "embun"
   },
   {
-    "kata": "pabui",
-    "arti": "cemberut"
+    "adati": "emosi",
+    "adat": "emosi"
   },
   {
-    "kata": "marimba",
-    "arti": "cepat"
+    "adati": "hopiu",
+    "adat": "empedu"
   },
   {
-    "kata": "puga'a",
-    "arti": "cerai"
+    "adati": "mumbaka",
+    "adat": "enak"
   },
   {
-    "kata": "cucula",
-    "arti": "cerita"
+    "adati": "no'o",
+    "adat": "enam"
   },
   {
-    "kata": "piwono",
-    "arti": "cium"
+    "adati": "kunau",
+    "adat": "enau"
   },
   {
-    "kata": "coba",
-    "arti": "coba"
+    "adati": "andi'ai",
+    "adat": "entah"
   },
   {
-    "kata": "coco",
-    "arti": "cocok"
+    "adati": "esi",
+    "adat": "es"
   },
   {
-    "kata": "colok",
-    "arti": "rumba"
+    "adati": "ombak",
+    "adat": "ewo"
   },
   {
-    "kata": "conto",
-    "arti": "contoh"
+    "adati": "mpadea",
+    "adat": "faedah"
   },
   {
-    "kata": "coro",
-    "arti": "cor"
+    "adati": "kape'elua",
+    "adat": "favorit"
   },
   {
-    "kata": "core",
-    "arti": "coret"
+    "adati": "felem",
+    "adat": "film"
   },
   {
-    "kata": "kudai/kuadi",
-    "arti": "cubit"
+    "adati": "pandasi",
+    "adat": "fondasi"
   },
   {
-    "kata": "ompu-ompu",
-    "arti": "cucu"
+    "adati": "foto",
+    "adat": "foto"
   },
   {
-    "kata": "cucuru",
-    "arti": "cucur"
+    "adati": "gabo",
+    "adat": "gabung"
   },
   {
-    "kata": "hawite",
-    "arti": "Cuma"
+    "adati": "gabusu",
+    "adat": "gabus"
   },
   {
-    "kata": "cungkeli",
-    "arti": "cungkil"
+    "adati": "gabusu",
+    "adat": "gabus"
   },
   {
-    "kata": "pakaco",
-    "arti": "curang"
+    "adati": "gade",
+    "adat": "gadai"
   },
   {
-    "kata": "mbulaku",
-    "arti": "curi"
+    "adati": "kalambe",
+    "adat": "gadis"
   },
   {
-    "kata": "curiga",
-    "arti": "curiga"
+    "adati": "ngggangga",
+    "adat": "gagak"
   },
   {
-    "kata": "kakara",
-    "arti": "dada"
+    "adati": "gagala",
+    "adat": "gagal"
   },
   {
-    "kata": "dadara",
-    "arti": "dadar"
+    "adati": "gaja",
+    "adat": "gajah"
   },
   {
-    "kata": "pudaga",
-    "arti": "dagang"
+    "adati": "punambo",
+    "adat": "gaji"
   },
   {
-    "kata": "dage",
-    "arti": "daging"
+    "adati": "musega",
+    "adat": "galak"
   },
   {
-    "kata": "dagu",
-    "arti": "hae"
+    "adati": "pungali",
+    "adat": "gali"
   },
   {
-    "kata": "koha",
-    "arti": "dahak"
+    "adati": "lilit",
+    "adat": "galigu"
   },
   {
-    "kata": "dahan",
-    "arti": "raha"
+    "adati": "gambara",
+    "adat": "gambar"
   },
   {
-    "kata": "ende",
-    "arti": "dahi"
+    "adati": "gampa",
+    "adat": "gampang"
   },
   {
-    "kata": "ambulea",
-    "arti": "dahulu"
+    "adati": "topa",
+    "adat": "gampar"
   },
   {
-    "kata": "rasi",
-    "arti": "daki"
+    "adati": "tonda",
+    "adat": "gandeng"
   },
   {
-    "kata": "kundalo",
-    "arti": "dalam"
+    "adati": "sasalowo",
+    "adat": "ganggu"
   },
   {
-    "kata": "bundo",
-    "arti": "datang"
+    "adati": "ganjala",
+    "adat": "ganjal"
   },
   {
-    "kata": "torampe",
-    "arti": "terdampar"
+    "adati": "managada",
+    "adat": "ganteng"
   },
   {
-    "kata": "mai",
-    "arti": "dan"
+    "adati": "ganti",
+    "adat": "ganti"
   },
   {
-    "kata": "pamboke",
-    "arti": "dandan"
+    "adati": "kantai",
+    "adat": "gantung"
   },
   {
-    "kata": "mbali",
-    "arti": "dapat"
+    "adati": "raepi",
+    "adat": "gapai"
   },
   {
-    "kata": "hawu",
-    "arti": "dapur"
+    "adati": "gagauta",
+    "adat": "gara-gara"
   },
   {
-    "kata": "mina",
-    "arti": "dari"
+    "adati": "gara",
+    "adat": "garam"
   },
   {
-    "kata": "dasi",
-    "arti": "dasi"
+    "adati": "kabori",
+    "adat": "garis"
   },
   {
-    "kata": "ro'o",
-    "arti": "daun"
+    "adati": "kusai",
+    "adat": "garuk"
   },
   {
-    "kata": "bose",
-    "arti": "dayung"
+    "adati": "gasi",
+    "adat": "gas"
   },
   {
-    "kata": "putaloi",
-    "arti": "debat"
+    "adati": "gasi",
+    "adat": "gasing"
   },
   {
-    "kata": "gawu",
-    "arti": "debu"
+    "adati": "muhaito",
+    "adat": "gatal"
   },
   {
-    "kata": "tatangku",
-    "arti": "dekat"
+    "adati": "gawa",
+    "adat": "gawang"
   },
   {
-    "kata": "denda",
-    "arti": "denda"
+    "adati": "gaea",
+    "adat": "gaya"
   },
   {
-    "kata": "ropa",
-    "arti": "depa"
+    "adati": "kasiwu",
+    "adat": "gayung"
   },
   {
-    "kata": "haroa",
-    "arti": "depan"
+    "adati": "gala",
+    "adat": "gelang"
   },
   {
-    "kata": "muranca",
-    "arti": "deras"
+    "adati": "kaluntai",
+    "adat": "gelantung"
   },
   {
-    "kata": "desa",
-    "arti": "desa"
+    "adati": "murondo",
+    "adat": "gelap"
   },
   {
-    "kata": "i",
-    "arti": "di"
+    "adati": "galasi",
+    "adat": "gelas"
   },
   {
-    "kata": "ti",
-    "arti": "diam"
+    "adati": "galasi",
+    "adat": "gelas"
   },
   {
-    "kata": "rende",
-    "arti": "didih"
+    "adati": "manangkiri",
+    "adat": "geli"
   },
   {
-    "kata": "tade",
-    "arti": "berdiri"
+    "adati": "dolo",
+    "adat": "gelinding"
   },
   {
-    "kata": "doa",
-    "arti": "doa"
+    "adati": "balisa",
+    "adat": "gelisah"
   },
   {
-    "kata": "doktere",
-    "arti": "dokter"
+    "adati": "kikiri",
+    "adat": "gelitik"
   },
   {
-    "kata": "lai-lai",
-    "arti": "dongeng"
+    "adati": "pucumbu",
+    "adat": "gelut"
   },
   {
-    "kata": "doro",
-    "arti": "dorong"
+    "adati": "heja",
+    "adat": "gembira"
   },
   {
-    "kata": "dosa",
-    "arti": "dosa"
+    "adati": "kaloali",
+    "adat": "gempa"
   },
   {
-    "kata": "rua",
-    "arti": "dua"
+    "adati": "kaloali",
+    "adat": "gempa"
   },
   {
-    "kata": "hora",
-    "arti": "duduk"
+    "adati": "to'owa buku/to'oga buku",
+    "adat": "gemuk"
   },
   {
-    "kata": "pubali",
-    "arti": "duel"
+    "adati": "kalende",
+    "adat": "genangan air"
   },
   {
-    "kata": "bisa",
-    "arti": "dukun"
+    "adati": "ganda",
+    "adat": "gendang"
   },
   {
-    "kata": "duku",
-    "arti": "dukung"
+    "adati": "hawi",
+    "adat": "gendong"
   },
   {
-    "kata": "donia",
-    "arti": "dunia"
+    "adati": "kopo",
+    "adat": "genggam"
   },
   {
-    "kata": "dupa",
-    "arti": "dupan"
+    "adati": "kumbu",
+    "adat": "genggam"
   },
   {
-    "kata": "rui",
-    "arti": "duri"
+    "adati": "garaka",
+    "adat": "gerak"
   },
   {
-    "kata": "laba",
-    "arti": "dusta"
+    "adati": "karakaji",
+    "adat": "gergaji"
   },
   {
-    "kata": "lalangu",
-    "arti": "ejek"
+    "adati": "nabu-nabu",
+    "adat": "gerimis"
   },
   {
-    "kata": "kapui",
-    "arti": "ekor"
+    "adati": "gurinda",
+    "adat": "gerinda"
   },
   {
-    "kata": "nini",
-    "arti": "elastis"
+    "adati": "pagi",
+    "adat": "gesek"
   },
   {
-    "kata": "bulawa",
-    "arti": "emas"
+    "adati": "gata",
+    "adat": "getah"
   },
   {
-    "kata": "luha",
-    "arti": "embun"
+    "adati": "ngi'i",
+    "adat": "gigi"
   },
   {
-    "kata": "emosi",
-    "arti": "emosi"
+    "adati": "ngi'i",
+    "adat": "gigi"
   },
   {
-    "kata": "hopiu",
-    "arti": "empedu"
+    "adati": "kuci",
+    "adat": "gigit"
   },
   {
-    "kata": "no'o",
-    "arti": "enam"
+    "adati": "kondu",
+    "adat": "gila"
   },
   {
-    "kata": "kunau",
-    "arti": "enau"
+    "adati": "gili",
+    "adat": "giling"
   },
   {
-    "kata": "nabita",
-    "arti": "besok"
+    "adati": "kagili",
+    "adat": "gilingan"
   },
   {
-    "kata": "mpadea",
-    "arti": "faedah"
+    "adati": "gitara",
+    "adat": "gitar"
   },
   {
-    "kata": "kape'elua",
-    "arti": "favorit"
+    "adati": "giji",
+    "adat": "gizi"
   },
   {
-    "kata": "pandasi",
-    "arti": "fondasi"
+    "adati": "goda",
+    "adat": "goda"
   },
   {
-    "kata": "gabo",
-    "arti": "gabung"
+    "adati": "golo",
+    "adat": "gol"
   },
   {
-    "kata": "gabusu",
-    "arti": "gabus"
+    "adati": "kerongkongan",
+    "adat": "gonco"
   },
   {
-    "kata": "gade",
-    "arti": "gadai"
+    "adati": "wonca",
+    "adat": "gonggong"
   },
   {
-    "kata": "gaja",
-    "arti": "gajah"
+    "adati": "gore",
+    "adat": "goreng"
   },
   {
-    "kata": "kalambe",
-    "arti": "gadis"
+    "adati": "goso",
+    "adat": "gosok"
   },
   {
-    "kata": "ngggangga",
-    "arti": "gagak"
+    "adati": "mungau",
+    "adat": "gosong"
   },
   {
-    "kata": "gagala",
-    "arti": "gagal"
+    "adati": "goea",
+    "adat": "goyang"
   },
   {
-    "kata": "punambo",
-    "arti": "gaji"
+    "adati": "gratisi",
+    "adat": "gratis"
   },
   {
-    "kata": "musega",
-    "arti": "galak"
+    "adati": "lia",
+    "adat": "gua"
   },
   {
-    "kata": "pungali",
-    "arti": "gali"
+    "adati": "boboru",
+    "adat": "gubuk"
   },
   {
-    "kata": "gambara",
-    "arti": "gambar"
+    "adati": "guda",
+    "adat": "gudang"
   },
   {
-    "kata": "managada",
-    "arti": "ganteng"
+    "adati": "gola",
+    "adat": "gula"
   },
   {
-    "kata": "ganti",
-    "arti": "ganti"
+    "adati": "gola",
+    "adat": "gula"
   },
   {
-    "kata": "kantai",
-    "arti": "gantung"
+    "adati": "gulu",
+    "adat": "gulung"
   },
   {
-    "kata": "raepi",
-    "arti": "gapai"
+    "adati": "mpadea",
+    "adat": "guna"
   },
   {
-    "kata": "gagauta",
-    "arti": "gara-gara"
+    "adati": "goge",
+    "adat": "guncang"
   },
   {
-    "kata": "gara",
-    "arti": "garam"
+    "adati": "gunci",
+    "adat": "gunting"
   },
   {
-    "kata": "kabori",
-    "arti": "garis"
+    "adati": "gunci",
+    "adat": "gunting"
   },
   {
-    "kata": "bori",
-    "arti": "menggaris"
+    "adati": "rundu",
+    "adat": "guntur"
   },
   {
-    "kata": "gampa",
-    "arti": "gampang"
+    "adati": "gunu",
+    "adat": "gunung"
   },
   {
-    "kata": "topa",
-    "arti": "gampar"
+    "adati": "guru",
+    "adat": "guru"
   },
   {
-    "kata": "tonda",
-    "arti": "gandeng"
+    "adati": "gusuru",
+    "adat": "gusur"
   },
   {
-    "kata": "ganda",
-    "arti": "gendang"
+    "adati": "wuri",
+    "adat": "guyur"
   },
   {
-    "kata": "sasalowo",
-    "arti": "ganggu"
+    "adati": "habisi",
+    "adat": "habis"
   },
   {
-    "kata": "ganjala",
-    "arti": "ganjal"
+    "adati": "haropi",
+    "adat": "hadap"
   },
   {
-    "kata": "kusai",
-    "arti": "garuk"
+    "adati": "hadia",
+    "adat": "hadiah"
   },
   {
-    "kata": "gasi",
-    "arti": "gas"
+    "adati": "bundo",
+    "adat": "hadir"
   },
   {
-    "kata": "gasi",
-    "arti": "gasing"
+    "adati": "dagu",
+    "adat": "hae"
   },
   {
-    "kata": "muhaito",
-    "arti": "gatal"
+    "adati": "hapala",
+    "adat": "hafal"
   },
   {
-    "kata": "gawa",
-    "arti": "gawang"
+    "adati": "halala",
+    "adat": "halal"
   },
   {
-    "kata": "gaea",
-    "arti": "gaya"
+    "adati": "halusu",
+    "adat": "halus"
   },
   {
-    "kata": "kasiwu",
-    "arti": "gayung"
+    "adati": "palei",
+    "adat": "hambat"
   },
   {
-    "kata": "gala",
-    "arti": "gelang"
+    "adati": "naide",
+    "adat": "hampir"
   },
   {
-    "kata": "kaluntai",
-    "arti": "gelantung"
+    "adati": "ancoro",
+    "adat": "hancur"
   },
   {
-    "kata": "galapu",
-    "arti": "gelap"
+    "adati": "hando",
+    "adat": "handuk"
   },
   {
-    "kata": "galasi",
-    "arti": "gelas"
+    "adati": "hando",
+    "adat": "handuk"
   },
   {
-    "kata": "rundu",
-    "arti": "guntur"
+    "adati": "masosodo",
+    "adat": "hangat"
   },
   {
-    "kata": "manangkiri",
-    "arti": "geli"
+    "adati": "mungau",
+    "adat": "hangus"
   },
   {
-    "kata": "sindoli",
-    "arti": "tergelincir"
+    "adati": "jini",
+    "adat": "hantu"
   },
   {
-    "kata": "dolo",
-    "arti": "gelinding"
+    "adati": "hawite",
+    "adat": "hanya"
   },
   {
-    "kata": "balisa",
-    "arti": "gelisah"
+    "adati": "hapusu",
+    "adat": "hapus"
   },
   {
-    "kata": "kikiri",
-    "arti": "gelitik"
+    "adati": "haramu",
+    "adat": "haram"
   },
   {
-    "kata": "pucumbu",
-    "arti": "gelut"
+    "adati": "harapu",
+    "adat": "harap"
   },
   {
-    "kata": "heja",
-    "arti": "gembira"
+    "adati": "harga",
+    "adat": "harga"
   },
   {
-    "kata": "kaloali",
-    "arti": "gempa"
+    "adati": "alo",
+    "adat": "hari"
   },
   {
-    "kata": "to'owa buku/to'oga buku",
-    "arti": "gemuk"
+    "adati": "alo",
+    "adat": "hari"
   },
   {
-    "kata": "kalende",
-    "arti": "genangan air"
+    "adati": "alo",
+    "adat": "hari"
   },
   {
-    "kata": "pikalende",
-    "arti": "menggenang"
+    "adati": "huleo",
+    "adat": "hari"
   },
   {
-    "kata": "hawi",
-    "arti": "gendong"
+    "adati": "harta",
+    "adat": "harta"
   },
   {
-    "kata": "kopo",
-    "arti": "genggam"
+    "adati": "muwondu",
+    "adat": "harum"
   },
   {
-    "kata": "kumbu",
-    "arti": "genggam"
+    "adati": "harus",
+    "adat": "harus"
   },
   {
-    "kata": "garaka",
-    "arti": "gerak"
+    "adati": "hasili",
+    "adat": "hasil"
   },
   {
-    "kata": "bagara",
-    "arti": "bergerak"
+    "adati": "sawu",
+    "adat": "hasut"
   },
   {
-    "kata": "pikarakaji",
-    "arti": "menggergaji"
+    "adati": "hate",
+    "adat": "hati"
   },
   {
-    "kata": "nabu-nabu",
-    "arti": "gerimis"
+    "adati": "pingkana'aso",
+    "adat": "hati-hati"
   },
   {
-    "kata": "gurinda",
-    "arti": "gerinda"
+    "adati": "munginci wuku",
+    "adat": "haus"
   },
   {
-    "kata": "pagi",
-    "arti": "gesek"
+    "adati": "perut",
+    "adat": "hawa"
   },
   {
-    "kata": "geser",
-    "arti": "hui"
+    "adati": "bana",
+    "adat": "helai"
   },
   {
-    "kata": "gata",
-    "arti": "getah"
+    "adati": "hemati",
+    "adat": "hemat"
   },
   {
-    "kata": "ngi'i",
-    "arti": "gigi"
+    "adati": "malionga",
+    "adat": "hening"
   },
   {
-    "kata": "bingkuku",
-    "arti": "menggigil"
+    "adati": "kaba",
+    "adat": "heran"
   },
   {
-    "kata": "kuci",
-    "arti": "gigit"
+    "adati": "ngo'o",
+    "adat": "hidung"
   },
   {
-    "kata": "kukuci",
-    "arti": "menggigit"
+    "adati": "dadi",
+    "adat": "hidup"
   },
   {
-    "kata": "kondu",
-    "arti": "gila"
+    "adati": "muijo",
+    "adat": "hijau"
   },
   {
-    "kata": "gili",
-    "arti": "giling"
+    "adati": "cikabi",
+    "adat": "hilang"
   },
   {
-    "kata": "kagili",
-    "arti": "gilingan"
+    "adati": "hina",
+    "adat": "hina"
   },
   {
-    "kata": "giji",
-    "arti": "gizi"
+    "adati": "tai",
+    "adat": "hinggap"
   },
   {
-    "kata": "goda",
-    "arti": "goda"
+    "adati": "mukito",
+    "adat": "hitam"
   },
   {
-    "kata": "golo",
-    "arti": "gol"
+    "adati": "gagari/reke",
+    "adat": "hitung"
   },
   {
-    "kata": "wonca",
-    "arti": "gonggong"
+    "adati": "mungiwa",
+    "adat": "hiu"
   },
   {
-    "kata": "gore",
-    "arti": "goreng"
+    "adati": "hobi",
+    "adat": "hobi"
   },
   {
-    "kata": "goso",
-    "arti": "gosok"
+    "adati": "hormati",
+    "adat": "hormat"
   },
   {
-    "kata": "goea",
-    "arti": "goyang"
+    "adati": "geser",
+    "adat": "hui"
   },
   {
-    "kata": "gratisi",
-    "arti": "gratis"
+    "adati": "kia",
+    "adat": "hujan"
   },
   {
-    "kata": "lia",
-    "arti": "gua"
+    "adati": "kia",
+    "adat": "hujan"
   },
   {
-    "kata": "guda",
-    "arti": "gudang"
+    "adati": "hukumu",
+    "adat": "hukum"
   },
   {
-    "kata": "gola",
-    "arti": "gula"
+    "adati": "miaci",
+    "adat": "huni"
   },
   {
-    "kata": "gulu",
-    "arti": "gulung"
+    "adati": "hurupu",
+    "adat": "huruf"
   },
   {
-    "kata": "mpadea",
-    "arti": "guna"
+    "adati": "karompu",
+    "adat": "hutan"
   },
   {
-    "kata": "goge",
-    "arti": "guncang"
+    "adati": "iblisi",
+    "adat": "iblis"
   },
   {
-    "kata": "gunci",
-    "arti": "gunting"
+    "adati": "ina",
+    "adat": "ibu"
   },
   {
-    "kata": "guru",
-    "arti": "guru"
+    "adati": "isa",
+    "adat": "ikan"
   },
   {
-    "kata": "gusuru",
-    "arti": "gusur"
+    "adati": "boke",
+    "adat": "ikat"
   },
   {
-    "kata": "wuri",
-    "arti": "guyur"
+    "adati": "kampurui",
+    "adat": "ikat kepala tradisional"
   },
   {
-    "kata": "habisi",
-    "arti": "habis"
+    "adati": "pandi",
+    "adat": "ikat pinggang"
   },
   {
-    "kata": "haropi",
-    "arti": "hadap"
+    "adati": "hokolo",
+    "adat": "ikut"
   },
   {
-    "kata": "hadia",
-    "arti": "hadiah"
+    "adati": "ilmu",
+    "adat": "ilmu"
   },
   {
-    "kata": "bundo",
-    "arti": "hadir"
+    "adati": "imamu",
+    "adat": "imam"
   },
   {
-    "kata": "hapala",
-    "arti": "hafal"
+    "adati": "emani",
+    "adat": "iman"
   },
   {
-    "kata": "halala",
-    "arti": "halal"
+    "adati": "ingati",
+    "adat": "ingat"
   },
   {
-    "kata": "halusu",
-    "arti": "halus"
+    "adati": "tabea",
+    "adat": "ingin"
   },
   {
-    "kata": "palei",
-    "arti": "hambat"
+    "adati": "momo",
+    "adat": "ingus"
   },
   {
-    "kata": "naide",
-    "arti": "hampir"
+    "adati": "ina'a",
+    "adat": "ini"
   },
   {
-    "kata": "ancoro",
-    "arti": "hancur"
+    "adati": "pindai",
+    "adat": "injak"
   },
   {
-    "kata": "hando",
-    "arti": "handuk"
+    "adati": "anca",
+    "adat": "insang"
   },
   {
-    "kata": "masosodo",
-    "arti": "hangat"
+    "adati": "dawo",
+    "adat": "ipar"
   },
   {
-    "kata": "mungau",
-    "arti": "hangus"
+    "adati": "dawo",
+    "adat": "ipar laki-laki"
   },
   {
-    "kata": "jini",
-    "arti": "hantu"
+    "adati": "ka'ewa",
+    "adat": "ipar perempuan"
   },
   {
-    "kata": "hawite",
-    "arti": "hanya"
+    "adati": "musili",
+    "adat": "iri"
   },
   {
-    "kata": "hapusu",
-    "arti": "hapus"
+    "adati": "die",
+    "adat": "iris"
   },
   {
-    "kata": "haramu",
-    "arti": "haram"
+    "adati": "gomi",
+    "adat": "isap"
   },
   {
-    "kata": "harapu",
-    "arti": "harap"
+    "adati": "isi",
+    "adat": "isi"
   },
   {
-    "kata": "harga",
-    "arti": "harga"
+    "adati": "pilawe",
+    "adat": "istirahat"
   },
   {
-    "kata": "alo",
-    "arti": "hari"
+    "adati": "mowine",
+    "adat": "istri"
   },
   {
-    "kata": "harta",
-    "arti": "harta"
+    "adati": "lele",
+    "adat": "isu, berita"
   },
   {
-    "kata": "harus",
-    "arti": "harus"
+    "adati": "incua",
+    "adat": "itu"
   },
   {
-    "kata": "hasili",
-    "arti": "hasil"
+    "adati": "ombe",
+    "adat": "iya"
   },
   {
-    "kata": "sawu",
-    "arti": "hasut"
+    "adati": "iji",
+    "adat": "izin"
   },
   {
-    "kata": "hate",
-    "arti": "hati"
+    "adati": "pu'unta lima",
+    "adat": "jabat tangan"
   },
   {
-    "kata": "pingkana'aso",
-    "arti": "hati-hati"
+    "adati": "mimbali",
+    "adat": "jadi"
   },
   {
-    "kata": "bana",
-    "arti": "helai"
+    "adati": "hondoi",
+    "adat": "jaga"
   },
   {
-    "kata": "hemati",
-    "arti": "hemat"
+    "adati": "katela",
+    "adat": "jagung"
   },
   {
-    "kata": "malionga",
-    "arti": "hening"
+    "adati": "musega",
+    "adat": "jahat"
   },
   {
-    "kata": "tara",
-    "arti": "berhenti"
+    "adati": "deu",
+    "adat": "jahit"
   },
   {
-    "kata": "kaba",
-    "arti": "heran"
+    "adati": "lala",
+    "adat": "jalan"
   },
   {
-    "kata": "dadi",
-    "arti": "hidup"
+    "adati": "lala",
+    "adat": "jalan"
   },
   {
-    "kata": "muijo",
-    "arti": "hijau"
+    "adati": "jamu",
+    "adat": "jam"
   },
   {
-    "kata": "cikabi",
-    "arti": "hilang"
+    "adati": "jamu",
+    "adat": "jam"
   },
   {
-    "kata": "hina",
-    "arti": "hina"
+    "adati": "jamba",
+    "adat": "jamban"
   },
   {
-    "kata": "lindo",
-    "arti": "menghindar"
+    "adati": "jambu",
+    "adat": "jambu"
   },
   {
-    "kata": "tai",
-    "arti": "hinggap"
+    "adati": "jambu jene",
+    "adat": "jambu air"
   },
   {
-    "kata": "mukito",
-    "arti": "hitam"
+    "adati": "buamalaka",
+    "adat": "jambu biji"
   },
   {
-    "kata": "gagari/reke",
-    "arti": "hitung"
+    "adati": "ku'u",
+    "adat": "jamur"
   },
   {
-    "kata": "mungiwa",
-    "arti": "hiu"
+    "adati": "iaro",
+    "adat": "janda"
   },
   {
-    "kata": "hobi",
-    "arti": "hobi"
+    "adati": "kolie",
+    "adat": "jangan"
   },
   {
-    "kata": "hormati",
-    "arti": "hormat"
+    "adati": "jangku",
+    "adat": "janggut"
   },
   {
-    "kata": "kia",
-    "arti": "hujan"
+    "adati": "kalabu",
+    "adat": "jangkar"
   },
   {
-    "kata": "hukumu",
-    "arti": "hukum"
+    "adati": "kamirondo",
+    "adat": "jangkrik"
   },
   {
-    "kata": "miaci",
-    "arti": "huni"
+    "adati": "janji",
+    "adat": "janji"
   },
   {
-    "kata": "hurupu",
-    "arti": "huruf"
+    "adati": "janto",
+    "adat": "jantung"
   },
   {
-    "kata": "karompu",
-    "arti": "hutan"
+    "adati": "kambilai",
+    "adat": "jarak"
   },
   {
-    "kata": "iblisi",
-    "arti": "iblis"
+    "adati": "mulaka",
+    "adat": "jarang"
   },
   {
-    "kata": "holo",
-    "arti": "mengidam"
+    "adati": "wunga",
+    "adat": "jari"
   },
   {
-    "kata": "salambiwi",
-    "arti": "mengigau"
+    "adati": "jare",
+    "adat": "jaring"
   },
   {
-    "kata": "isa",
-    "arti": "ikan"
+    "adati": "deu",
+    "adat": "jarum"
   },
   {
-    "kata": "boke",
-    "arti": "ikat"
+    "adati": "daci",
+    "adat": "jati"
   },
   {
-    "kata": "hokolo",
-    "arti": "ikut"
+    "adati": "bua",
+    "adat": "jatuh"
   },
   {
-    "kata": "ilmu",
-    "arti": "ilmu"
+    "adati": "mbilai",
+    "adat": "jauh"
   },
   {
-    "kata": "imamu",
-    "arti": "imam"
+    "adati": "jawapu",
+    "adat": "jawab"
   },
   {
-    "kata": "emani",
-    "arti": "iman"
+    "adati": "kapindasa",
+    "adat": "jejak kaki"
   },
   {
-    "kata": "ingati",
-    "arti": "ingat"
+    "adati": "jelasi",
+    "adat": "jelas"
   },
   {
-    "kata": "tabea",
-    "arti": "ingin"
+    "adati": "kadai",
+    "adat": "jelek"
   },
   {
-    "kata": "momo",
-    "arti": "ingus"
+    "adati": "jambata",
+    "adat": "jembatan"
   },
   {
-    "kata": "ina'a",
-    "arti": "ini"
+    "adati": "lawaci",
+    "adat": "jemput"
   },
   {
-    "kata": "pindai",
-    "arti": "injak"
+    "adati": "puhai",
+    "adat": "jemur"
   },
   {
-    "kata": "anca",
-    "arti": "insang"
+    "adati": "kampuhaita",
+    "adat": "jemuran"
   },
   {
-    "kata": "die",
-    "arti": "iris"
+    "adati": "kakamboba",
+    "adat": "jendela"
   },
   {
-    "kata": "gomi",
-    "arti": "isap"
+    "adati": "jangku",
+    "adat": "jenggot"
   },
   {
-    "kata": "gogomi",
-    "arti": "mengisap"
+    "adati": "cuda",
+    "adat": "jengkal"
   },
   {
-    "kata": "isi",
-    "arti": "isi"
+    "adati": "polonga",
+    "adat": "jenguk"
   },
   {
-    "kata": "pilawe",
-    "arti": "istirahat"
+    "adati": "kulengku'u",
+    "adat": "jentik"
   },
   {
-    "kata": "mowine",
-    "arti": "istri"
+    "adati": "japa",
+    "adat": "jepang"
   },
   {
-    "kata": "incua",
-    "arti": "itu"
+    "adati": "gepe",
+    "adat": "jepit"
   },
   {
-    "kata": "iji",
-    "arti": "izin"
+    "adati": "ka'ela",
+    "adat": "jerat"
   },
   {
-    "kata": "pu'unta lima",
-    "arti": "jabat tangan"
+    "adati": "samua",
+    "adat": "jerawat"
   },
   {
-    "kata": "mimbali",
-    "arti": "jadi"
+    "adati": "ceregeni",
+    "adat": "jerigen"
   },
   {
-    "kata": "hondoi",
-    "arti": "jaga"
+    "adati": "aki",
+    "adat": "jerit"
   },
   {
-    "kata": "katela",
-    "arti": "jagung"
+    "adati": "mu'ini",
+    "adat": "jijik"
   },
   {
-    "kata": "musega",
-    "arti": "jahat"
+    "adati": "elaki",
+    "adat": "jilat"
   },
   {
-    "kata": "deu",
-    "arti": "jahit"
+    "adati": "hajima",
+    "adat": "jimat"
   },
   {
-    "kata": "daci",
-    "arti": "jati"
+    "adati": "munea",
+    "adat": "jinak"
   },
   {
-    "kata": "lala",
-    "arti": "jalan"
+    "adati": "temba",
+    "adat": "jinjing"
   },
   {
-    "kata": "jamu",
-    "arti": "jam"
+    "adati": "karara",
+    "adat": "jiplak"
   },
   {
-    "kata": "jamba",
-    "arti": "jamban"
+    "adati": "jodo",
+    "adat": "jodoh"
   },
   {
-    "kata": "jambu",
-    "arti": "jambu"
+    "adati": "joge",
+    "adat": "joget"
   },
   {
-    "kata": "jambu jene",
-    "arti": "jambu air"
+    "adati": "cudai",
+    "adat": "jolok"
   },
   {
-    "kata": "buamalaka",
-    "arti": "jambu biji"
+    "adati": "cimu'ini",
+    "adat": "jorok"
   },
   {
-    "kata": "ku'u",
-    "arti": "jamur"
+    "adati": "aso",
+    "adat": "jual"
   },
   {
-    "kata": "iaro",
-    "arti": "janda"
+    "adati": "asoa",
+    "adat": "jualan"
   },
   {
-    "kata": "kolie",
-    "arti": "jangan"
+    "adati": "judulu",
+    "adat": "judul"
   },
   {
-    "kata": "jangku",
-    "arti": "janggut"
+    "adati": "uka",
+    "adat": "juga"
   },
   {
-    "kata": "kalabu",
-    "arti": "jangkar"
+    "adati": "jujuru",
+    "adat": "jujur"
   },
   {
-    "kata": "janji",
-    "arti": "janji"
+    "adati": "pu'ulu",
+    "adat": "julur"
   },
   {
-    "kata": "janto",
-    "arti": "jantung"
+    "adati": "juma",
+    "adat": "jum'at"
   },
   {
-    "kata": "kambilai",
-    "arti": "jarak"
+    "adati": "kabara",
+    "adat": "kabar"
   },
   {
-    "kata": "mulaka",
-    "arti": "jarang"
+    "adati": "kabele",
+    "adat": "kabel"
   },
   {
-    "kata": "jare",
-    "arti": "jaring"
+    "adati": "kaca",
+    "adat": "kaca"
   },
   {
-    "kata": "bua",
-    "arti": "jatuh"
+    "adati": "kaco",
+    "adat": "kacau"
   },
   {
-    "kata": "mbilai",
-    "arti": "jauh"
+    "adati": "mahalalo",
+    "adat": "kaget"
   },
   {
-    "kata": "jawapu",
-    "arti": "jawab"
+    "adati": "kancia",
+    "adat": "kain"
   },
   {
-    "kata": "kapindasa",
-    "arti": "jejak kaki"
+    "adati": "kunci",
+    "adat": "kajoli"
   },
   {
-    "kata": "jelasi",
-    "arti": "jelas"
+    "adati": "aka",
+    "adat": "kakak"
   },
   {
-    "kata": "kadai",
-    "arti": "jelek"
+    "adati": "tete",
+    "adat": "kakek"
   },
   {
-    "kata": "jambata",
-    "arti": "jembatan"
+    "adati": "kake",
+    "adat": "kaki"
   },
   {
-    "kata": "lawaci",
-    "arti": "jemput"
+    "adati": "kaku",
+    "adat": "kaku"
   },
   {
-    "kata": "puhai",
-    "arti": "jemur"
+    "adati": "mutalo",
+    "adat": "kalah"
   },
   {
-    "kata": "cuda",
-    "arti": "jengkal"
+    "adati": "kangkagima",
+    "adat": "kalajengking"
   },
   {
-    "kata": "polonga",
-    "arti": "jenguk"
+    "adati": "ane",
+    "adat": "kalau"
   },
   {
-    "kata": "gepe",
-    "arti": "jepit"
+    "adati": "isimiu",
+    "adat": "kalian"
   },
   {
-    "kata": "kulengku'u",
-    "arti": "jentik"
+    "adati": "rante",
+    "adat": "kalung"
   },
   {
-    "kata": "ka'ela",
-    "arti": "jerat"
+    "adati": "kamara",
+    "adat": "kamar"
   },
   {
-    "kata": "samua",
-    "arti": "jerawat"
+    "adati": "bembe",
+    "adat": "kambing"
   },
   {
-    "kata": "ceregeni",
-    "arti": "jerigen"
+    "adati": "isami",
+    "adat": "kami"
   },
   {
-    "kata": "aki",
-    "arti": "jerit"
+    "adati": "hamisi",
+    "adat": "kamis"
   },
   {
-    "kata": "mu'ini",
-    "arti": "jijik"
+    "adati": "iso'o",
+    "adat": "kamu"
   },
   {
-    "kata": "elaki",
-    "arti": "jilat"
+    "adati": "suana",
+    "adat": "kanan"
   },
   {
-    "kata": "hajima",
-    "arti": "jimat"
+    "adati": "kakunci",
+    "adat": "kancing"
   },
   {
-    "kata": "munea",
-    "arti": "jinak"
+    "adati": "katondo",
+    "adat": "kandang"
   },
   {
-    "kata": "temba",
-    "arti": "jinjing"
+    "adati": "kangko",
+    "adat": "kangkung"
   },
   {
-    "kata": "karara",
-    "arti": "jiplak"
+    "adati": "ndamu",
+    "adat": "kapak"
   },
   {
-    "kata": "jodo",
-    "arti": "jodoh"
+    "adati": "kapala",
+    "adat": "kapal"
   },
   {
-    "kata": "joge",
-    "arti": "joget"
+    "adati": "naipia",
+    "adat": "kapan"
   },
   {
-    "kata": "cudai",
-    "arti": "jolok"
+    "adati": "kapa",
+    "adat": "kapas"
   },
   {
-    "kata": "cimu'ini",
-    "arti": "jorok"
+    "adati": "manda'a",
+    "adat": "kapok"
   },
   {
-    "kata": "aso",
-    "arti": "jual"
+    "adati": "kakawu",
+    "adat": "kapuk"
   },
   {
-    "kata": "para'aso",
-    "arti": "menjual"
+    "adati": "kaporo",
+    "adat": "kapur"
   },
   {
-    "kata": "asoa",
-    "arti": "jualan"
+    "adati": "karet",
+    "adat": "karet"
   },
   {
-    "kata": "putaro",
-    "arti": "berjudi"
+    "adati": "kartu",
+    "adat": "kartu"
   },
   {
-    "kata": "judulu",
-    "arti": "judul"
+    "adati": "kadu",
+    "adat": "karung"
   },
   {
-    "kata": "uka",
-    "arti": "juga"
+    "adati": "kasara",
+    "adat": "kasar"
   },
   {
-    "kata": "jujuru",
-    "arti": "jujur"
+    "adati": "kaseti",
+    "adat": "kaset"
   },
   {
-    "kata": "pu'ulu",
-    "arti": "julur"
+    "adati": "kasida",
+    "adat": "kasidah"
   },
   {
-    "kata": "juma",
-    "arti": "jum'at"
+    "adati": "kasoro",
+    "adat": "kasur"
   },
   {
-    "kata": "kabara",
-    "arti": "kabar"
+    "adati": "kasoro",
+    "adat": "kasur"
   },
   {
-    "kata": "kabele",
-    "arti": "kabel"
+    "adati": "ompong",
+    "adat": "katongka"
   },
   {
-    "kata": "kaca",
-    "arti": "kaca"
+    "adati": "kausu",
+    "adat": "kaus"
   },
   {
-    "kata": "kaco",
-    "arti": "kacau"
+    "adati": "sabangka",
+    "adat": "kawan"
   },
   {
-    "kata": "mahalalo",
-    "arti": "kaget"
+    "adati": "kawi",
+    "adat": "kawin"
   },
   {
-    "kata": "kaku",
-    "arti": "kaku"
+    "adati": "putodeaso",
+    "adat": "kawin lari"
   },
   {
-    "kata": "mutalo",
-    "arti": "kalah"
+    "adati": "kaea",
+    "adat": "kaya"
   },
   {
-    "kata": "ane",
-    "arti": "kalau"
+    "adati": "sau",
+    "adat": "kayu"
   },
   {
-    "kata": "kamara",
-    "arti": "kamar"
+    "adati": "raba-raba",
+    "adat": "kayu kayu kecil"
   },
   {
-    "kata": "hamisi",
-    "arti": "kamis"
+    "adati": "pi'ulu ulu",
+    "adat": "keadaan dimana suatu benda menjulur"
   },
   {
-    "kata": "suana",
-    "arti": "kanan"
+    "adati": "mutongka",
+    "adat": "keadaan mata pisau, parang atau kapak yang terlepas sebagian"
   },
   {
-    "kata": "kakunci",
-    "arti": "kancing"
+    "adati": "saki-saki",
+    "adat": "keadaan suatu benda yang tinggal sedikit"
   },
   {
-    "kata": "katondo",
-    "arti": "kandang"
+    "adati": "kanipi",
+    "adat": "keadaan suatu benda yang tipis"
   },
   {
-    "kata": "kangko",
-    "arti": "kangkung"
+    "adati": "kabala",
+    "adat": "kebal"
   },
   {
-    "kata": "ndamu",
-    "arti": "kapak"
+    "adati": "hamota",
+    "adat": "kebun"
   },
   {
-    "kata": "kapala",
-    "arti": "kapal"
+    "adati": "kubamba",
+    "adat": "kecoak"
   },
   {
-    "kata": "naipia",
-    "arti": "kapan"
+    "adati": "ero",
+    "adat": "kedip"
   },
   {
-    "kata": "kapa",
-    "arti": "kapas"
+    "adati": "pajere",
+    "adat": "kejar"
   },
   {
-    "kata": "manda'a",
-    "arti": "kapok"
+    "adati": "kaladi",
+    "adat": "keladi/talas"
   },
   {
-    "kata": "kakawu",
-    "arti": "kapuk"
+    "adati": "kolambu",
+    "adat": "kelambu"
   },
   {
-    "kata": "kaporo",
-    "arti": "kapur"
+    "adati": "kunde'e",
+    "adat": "kelapa"
   },
   {
-    "kata": "karat",
-    "arti": "rende"
+    "adati": "sesenga",
+    "adat": "kelapa sangrai"
   },
   {
-    "kata": "karet",
-    "arti": "karet"
+    "adati": "kalasi",
+    "adat": "kelas"
   },
   {
-    "kata": "kartu",
-    "arti": "kartu"
+    "adati": "kaloa",
+    "adat": "kelelawar"
   },
   {
-    "kata": "kadu",
-    "arti": "karung"
+    "adati": "baguli/muti",
+    "adat": "kelereng"
   },
   {
-    "kata": "kasara",
-    "arti": "kasar"
+    "adati": "ci'ita",
+    "adat": "kelihatan"
   },
   {
-    "kata": "kaseti",
-    "arti": "kaset"
+    "adati": "ci'ita",
+    "adat": "kelihatan/tampak"
   },
   {
-    "kata": "kasida",
-    "arti": "kasidah"
+    "adati": "kulili",
+    "adat": "keliling"
   },
   {
-    "kata": "kasoro",
-    "arti": "kasur"
+    "adati": "kancili",
+    "adat": "kelingking"
   },
   {
-    "kata": "pugau",
-    "arti": "perkataan"
+    "adati": "pa'andea",
+    "adat": "keluar rumah untuk bermain, nongkrong atau jalan-jalan"
   },
   {
-    "kata": "kausu",
-    "arti": "kaus"
+    "adati": "kaluarga",
+    "adat": "keluarga"
   },
   {
-    "kata": "sabangka",
-    "arti": "kawan"
+    "adati": "karonto",
+    "adat": "kelurusan"
   },
   {
-    "kata": "sabangka",
-    "arti": "teman"
+    "adati": "kamampoa",
+    "adat": "kemampuan"
   },
   {
-    "kata": "kawi",
-    "arti": "kawin"
+    "adati": "panahuleo",
+    "adat": "kemarau"
   },
   {
-    "kata": "kaea",
-    "arti": "kaya"
+    "adati": "maipo",
+    "adat": "kemari"
   },
   {
-    "kata": "sau",
-    "arti": "kayu"
+    "adati": "hanowia murondo",
+    "adat": "kemarin malam"
   },
   {
-    "kata": "kabala",
-    "arti": "kebal"
+    "adati": "kamba",
+    "adat": "kembang"
   },
   {
-    "kata": "hamota",
-    "arti": "kebun"
+    "adati": "rapi",
+    "adat": "kembar"
   },
   {
-    "kata": "beca",
-    "arti": "becak"
+    "adati": "lembe",
+    "adat": "kembung"
   },
   {
-    "kata": "ero",
-    "arti": "kedip"
+    "adati": "kameja",
+    "adat": "kemeja"
   },
   {
-    "kata": "pajere",
-    "arti": "kejar"
+    "adati": "kumundi",
+    "adat": "kemiri"
   },
   {
-    "kata": "kunde'e",
-    "arti": "kelapa"
+    "adati": "uli",
+    "adat": "kemudi"
   },
   {
-    "kata": "kalasi",
-    "arti": "kelas"
+    "adati": "aipomo",
+    "adat": "kemungkinan"
   },
   {
-    "kata": "kaloa",
-    "arti": "kelelawar"
+    "adati": "tawa/rapo",
+    "adat": "kena"
   },
   {
-    "kata": "baguli/muti",
-    "arti": "kelereng"
+    "adati": "pitabu ka'amaraki",
+    "adat": "kena marah"
   },
   {
-    "kata": "kulili",
-    "arti": "keliling"
+    "adati": "pukoni",
+    "adat": "kenal"
   },
   {
-    "kata": "kancili",
-    "arti": "kelingking"
+    "adati": "pukoni",
+    "adat": "kenal"
   },
   {
-    "kata": "kaluarga",
-    "arti": "keluarga"
+    "adati": "kenanga",
+    "adat": "kenangan"
   },
   {
-    "kata": "cipisili",
-    "arti": "terkelupas"
+    "adati": "pilele'e",
+    "adat": "kencing"
   },
   {
-    "kata": "panahuleo",
-    "arti": "kemarau"
+    "adati": "deleni",
+    "adat": "kenyal"
   },
   {
-    "kata": "maipo",
-    "arti": "kemari"
+    "adati": "mubunci",
+    "adat": "kenyang"
   },
   {
-    "kata": "kamba",
-    "arti": "kembang"
+    "adati": "mubunci",
+    "adat": "kenyang"
   },
   {
-    "kata": "rapi",
-    "arti": "kembar"
+    "adati": "kumbu",
+    "adat": "kepal"
   },
   {
-    "kata": "lembe",
-    "arti": "kembung"
+    "adati": "kabulu pocu",
+    "adat": "kepala"
   },
   {
-    "kata": "kameja",
-    "arti": "kemeja"
+    "adati": "ronci",
+    "adat": "kerak"
   },
   {
-    "kata": "kumundi",
-    "arti": "kemiri"
+    "adati": "karamu",
+    "adat": "keram"
   },
   {
-    "kata": "uli",
-    "arti": "kemudi"
+    "adati": "karamea",
+    "adat": "keramaian"
   },
   {
-    "kata": "tawa/rapo",
-    "arti": "kena"
+    "adati": "kalangka",
+    "adat": "keranjang"
   },
   {
-    "kata": "pajala",
-    "arti": "mengemudikan"
+    "adati": "mucuka",
+    "adat": "keras"
   },
   {
-    "kata": "pukoni",
-    "arti": "kenal"
+    "adati": "kemasukan",
+    "adat": "kerasukan"
   },
   {
-    "kata": "koni",
-    "arti": "mengenal"
+    "adati": "kari",
+    "adat": "kering"
   },
   {
-    "kata": "kenanga",
-    "arti": "kenangan"
+    "adati": "hanci",
+    "adat": "keringat"
   },
   {
-    "kata": "pilele'e",
-    "arti": "kencing"
+    "adati": "keripi",
+    "adat": "keripik"
   },
   {
-    "kata": "deleni",
-    "arti": "kenyal"
+    "adati": "ginggi",
+    "adat": "keriting"
   },
   {
-    "kata": "mubunci",
-    "arti": "kenyang"
+    "adati": "karaja'a",
+    "adat": "kerja"
   },
   {
-    "kata": "kumbu",
-    "arti": "kepal"
+    "adati": "libu",
+    "adat": "keroyok"
   },
   {
-    "kata": "ndoke",
-    "arti": "monyet"
+    "adati": "karatasi",
+    "adat": "kertas"
   },
   {
-    "kata": "ronci",
-    "arti": "kerak"
+    "adati": "karugia",
+    "adat": "kerugian"
   },
   {
-    "kata": "karamu",
-    "arti": "keram"
+    "adati": "karupu",
+    "adat": "kerupuk"
   },
   {
-    "kata": "kalangka",
-    "arti": "keranjang"
+    "adati": "musaku",
+    "adat": "kesal"
   },
   {
-    "kata": "mucuka",
-    "arti": "keras"
+    "adati": "ka'ilonge",
+    "adat": "kesana"
   },
   {
-    "kata": "kari",
-    "arti": "kering"
+    "adati": "ka'ilomai",
+    "adat": "kesana"
   },
   {
-    "kata": "hanci",
-    "arti": "keringat"
+    "adati": "mulingu",
+    "adat": "kesasar"
   },
   {
-    "kata": "keripi",
-    "arti": "keripik"
+    "adati": "kasalamata",
+    "adat": "keselamatan"
   },
   {
-    "kata": "karaja'a",
-    "arti": "kerja"
+    "adati": "karamu",
+    "adat": "kesemutan"
   },
   {
-    "kata": "pikarja'a",
-    "arti": "bekerja"
+    "adati": "katagia",
+    "adat": "ketagihan"
   },
   {
-    "kata": "kerongkongan",
-    "arti": "gonco"
+    "adati": "kasasu",
+    "adat": "ketakutan"
   },
   {
-    "kata": "libu",
-    "arti": "keroyok"
+    "adati": "kirapa",
+    "adat": "ketiak"
   },
   {
-    "kata": "karupu",
-    "arti": "kerupuk"
+    "adati": "mulinga",
+    "adat": "ketinggalan/lupa membawa"
   },
   {
-    "kata": "musaku",
-    "arti": "kesal"
+    "adati": "ciki",
+    "adat": "ketuk"
   },
   {
-    "kata": "kirapa",
-    "arti": "ketiak"
+    "adati": "katumba",
+    "adat": "ketumbar"
   },
   {
-    "kata": "ciki",
-    "arti": "ketuk"
+    "adati": "kacupa",
+    "adat": "ketupat"
   },
   {
-    "kata": "katumba",
-    "arti": "ketumbar"
+    "adati": "ka'untunga",
+    "adat": "keuntungan"
   },
   {
-    "kata": "kacupa",
-    "arti": "ketupat"
+    "adati": "waru",
+    "adat": "khawatir"
   },
   {
-    "kata": "waru",
-    "arti": "khawatir"
+    "adati": "kambulaku",
+    "adat": "khitan"
   },
   {
-    "kata": "kambulaku",
-    "arti": "khitan"
+    "adati": "sumbali",
+    "adat": "kidal"
   },
   {
-    "kata": "sumbali",
-    "arti": "kidal"
+    "adati": "kucio",
+    "adat": "kikir"
   },
   {
-    "kata": "kucio",
-    "arti": "kikir"
+    "adati": "kucio",
+    "adat": "kikir"
   },
   {
-    "kata": "kikisi",
-    "arti": "kikis"
+    "adati": "kikisi",
+    "adat": "kikis"
   },
   {
-    "kata": "kila",
-    "arti": "kila"
+    "adati": "kila",
+    "adat": "kila"
   },
   {
-    "kata": "kilo",
-    "arti": "kilo"
+    "adati": "kilo",
+    "adat": "kilo"
   },
   {
-    "kata": "pondo",
-    "arti": "kios"
+    "adati": "pondo",
+    "adat": "kios"
   },
   {
-    "kata": "kakambero",
-    "arti": "kipas"
+    "adati": "kakambero",
+    "adat": "kipas"
   },
   {
-    "kata": "sumbali",
-    "arti": "kiri"
+    "adati": "sumbali",
+    "adat": "kiri"
   },
   {
-    "kata": "lamboko",
-    "arti": "kirim"
+    "adati": "lamboko",
+    "adat": "kirim"
   },
   {
-    "kata": "koco",
-    "arti": "kocok"
+    "adati": "ingkita",
+    "adat": "kita"
   },
   {
-    "kata": "kode",
-    "arti": "kode"
+    "adati": "koco",
+    "adat": "kocok"
   },
   {
-    "kata": "koki",
-    "arti": "koki"
+    "adati": "kode",
+    "adat": "kode"
   },
   {
-    "kata": "waruawa",
-    "arti": "kolong"
+    "adati": "kalologa",
+    "adat": "koin"
   },
   {
-    "kata": "pajoma",
-    "arti": "kompas"
+    "adati": "koki",
+    "adat": "koki"
   },
   {
-    "kata": "komporo",
-    "arti": "komporo"
+    "adati": "waruawa",
+    "adat": "kolong"
   },
   {
-    "kata": "koporo",
-    "arti": "koper"
+    "adati": "pajoma",
+    "adat": "kompas"
   },
   {
-    "kata": "garisi",
-    "arti": "korek"
+    "adati": "komporo",
+    "adat": "kompor"
   },
   {
-    "kata": "koso",
-    "arti": "kosong"
+    "adati": "komporo",
+    "adat": "komporo"
   },
   {
-    "kata": "kota",
-    "arti": "kota"
+    "adati": "koporo",
+    "adat": "koper"
   },
   {
-    "kata": "kutoro",
-    "arti": "kotor"
+    "adati": "garisi",
+    "adat": "korek"
   },
   {
-    "kata": "ginggi",
-    "arti": "keriting"
+    "adati": "koso",
+    "adat": "kosong"
   },
   {
-    "kata": "we'eno",
-    "arti": "kuah"
+    "adati": "kota",
+    "adat": "kota"
   },
   {
-    "kata": "kuasi",
-    "arti": "kuas"
+    "adati": "kutoro",
+    "adat": "kotor"
   },
   {
-    "kata": "muhosa",
-    "arti": "kuat"
+    "adati": "we'eno",
+    "adat": "kuah"
   },
   {
-    "kata": "kubur",
-    "arti": "kuburu"
+    "adati": "kuasi",
+    "adat": "kuas"
   },
   {
-    "kata": "ajara",
-    "arti": "kuda"
+    "adati": "muhosa",
+    "adat": "kuat"
   },
   {
-    "kata": "kui",
-    "arti": "kue"
+    "adati": "kuburu",
+    "adat": "kubur/makam"
   },
   {
-    "kata": "kunusu",
-    "arti": "kuku"
+    "adati": "kubur",
+    "adat": "kuburu"
   },
   {
-    "kata": "sili",
-    "arti": "kulit"
+    "adati": "ajara",
+    "adat": "kuda"
   },
   {
-    "kata": "supi",
-    "arti": "kumis"
+    "adati": "kui",
+    "adat": "kue"
   },
   {
-    "kata": "kumpulu",
-    "arti": "kumpul"
+    "adati": "kunusu",
+    "adat": "kuku"
   },
   {
-    "kata": "hungku",
-    "arti": "kumur"
+    "adati": "kunusu",
+    "adat": "kuku"
   },
   {
-    "kata": "muriri",
-    "arti": "kuning"
+    "adati": "sili",
+    "adat": "kulit"
   },
   {
-    "kata": "pisili",
-    "arti": "kupas"
+    "adati": "supi",
+    "adat": "kumis"
   },
   {
-    "kata": "wagaga",
-    "arti": "kupu-kupu"
+    "adati": "supi",
+    "adat": "kumis"
   },
   {
-    "kata": "kae",
-    "arti": "kurang"
+    "adati": "rompu",
+    "adat": "kumpul"
   },
   {
-    "kata": "pitembei",
-    "arti": "menguras"
+    "adati": "hungku",
+    "adat": "kumur"
   },
   {
-    "kata": "kurbani",
-    "arti": "kurban"
+    "adati": "muriri",
+    "adat": "kuning"
+  },
+  {
+    "adati": "kuninga",
+    "adat": "kuningan"
+  },
+  {
+    "adati": "suni",
+    "adat": "kunyit"
+  },
+  {
+    "adati": "pisili",
+    "adat": "kupas"
+  },
+  {
+    "adati": "piri'i",
+    "adat": "kupas"
+  },
+  {
+    "adati": "wagaga",
+    "adat": "kupu-kupu"
+  },
+  {
+    "adati": "kae",
+    "adat": "kurang"
+  },
+  {
+    "adati": "kae",
+    "adat": "kurang"
+  },
+  {
+    "adati": "kurbani",
+    "adat": "kurban"
+  },
+  {
+    "adati": "kurusi",
+    "adat": "kursi"
+  },
+  {
+    "adati": "murusu",
+    "adat": "kurus"
+  },
+  {
+    "adati": "kuse",
+    "adat": "kusen"
+  },
+  {
+    "adati": "mukusu",
+    "adat": "kusut"
+  },
+  {
+    "adati": "kuta",
+    "adat": "kutang"
+  },
+  {
+    "adati": "kukutesi",
+    "adat": "kuteks"
+  },
+  {
+    "adati": "punci",
+    "adat": "kutil"
+  },
+  {
+    "adati": "cucu",
+    "adat": "kutu"
+  },
+  {
+    "adati": "cucunda",
+    "adat": "kutuk"
+  },
+  {
+    "adati": "kangka",
+    "adat": "laba-laba"
+  },
+  {
+    "adati": "laci",
+    "adat": "laci"
+  },
+  {
+    "adati": "sahajawa",
+    "adat": "lada"
+  },
+  {
+    "adati": "barie",
+    "adat": "lagi"
+  },
+  {
+    "adati": "lagu",
+    "adat": "lagu"
+  },
+  {
+    "adati": "dadi",
+    "adat": "lahir"
+  },
+  {
+    "adati": "muhane",
+    "adat": "laki-laki"
+  },
+  {
+    "adati": "mu'ala",
+    "adat": "laku"
+  },
+  {
+    "adati": "lale",
+    "adat": "lalat"
+  },
+  {
+    "adati": "pulaloi",
+    "adat": "lalu lalang"
+  },
+  {
+    "adati": "mulengo",
+    "adat": "lama"
+  },
+  {
+    "adati": "losa",
+    "adat": "lamar"
+  },
+  {
+    "adati": "neo",
+    "adat": "lamban"
+  },
+  {
+    "adati": "munede",
+    "adat": "lambat"
+  },
+  {
+    "adati": "lampu",
+    "adat": "lampu"
+  },
+  {
+    "adati": "pajamara",
+    "adat": "lampu pelita"
+  },
+  {
+    "adati": "lancara",
+    "adat": "lancar"
+  },
+  {
+    "adati": "langi",
+    "adat": "langit"
+  },
+  {
+    "adati": "langsa",
+    "adat": "langsat"
+  },
+  {
+    "adati": "langsu",
+    "adat": "langsung"
+  },
+  {
+    "adati": "lanjo",
+    "adat": "lanjut"
+  },
+  {
+    "adati": "hagari",
+    "adat": "lantai"
+  },
+  {
+    "adati": "kalalapu",
+    "adat": "lap"
+  },
+  {
+    "adati": "muharo",
+    "adat": "lapar"
+  },
+  {
+    "adati": "tapi",
+    "adat": "lapis"
+  },
+  {
+    "adati": "lapora",
+    "adat": "lapor"
+  },
+  {
+    "adati": "mutembu",
+    "adat": "lapuk"
+  },
+  {
+    "adati": "lara",
+    "adat": "larang"
+  },
+  {
+    "adati": "tode",
+    "adat": "lari"
+  },
+  {
+    "adati": "kampisi",
+    "adat": "lari dengan cepat"
+  },
+  {
+    "adati": "kuluno we'e",
+    "adat": "latar belakang"
+  },
+  {
+    "adati": "kama'aso",
+    "adat": "lauk"
+  },
+  {
+    "adati": "tai",
+    "adat": "laut"
+  },
+  {
+    "adati": "bali",
+    "adat": "lawan"
+  },
+  {
+    "adati": "sampugera",
+    "adat": "lawan bertengkar"
+  },
+  {
+    "adati": "kasuka",
+    "adat": "layang-layang"
+  },
+  {
+    "adati": "pangawa",
+    "adat": "layar"
+  },
+  {
+    "adati": "muleu",
+    "adat": "layu"
+  },
+  {
+    "adati": "kaninipi",
+    "adat": "lebah"
+  },
+  {
+    "adati": "muranda",
+    "adat": "lebam"
+  },
+  {
+    "adati": "mulewa",
+    "adat": "lebar"
+  },
+  {
+    "adati": "buka'a",
+    "adat": "lebaran"
+  },
+  {
+    "adati": "labi",
+    "adat": "lebih"
+  },
+  {
+    "adati": "katoa",
+    "adat": "leher"
+  },
+  {
+    "adati": "mumale",
+    "adat": "lelah"
+  },
+  {
+    "adati": "ompu",
+    "adat": "leluhur"
+  },
+  {
+    "adati": "lemu",
+    "adat": "lem"
+  },
+  {
+    "adati": "lemu",
+    "adat": "lem"
+  },
+  {
+    "adati": "taba",
+    "adat": "lemak"
+  },
+  {
+    "adati": "kasi",
+    "adat": "lemari"
+  },
+  {
+    "adati": "muleu",
+    "adat": "lemas"
+  },
+  {
+    "adati": "leka",
+    "adat": "lembat"
+  },
+  {
+    "adati": "lembe",
+    "adat": "lembek"
+  },
+  {
+    "adati": "panawu",
+    "adat": "lempar"
+  },
+  {
+    "adati": "kangule",
+    "adat": "lengan"
+  },
+  {
+    "adati": "kangule",
+    "adat": "lengan"
+  },
+  {
+    "adati": "padodi",
+    "adat": "lenggak-lenggok"
+  },
+  {
+    "adati": "humbu",
+    "adat": "lengkap"
+  },
+  {
+    "adati": "langkuasi",
+    "adat": "lengkuas"
+  },
+  {
+    "adati": "lantera",
+    "adat": "lentera"
+  },
+  {
+    "adati": "lenturu",
+    "adat": "lentur"
+  },
+  {
+    "adati": "hoci",
+    "adat": "lenyap"
+  },
+  {
+    "adati": "talapasi",
+    "adat": "lepas"
+  },
+  {
+    "adati": "ga'a",
+    "adat": "lerai"
+  },
+  {
+    "adati": "losu",
+    "adat": "lesung"
+  },
+  {
+    "adati": "baha",
+    "adat": "letusan"
+  },
+  {
+    "adati": "lalo",
+    "adat": "lewat"
+  },
+  {
+    "adati": "bucu",
+    "adat": "lewat"
+  },
+  {
+    "adati": "lalo",
+    "adat": "lewat"
+  },
+  {
+    "adati": "lia",
+    "adat": "liang"
+  },
+  {
+    "adati": "tempo",
+    "adat": "libur"
+  },
+  {
+    "adati": "mundolu",
+    "adat": "licin"
+  },
+  {
+    "adati": "ela",
+    "adat": "lidah"
+  },
+  {
+    "adati": "ela",
+    "adat": "lidah"
+  },
+  {
+    "adati": "lidi",
+    "adat": "lidi"
+  },
+  {
+    "adati": "ita",
+    "adat": "lihat"
+  },
+  {
+    "adati": "lili",
+    "adat": "lilin"
+  },
+  {
+    "adati": "lima",
+    "adat": "lima"
+  },
+  {
+    "adati": "gili",
+    "adat": "lindas"
+  },
+  {
+    "adati": "ase",
+    "adat": "linggis"
+  },
+  {
+    "adati": "kulupi",
+    "adat": "lipat"
+  },
+  {
+    "adati": "piliku",
+    "adat": "lipat"
+  },
+  {
+    "adati": "dalubi",
+    "adat": "lipatan lemak ditubuh"
+  },
+  {
+    "adati": "ilu",
+    "adat": "liur"
+  },
+  {
+    "adati": "kura",
+    "adat": "lobster"
+  },
+  {
+    "adati": "lumpa",
+    "adat": "lompat"
+  },
+  {
+    "adati": "tende",
+    "adat": "loncat"
+  },
+  {
+    "adati": "longgara",
+    "adat": "longgar"
+  },
+  {
+    "adati": "loro",
+    "adat": "lorong"
+  },
+  {
+    "adati": "wea",
+    "adat": "loteng"
+  },
+  {
+    "adati": "loea",
+    "adat": "loyang"
+  },
+  {
+    "adati": "luara",
+    "adat": "luar"
+  },
+  {
+    "adati": "mahewa",
+    "adat": "luas"
+  },
+  {
+    "adati": "mahewa",
+    "adat": "luas"
+  },
+  {
+    "adati": "lucu",
+    "adat": "lucu"
+  },
+  {
+    "adati": "kapera/kacupera",
+    "adat": "ludah"
+  },
+  {
+    "adati": "kabela",
+    "adat": "luka"
+  },
+  {
+    "adati": "kanda",
+    "adat": "luka yang tumbuh dengan sendirinya"
+  },
+  {
+    "adati": "kademboka",
+    "adat": "lumpur"
+  },
+  {
+    "adati": "lumu",
+    "adat": "lumut"
+  },
+  {
+    "adati": "lunasi",
+    "adat": "lunas"
+  },
+  {
+    "adati": "mulingu",
+    "adat": "lupa"
+  },
+  {
+    "adati": "muronto",
+    "adat": "lurus"
+  },
+  {
+    "adati": "ipua",
+    "adat": "lusa"
+  },
+  {
+    "adati": "losi",
+    "adat": "lusin"
+  },
+  {
+    "adati": "cu'u",
+    "adat": "lutut"
+  },
+  {
+    "adati": "cu'u",
+    "adat": "lutut"
+  },
+  {
+    "adati": "ma'apu",
+    "adat": "maaf"
+  },
+  {
+    "adati": "mulangu",
+    "adat": "mabuk"
+  },
+  {
+    "adati": "giu",
+    "adat": "macam"
+  },
+  {
+    "adati": "madu",
+    "adat": "madu"
+  },
+  {
+    "adati": "mangkaribi",
+    "adat": "maghrib"
+  },
+  {
+    "adati": "majo",
+    "adat": "maju"
+  },
+  {
+    "adati": "ma'a",
+    "adat": "makan"
+  },
+  {
+    "adati": "ma'a",
+    "adat": "makan"
+  },
+  {
+    "adati": "pima'ai",
+    "adat": "makanan"
+  },
+  {
+    "adati": "tatandu",
+    "adat": "makanan tradional berbentuk seperti tanduk yang terbuat dari singkong dan isian kelapa yang dicampur gula merah"
+  },
+  {
+    "adati": "kamangkacu",
+    "adat": "maki"
+  },
+  {
+    "adati": "ma'lumi",
+    "adat": "maklum"
+  },
+  {
+    "adati": "ma'ana",
+    "adat": "makna"
+  },
+  {
+    "adati": "mala'ikati",
+    "adat": "malaikat"
+  },
+  {
+    "adati": "murondo",
+    "adat": "malam"
+  },
+  {
+    "adati": "rondo",
+    "adat": "malam"
+  },
+  {
+    "adati": "kambulaku",
+    "adat": "maling/pencuri"
+  },
+  {
+    "adati": "kulu'alo",
+    "adat": "malu"
+  },
+  {
+    "adati": "bucu",
+    "adat": "mampir"
+  },
+  {
+    "adati": "mampo",
+    "adat": "mampu"
+  },
+  {
+    "adati": "mpa'a",
+    "adat": "mana"
+  },
+  {
+    "adati": "baho/pibaho",
+    "adat": "mandi"
+  },
+  {
+    "adati": "mandoro",
+    "adat": "mandor"
+  },
+  {
+    "adati": "komba",
+    "adat": "mandul"
+  },
+  {
+    "adati": "boanga",
+    "adat": "mangap"
+  },
+  {
+    "adati": "po'o",
+    "adat": "mangga"
+  },
+  {
+    "adati": "balobu",
+    "adat": "mangkok"
+  },
+  {
+    "adati": "mumeko",
+    "adat": "manis"
+  },
+  {
+    "adati": "manja",
+    "adat": "manja"
+  },
+  {
+    "adati": "laku",
+    "adat": "manjur"
+  },
+  {
+    "adati": "batata",
+    "adat": "mantra"
+  },
+  {
+    "adati": "mantiri",
+    "adat": "mantri"
+  },
+  {
+    "adati": "amara",
+    "adat": "marah"
+  },
+  {
+    "adati": "pu'amaraki",
+    "adat": "marahan"
+  },
+  {
+    "adati": "mai",
+    "adat": "mari"
+  },
+  {
+    "adati": "muntaha",
+    "adat": "masak"
+  },
+  {
+    "adati": "masala",
+    "adat": "masalah"
+  },
+  {
+    "adati": "dane'epo",
+    "adat": "masih"
+  },
+  {
+    "adati": "maskere",
+    "adat": "masker"
+  },
+  {
+    "adati": "maso",
+    "adat": "masuk"
+  },
+  {
+    "adati": "mata",
+    "adat": "mata"
+  },
+  {
+    "adati": "mata",
+    "adat": "mata"
+  },
+  {
+    "adati": "mata malu",
+    "adat": "mata parang yang mudah rusak saat digunakan"
+  },
+  {
+    "adati": "huleo",
+    "adat": "matahari"
+  },
+  {
+    "adati": "huleo",
+    "adat": "matahari"
+  },
+  {
+    "adati": "muntaha",
+    "adat": "matang"
+  },
+  {
+    "adati": "matimatika",
+    "adat": "matematika"
+  },
+  {
+    "adati": "mate",
+    "adat": "mati"
+  },
+  {
+    "adati": "mate",
+    "adat": "mati"
+  },
+  {
+    "adati": "unda",
+    "adat": "mau"
+  },
+  {
+    "adati": "hada",
+    "adat": "mau"
+  },
+  {
+    "adati": "mayati",
+    "adat": "mayat"
+  },
+  {
+    "adati": "meja",
+    "adat": "meja"
+  },
+  {
+    "adati": "meja",
+    "adat": "meja"
+  },
+  {
+    "adati": "boka",
+    "adat": "mekar"
+  },
+  {
+    "adati": "hende hora",
+    "adat": "melamar"
+  },
+  {
+    "adati": "balingka",
+    "adat": "melangkah"
+  },
+  {
+    "adati": "lempagi",
+    "adat": "melangkahi"
+  },
+  {
+    "adati": "pukulewa",
+    "adat": "melebarkan"
+  },
+  {
+    "adati": "palabilabi",
+    "adat": "melebih lebihkan"
+  },
+  {
+    "adati": "labie",
+    "adat": "melebihi"
+  },
+  {
+    "adati": "pakulabi",
+    "adat": "melebihkan"
+  },
+  {
+    "adati": "kubaha",
+    "adat": "meledak"
+  },
+  {
+    "adati": "pakuhumbu",
+    "adat": "melengkapi"
+  },
+  {
+    "adati": "mindi",
+    "adat": "melengking"
+  },
+  {
+    "adati": "salagie",
+    "adat": "meleset"
+  },
+  {
+    "adati": "tau",
+    "adat": "meletakan"
+  },
+  {
+    "adati": "padahoma",
+    "adat": "meletakan didepan orang"
+  },
+  {
+    "adati": "kubaha",
+    "adat": "meletus"
+  },
+  {
+    "adati": "laloi",
+    "adat": "melewati"
+  },
+  {
+    "adati": "saemba",
+    "adat": "melingkarkan lengan pada pundak seseorang"
+  },
+  {
+    "adati": "lumpaci",
+    "adat": "melompati"
+  },
+  {
+    "adati": "pikapera/pikacupera",
+    "adat": "meludah"
+  },
+  {
+    "adati": "pakuronto",
+    "adat": "meluruskan"
+  },
+  {
+    "adati": "pukuronto",
+    "adat": "meluruskan"
+  },
+  {
+    "adati": "pamajo",
+    "adat": "memajukan"
+  },
+  {
+    "adati": "pikamangkacu",
+    "adat": "memaki"
+  },
+  {
+    "adati": "pakulu'alo",
+    "adat": "memalukan"
+  },
+  {
+    "adati": "pikaka'ulu",
+    "adat": "memancing"
+  },
+  {
+    "adati": "cimpu",
+    "adat": "memanen dengan memotong batangnya"
+  },
+  {
+    "adati": "ntoawi",
+    "adat": "memanggil dengan berteriak"
+  },
+  {
+    "adati": "amaraki",
+    "adat": "memaraki"
+  },
+  {
+    "adati": "pitoro",
+    "adat": "memasak"
+  },
+  {
+    "adati": "pigau",
+    "adat": "memasak"
+  },
+  {
+    "adati": "pisantai",
+    "adat": "memasak menggunakan santan"
+  },
+  {
+    "adati": "pamaso",
+    "adat": "memasukkan"
+  },
+  {
+    "adati": "ongo",
+    "adat": "memasukkan ke mulut"
+  },
+  {
+    "adati": "pibatata",
+    "adat": "membaca doa selamat"
+  },
+  {
+    "adati": "su'u",
+    "adat": "membawa barang dengan cara diletakkan diatas kepala"
+  },
+  {
+    "adati": "pakana kaco",
+    "adat": "membuat onar"
+  },
+  {
+    "adati": "untu",
+    "adat": "memenangkan taruhan"
+  },
+  {
+    "adati": "pipisi",
+    "adat": "memijit"
+  },
+  {
+    "adati": "minaki",
+    "adat": "meminyaki"
+  },
+  {
+    "adati": "pameri",
+    "adat": "memotong rumput atau tanaman dalam jumlah banyak menggunakan parang"
+  },
+  {
+    "adati": "pamboke",
+    "adat": "memperbaiki perahu sebelum berlayar"
+  },
+  {
+    "adati": "jumburaki",
+    "adat": "menabrak"
+  },
+  {
+    "adati": "hendepi",
+    "adat": "menaiki"
+  },
+  {
+    "adati": "puhende",
+    "adat": "menaikkan"
+  },
+  {
+    "adati": "cimusasu",
+    "adat": "menakutkan"
+  },
+  {
+    "adati": "pahanda",
+    "adat": "menakut-nakuti"
+  },
+  {
+    "adati": "purika",
+    "adat": "menanggalkan"
+  },
+  {
+    "adati": "pingara-ngara",
+    "adat": "menangis dengan keras, berteriak teriak dengan keras"
+  },
+  {
+    "adati": "pi'ou-ou",
+    "adat": "menangis dengan suara keras dan menyedihkan"
+  },
+  {
+    "adati": "pancuhu",
+    "adat": "menanjak"
+  },
+  {
+    "adati": "pe'ena'aso",
+    "adat": "menanyakan"
+  },
+  {
+    "adati": "pipinda",
+    "adat": "menapak"
+  },
+  {
+    "adati": "hadari",
+    "adat": "menasihati"
+  },
+  {
+    "adati": "tongka",
+    "adat": "mencabut, digunakan untuk gigi"
+  },
+  {
+    "adati": "pikamata",
+    "adat": "mencari"
+  },
+  {
+    "adati": "kababanaka",
+    "adat": "mencret"
+  },
+  {
+    "adati": "logoci",
+    "adat": "mendahului"
+  },
+  {
+    "adati": "pisiki",
+    "adat": "menekan dengan kuat"
+  },
+  {
+    "adati": "pisabangkai",
+    "adat": "menemani"
+  },
+  {
+    "adati": "pika",
+    "adat": "menempel"
+  },
+  {
+    "adati": "pipika-pika",
+    "adat": "menempel"
+  },
+  {
+    "adati": "putabuwisi",
+    "adat": "menemui"
+  },
+  {
+    "adati": "humbuni",
+    "adat": "menemui"
+  },
+  {
+    "adati": "piatabu",
+    "adat": "menemukan"
+  },
+  {
+    "adati": "ilinge",
+    "adat": "menengok/menoleh"
+  },
+  {
+    "adati": "ntaintai",
+    "adat": "menenteng"
+  },
+  {
+    "adati": "pikarara",
+    "adat": "menerawang"
+  },
+  {
+    "adati": "su'u kia",
+    "adat": "menerobos hujan"
+  },
+  {
+    "adati": "patarusu",
+    "adat": "meneruskan"
+  },
+  {
+    "adati": "patara",
+    "adat": "menetap"
+  },
+  {
+    "adati": "cinci",
+    "adat": "menetas"
+  },
+  {
+    "adati": "mangaku",
+    "adat": "mengaku"
+  },
+  {
+    "adati": "pileki",
+    "adat": "mengambil atau memisahkan diantara banyak barang atau benda"
+  },
+  {
+    "adati": "mu'apa",
+    "adat": "mengapa/kenapa"
+  },
+  {
+    "adati": "pigugura",
+    "adat": "mengayak"
+  },
+  {
+    "adati": "pajala",
+    "adat": "mengemudikan"
+  },
+  {
+    "adati": "koni",
+    "adat": "mengenal"
+  },
+  {
+    "adati": "bori",
+    "adat": "menggaris"
+  },
+  {
+    "adati": "pikalende",
+    "adat": "menggenang"
+  },
+  {
+    "adati": "pikarakaji",
+    "adat": "menggergaji"
+  },
+  {
+    "adati": "bingkuku",
+    "adat": "menggigil"
+  },
+  {
+    "adati": "kukuci",
+    "adat": "menggigit"
+  },
+  {
+    "adati": "lindo",
+    "adat": "menghindar"
+  },
+  {
+    "adati": "holo",
+    "adat": "mengidam"
+  },
+  {
+    "adati": "salambiwi",
+    "adat": "mengigau"
+  },
+  {
+    "adati": "angga'e",
+    "adat": "mengira"
+  },
+  {
+    "adati": "gogomi",
+    "adat": "mengisap"
+  },
+  {
+    "adati": "bangkudu",
+    "adat": "mengkudu"
+  },
+  {
+    "adati": "pilancau",
+    "adat": "mengobati"
+  },
+  {
+    "adati": "pi'uba",
+    "adat": "mengobati"
+  },
+  {
+    "adati": "ukuru",
+    "adat": "mengukur"
+  },
+  {
+    "adati": "joli",
+    "adat": "mengunci"
+  },
+  {
+    "adati": "pikanoti",
+    "adat": "mengundang secara langsung"
+  },
+  {
+    "adati": "pimunta",
+    "adat": "mengunyah"
+  },
+  {
+    "adati": "pitembei",
+    "adat": "menguras"
+  },
+  {
+    "adati": "kungku",
+    "adat": "mengurung"
+  },
+  {
+    "adati": "pitadei",
+    "adat": "mengurus"
+  },
+  {
+    "adati": "niatiaso",
+    "adat": "meniatkan"
+  },
+  {
+    "adati": "pamuncuru",
+    "adat": "menidurkan"
+  },
+  {
+    "adati": "kawiaso",
+    "adat": "menikahi"
+  },
+  {
+    "adati": "pakawi",
+    "adat": "menikahkan"
+  },
+  {
+    "adati": "pilinai",
+    "adat": "menilai"
+  },
+  {
+    "adati": "pitimba",
+    "adat": "menimba"
+  },
+  {
+    "adati": "cimbangi",
+    "adat": "menimbang"
+  },
+  {
+    "adati": "bokoli",
+    "adat": "meninggalakan kebun dan tidak digunakan untuk waktu yang lama"
+  },
+  {
+    "adati": "bokoli",
+    "adat": "meninggalkan"
+  },
+  {
+    "adati": "pikalamboko",
+    "adat": "menitip"
+  },
+  {
+    "adati": "poroi",
+    "adat": "meniupkan"
+  },
+  {
+    "adati": "poporoi",
+    "adat": "meniup-niup"
+  },
+  {
+    "adati": "pukuntaro",
+    "adat": "menjamkan"
+  },
+  {
+    "adati": "para'aki",
+    "adat": "menjerit/berteriak"
+  },
+  {
+    "adati": "para'aso",
+    "adat": "menjual"
+  },
+  {
+    "adati": "ulu",
+    "adat": "menjulur"
+  },
+  {
+    "adati": "pu'ulu",
+    "adat": "menjulurkan"
+  },
+  {
+    "adati": "mumata",
+    "adat": "mentah"
+  },
+  {
+    "adati": "purope",
+    "adat": "menuju"
+  },
+  {
+    "adati": "sawi",
+    "adat": "menunggang"
+  },
+  {
+    "adati": "pusampu",
+    "adat": "menurunkan"
+  },
+  {
+    "adati": "tobo",
+    "adat": "menusuk"
+  },
+  {
+    "adati": "pisabo",
+    "adat": "menyabuni"
+  },
+  {
+    "adati": "sadari",
+    "adat": "menyadari"
+  },
+  {
+    "adati": "pasalai",
+    "adat": "menyalahkan"
+  },
+  {
+    "adati": "pisalingi",
+    "adat": "menyalin/menyontek"
+  },
+  {
+    "adati": "sai",
+    "adat": "menyambar sewaktu terbang"
+  },
+  {
+    "adati": "parato",
+    "adat": "menyampaikan"
+  },
+  {
+    "adati": "pikalampi",
+    "adat": "menyampul"
+  },
+  {
+    "adati": "pangkeda",
+    "adat": "menyandarkan"
+  },
+  {
+    "adati": "cubo",
+    "adat": "menyangga"
+  },
+  {
+    "adati": "pilagu",
+    "adat": "menyanyi"
+  },
+  {
+    "adati": "pilaguaso",
+    "adat": "menyanyikan"
+  },
+  {
+    "adati": "panda aso",
+    "adat": "menyapa"
+  },
+  {
+    "adati": "pisambure",
+    "adat": "menyapu"
+  },
+  {
+    "adati": "leo",
+    "adat": "menyelam"
+  },
+  {
+    "adati": "paselamati",
+    "adat": "menyelamatkan"
+  },
+  {
+    "adati": "pibuni",
+    "adat": "menyembunyikan"
+  },
+  {
+    "adati": "makakana",
+    "adat": "menyenangkan"
+  },
+  {
+    "adati": "pikanci'usa",
+    "adat": "menyendiri"
+  },
+  {
+    "adati": "kunei",
+    "adat": "menyentuh dengan jari"
+  },
+  {
+    "adati": "kukunei",
+    "adat": "menyentuh nyentuh"
+  },
+  {
+    "adati": "sosoro",
+    "adat": "menyeret"
+  },
+  {
+    "adati": "pisikapu",
+    "adat": "menyerut"
+  },
+  {
+    "adati": "pimokanu",
+    "adat": "menyiapkan barang yang akan dibawa pergi"
+  },
+  {
+    "adati": "pigoso",
+    "adat": "menyikat"
+  },
+  {
+    "adati": "pimboli",
+    "adat": "menyisakan"
+  },
+  {
+    "adati": "simpi",
+    "adat": "menyisipkan"
+  },
+  {
+    "adati": "pisuru",
+    "adat": "menyisir rambut"
+  },
+  {
+    "adati": "piracu",
+    "adat": "meracuni"
+  },
+  {
+    "adati": "mudea",
+    "adat": "merah"
+  },
+  {
+    "adati": "pipiro",
+    "adat": "meram"
+  },
+  {
+    "adati": "parame",
+    "adat": "meramaikan"
+  },
+  {
+    "adati": "pikilala",
+    "adat": "meramal"
+  },
+  {
+    "adati": "rancang",
+    "adat": "merancang"
+  },
+  {
+    "adati": "hela",
+    "adat": "merantau"
+  },
+  {
+    "adati": "pinami",
+    "adat": "merasakan makanan atau rasa sakit fisik"
+  },
+  {
+    "adati": "pinamisi",
+    "adat": "merasakan menggunakan perasaan"
+  },
+  {
+    "adati": "parata",
+    "adat": "meratakan"
+  },
+  {
+    "adati": "pa'iro",
+    "adat": "merawat diri"
+  },
+  {
+    "adati": "kabeari",
+    "adat": "mercusuar"
+  },
+  {
+    "adati": "pu'agoiaso",
+    "adat": "merebutkan"
+  },
+  {
+    "adati": "mo'ia",
+    "adat": "mereka"
+  },
+  {
+    "adati": "kaliliwu",
+    "adat": "merindukan, kangen"
+  },
+  {
+    "adati": "benci",
+    "adat": "merobek"
+  },
+  {
+    "adati": "rungga",
+    "adat": "merobohkan"
+  },
+  {
+    "adati": "orowi",
+    "adat": "merogoh, memasukan tangan ke lubang atau ke tempat sempit"
+  },
+  {
+    "adati": "ka'ompu",
+    "adat": "mertua"
+  },
+  {
+    "adati": "dadai",
+    "adat": "merusak"
+  },
+  {
+    "adati": "masina",
+    "adat": "mesin"
+  },
+  {
+    "adati": "masina",
+    "adat": "mesin"
+  },
+  {
+    "adati": "masigi",
+    "adat": "mesjid"
+  },
+  {
+    "adati": "mo'oka",
+    "adat": "meskipun"
+  },
+  {
+    "adati": "mitere",
+    "adat": "meter"
+  },
+  {
+    "adati": "mitere",
+    "adat": "meteran"
+  },
+  {
+    "adati": "mitere",
+    "adat": "meteran"
+  },
+  {
+    "adati": "pacinda",
+    "adat": "meyakinkan"
+  },
+  {
+    "adati": "maik",
+    "adat": "mikrofon"
+  },
+  {
+    "adati": "pu'inipi",
+    "adat": "mimpi"
+  },
+  {
+    "adati": "mina",
+    "adat": "mina"
+  },
+  {
+    "adati": "ahadi",
+    "adat": "minggu"
+  },
+  {
+    "adati": "sawa",
+    "adat": "minta"
+  },
+  {
+    "adati": "sawa ma'apu",
+    "adat": "minta maaf"
+  },
+  {
+    "adati": "poroku",
+    "adat": "minum"
+  },
+  {
+    "adati": "bele",
+    "adat": "miring"
+  },
+  {
+    "adati": "pukana",
+    "adat": "mirip"
+  },
+  {
+    "adati": "pu'ita",
+    "adat": "mirip"
+  },
+  {
+    "adati": "ane",
+    "adat": "misal"
+  },
+  {
+    "adati": "oto",
+    "adat": "mobil"
+  },
+  {
+    "adati": "oto",
+    "adat": "mobil"
+  },
+  {
+    "adati": "modala",
+    "adat": "modal"
+  },
+  {
+    "adati": "modele",
+    "adat": "model"
+  },
+  {
+    "adati": "ndoke",
+    "adat": "monyet"
+  },
+  {
+    "adati": "ndoke",
+    "adat": "monyet"
+  },
+  {
+    "adati": "ndoke",
+    "adat": "monyet"
+  },
+  {
+    "adati": "ulea",
+    "adat": "muatan"
+  },
+  {
+    "adati": "muda",
+    "adat": "muda"
+  },
+  {
+    "adati": "mamuda",
+    "adat": "mudah"
+  },
+  {
+    "adati": "hula",
+    "adat": "muka"
+  },
+  {
+    "adati": "kaluncu",
+    "adat": "mukena"
+  },
+  {
+    "adati": "mulae",
+    "adat": "mulai"
+  },
+  {
+    "adati": "boba",
+    "adat": "mulut"
+  },
+  {
+    "adati": "nguncu",
+    "adat": "mulut"
+  },
+  {
+    "adati": "kanantea",
+    "adat": "mumpung"
+  },
+  {
+    "adati": "pitoa",
+    "adat": "muncul"
+  },
+  {
+    "adati": "munduru",
+    "adat": "mundur"
+  },
+  {
+    "adati": "aipo",
+    "adat": "mungkin"
+  },
+  {
+    "adati": "polonai",
+    "adat": "muntah"
+  },
+  {
+    "adati": "polonaia",
+    "adat": "muntahan"
+  },
+  {
+    "adati": "muru",
+    "adat": "mur"
+  },
+  {
+    "adati": "mamuda",
+    "adat": "murah"
+  },
+  {
+    "adati": "tanda",
+    "adat": "musim buah-buahan atau musim tenarnya sesuatu"
+  },
+  {
+    "adati": "bali",
+    "adat": "musuh"
+  },
+  {
+    "adati": "pugagau",
+    "adat": "musyawarah"
+  },
+  {
+    "adati": "mutiara",
+    "adat": "mutiara"
+  },
+  {
+    "adati": "nabi",
+    "adat": "nabi"
+  },
+  {
+    "adati": "nada",
+    "adat": "nada"
+  },
+  {
+    "adati": "hende",
+    "adat": "naik"
+  },
+  {
+    "adati": "sawi",
+    "adat": "naik kemudian duduk"
+  },
+  {
+    "adati": "kapatuli",
+    "adat": "nakal"
+  },
+  {
+    "adati": "ngea",
+    "adat": "nama"
+  },
+  {
+    "adati": "nana",
+    "adat": "nanah"
+  },
+  {
+    "adati": "nanasi",
+    "adat": "nanas"
+  },
+  {
+    "adati": "ndanga",
+    "adat": "nangka"
+  },
+  {
+    "adati": "mo'oli",
+    "adat": "nanti"
+  },
+  {
+    "adati": "sina'a",
+    "adat": "napas"
+  },
+  {
+    "adati": "nasi",
+    "adat": "nasi"
+  },
+  {
+    "adati": "kahadari",
+    "adat": "nasihat"
+  },
+  {
+    "adati": "sarani",
+    "adat": "nasrani/kristen"
+  },
+  {
+    "adati": "papitai",
+    "adat": "nelayan"
+  },
+  {
+    "adati": "nene",
+    "adat": "nenek"
+  },
+  {
+    "adati": "naraka",
+    "adat": "neraka"
+  },
+  {
+    "adati": "niati",
+    "adat": "niat"
+  },
+  {
+    "adati": "kawi",
+    "adat": "nikah"
+  },
+  {
+    "adati": "dapa",
+    "adat": "nilai, biasanya untuk tugas atau ulangan"
+  },
+  {
+    "adati": "nilla",
+    "adat": "nilam"
+  },
+  {
+    "adati": "nilo",
+    "adat": "nilon"
+  },
+  {
+    "adati": "nipi",
+    "adat": "nipis"
+  },
+  {
+    "adati": "noda",
+    "adat": "noda"
+  },
+  {
+    "adati": "nolo",
+    "adat": "nol"
+  },
+  {
+    "adati": "nomoro",
+    "adat": "nomor"
+  },
+  {
+    "adati": "nonto",
+    "adat": "nonton"
+  },
+  {
+    "adati": "normala",
+    "adat": "normal"
+  },
+  {
+    "adati": "nota",
+    "adat": "nota"
+  },
+  {
+    "adati": "nyali",
+    "adat": "nyali"
+  },
+  {
+    "adati": "buroto",
+    "adat": "nyamuk"
+  },
+  {
+    "adati": "naide",
+    "adat": "nyaris"
+  },
+  {
+    "adati": "katepi",
+    "adat": "nyiru"
+  },
+  {
+    "adati": "uba",
+    "adat": "obat"
+  },
+  {
+    "adati": "lancau",
+    "adat": "obat"
+  },
+  {
+    "adati": "obe",
+    "adat": "obeng"
+  },
+  {
+    "adati": "oboro",
+    "adat": "obor"
+  },
+  {
+    "adati": "ulu",
+    "adat": "obor tradisional yang terbuat dari bilah bilah kecil bambu"
+  },
+  {
+    "adati": "olaraga",
+    "adat": "olahraga"
+  },
+  {
+    "adati": "kaco",
+    "adat": "onar"
+  },
+  {
+    "adati": "onde-onde",
+    "adat": "onde-onde"
+  },
+  {
+    "adati": "ongkosi",
+    "adat": "ongkos"
+  },
+  {
+    "adati": "onci",
+    "adat": "ons"
+  },
+  {
+    "adati": "santamo",
+    "adat": "orang yang mempunyai kesamaan nama dengan kita"
+  },
+  {
+    "adati": "kacicindala",
+    "adat": "orang yang sering disuruh"
+  },
+  {
+    "adati": "ota",
+    "adat": "otak"
+  },
+  {
+    "adati": "kukunei",
+    "adat": "otak-atik"
+  },
+  {
+    "adati": "wawala",
+    "adat": "pagi"
+  },
+  {
+    "adati": "paha",
+    "adat": "paha"
+  },
+  {
+    "adati": "mupaki",
+    "adat": "pahit"
+  },
+  {
+    "adati": "paku",
+    "adat": "paku"
+  },
+  {
+    "adati": "palu",
+    "adat": "palu"
+  },
+  {
+    "adati": "pomali",
+    "adat": "pamalia"
+  },
+  {
+    "adati": "ama pusanao",
+    "adat": "paman"
+  },
+  {
+    "adati": "musodo/mumpana",
+    "adat": "panas"
+  },
+  {
+    "adati": "tawe",
+    "adat": "panci"
+  },
+  {
+    "adati": "penyanyi",
+    "adat": "pande pilagu"
+  },
+  {
+    "adati": "tapa",
+    "adat": "panggang"
+  },
+  {
+    "adati": "ungku",
+    "adat": "panggil"
+  },
+  {
+    "adati": "kuni",
+    "adat": "pantat"
+  },
+  {
+    "adati": "pulaloi",
+    "adat": "papasan"
+  },
+  {
+    "adati": "pacida",
+    "adat": "parang atau pisau bekas yang dijadikan alat mencabut rumput liar"
+  },
+  {
+    "adati": "samproti",
+    "adat": "parfum"
+  },
+  {
+    "adati": "daoa",
+    "adat": "pasar"
+  },
+  {
+    "adati": "hone",
+    "adat": "pasir"
+  },
+  {
+    "adati": "tompa",
+    "adat": "patok"
+  },
+  {
+    "adati": "cici",
+    "adat": "payudara/menyusui"
+  },
+  {
+    "adati": "pau",
+    "adat": "payung"
+  },
+  {
+    "adati": "mupisa",
+    "adat": "pecah"
+  },
+  {
+    "adati": "mulala",
+    "adat": "pedas"
+  },
+  {
+    "adati": "wantoloure",
+    "adat": "pelangi"
+  },
+  {
+    "adati": "paporoku",
+    "adat": "pemabuk"
+  },
+  {
+    "adati": "mingkulu'alo",
+    "adat": "pemalu"
+  },
+  {
+    "adati": "ka'a'amara",
+    "adat": "pemarah"
+  },
+  {
+    "adati": "ompu",
+    "adat": "pemilik"
+  },
+  {
+    "adati": "katere",
+    "adat": "penakut"
+  },
+  {
+    "adati": "pande temba",
+    "adat": "penembak"
+  },
+  {
+    "adati": "kahapusu",
+    "adat": "penghapus"
+  },
+  {
+    "adati": "paputaro",
+    "adat": "penjudi"
+  },
+  {
+    "adati": "kacubo",
+    "adat": "penopang"
+  },
+  {
+    "adati": "katoloti",
+    "adat": "pensil"
+  },
+  {
+    "adati": "kahada-hada",
+    "adat": "penurut"
+  },
+  {
+    "adati": "kasongko",
+    "adat": "penutup"
+  },
+  {
+    "adati": "katangobi",
+    "adat": "penutup"
+  },
+  {
+    "adati": "panaki",
+    "adat": "penyakit"
+  },
+  {
+    "adati": "kacubo",
+    "adat": "penyangga"
+  },
+  {
+    "adati": "ka'ongoci",
+    "adat": "penyumbat"
+  },
+  {
+    "adati": "pande mikilala",
+    "adat": "peramal"
+  },
+  {
+    "adati": "hela'a",
+    "adat": "perantauan"
+  },
+  {
+    "adati": "namisi",
+    "adat": "perasaan"
+  },
+  {
+    "adati": "mowine",
+    "adat": "perempuan"
+  },
+  {
+    "adati": "kacindala",
+    "adat": "perintah"
+  },
+  {
+    "adati": "pugau",
+    "adat": "perkataan"
+  },
+  {
+    "adati": "saesaemba",
+    "adat": "permainan tradisional yang dimainkan dengan melingkarkan lengan pada pundak teman seseorang sambil berjalan dan bernyanyi dengan lagu saesaemba, dimainkan dua orang atau lebih"
+  },
+  {
+    "adati": "kawia",
+    "adat": "pernikahan"
+  },
+  {
+    "adati": "papitange",
+    "adat": "perokok"
+  },
+  {
+    "adati": "simpanga",
+    "adat": "persimpangan"
+  },
+  {
+    "adati": "ma'acia",
+    "adat": "pesta adat lima tahun sekali"
+  },
+  {
+    "adati": "jini kabulu",
+    "adat": "petak umpet"
+  },
+  {
+    "adati": "lupa",
+    "adat": "pikun"
+  },
+  {
+    "adati": "tonga",
+    "adat": "pinggang"
+  },
+  {
+    "adati": "pusi",
+    "adat": "pingsan"
+  },
+  {
+    "adati": "kahompo",
+    "adat": "pintu"
+  },
+  {
+    "adati": "baga",
+    "adat": "pipi"
+  },
+  {
+    "adati": "piri",
+    "adat": "piring"
+  },
+  {
+    "adati": "taji",
+    "adat": "pisau yang digunakan untuk sabung ayam"
+  },
+  {
+    "adati": "pisau",
+    "adat": "piso"
+  },
+  {
+    "adati": "kepala",
+    "adat": "pocu"
+  },
+  {
+    "adati": "dodo",
+    "adat": "potong"
+  },
+  {
+    "adati": "pena",
+    "adat": "pulpen"
+  },
+  {
+    "adati": "toruku",
+    "adat": "punggung"
+  },
+  {
+    "adati": "tuwuni",
+    "adat": "pusar"
+  },
+  {
+    "adati": "araba'a",
+    "adat": "rabu"
+  },
+  {
+    "adati": "ngkareawu",
+    "adat": "rabun"
+  },
+  {
+    "adati": "racu",
+    "adat": "racun"
+  },
+  {
+    "adati": "radio",
+    "adat": "radio"
+  },
+  {
+    "adati": "hensi",
+    "adat": "ragi"
+  },
+  {
+    "adati": "dahan",
+    "adat": "raha"
+  },
+  {
+    "adati": "raja",
+    "adat": "raja"
+  },
+  {
+    "adati": "palimba",
+    "adat": "rakit"
+  },
+  {
+    "adati": "karubu",
+    "adat": "rakus"
+  },
+  {
+    "adati": "ra'eati",
+    "adat": "rakyat"
+  },
+  {
+    "adati": "rame",
+    "adat": "ramai"
+  },
+  {
+    "adati": "kilala",
+    "adat": "ramalan"
+  },
+  {
+    "adati": "lele",
+    "adat": "rambat"
+  },
+  {
+    "adati": "banano pocu",
+    "adat": "rambut"
+  },
+  {
+    "adati": "rambuta",
+    "adat": "rambutan"
+  },
+  {
+    "adati": "agoi",
+    "adat": "rampas"
+  },
+  {
+    "adati": "ranja",
+    "adat": "ranjang"
+  },
+  {
+    "adati": "nami",
+    "adat": "rasa"
+  },
+  {
+    "adati": "rata",
+    "adat": "rata"
+  },
+  {
+    "adati": "ratu",
+    "adat": "ratu"
+  },
+  {
+    "adati": "hacu",
+    "adat": "ratus"
+  },
+  {
+    "adati": "hacuno",
+    "adat": "ratusan"
+  },
+  {
+    "adati": "iro",
+    "adat": "rawat"
+  },
+  {
+    "adati": "rabo",
+    "adat": "rebung"
+  },
+  {
+    "adati": "parende",
+    "adat": "rebus"
+  },
+  {
+    "adati": "agoi",
+    "adat": "rebut"
+  },
+  {
+    "adati": "rece-rece",
+    "adat": "receh"
+  },
+  {
+    "adati": "mukinca",
+    "adat": "reda untuk hujan"
+  },
+  {
+    "adati": "reo",
+    "adat": "redup"
+  },
+  {
+    "adati": "rekamu",
+    "adat": "rekam"
+  },
+  {
+    "adati": "ampi",
+    "adat": "remaja"
+  },
+  {
+    "adati": "rencana",
+    "adat": "rencana"
+  },
+  {
+    "adati": "karat",
+    "adat": "rende"
+  },
+  {
+    "adati": "kapupuru",
+    "adat": "resleting"
+  },
+  {
+    "adati": "rajaki",
+    "adat": "rezeki"
+  },
+  {
+    "adati": "riwu",
+    "adat": "ribu"
+  },
+  {
+    "adati": "warero",
+    "adat": "ribut"
+  },
+  {
+    "adati": "musape",
+    "adat": "ringan"
+  },
+  {
+    "adati": "rohi",
+    "adat": "roh"
+  },
+  {
+    "adati": "katange",
+    "adat": "rokok"
+  },
+  {
+    "adati": "tabako",
+    "adat": "rokok"
+  },
+  {
+    "adati": "mutanta",
+    "adat": "rontok"
+  },
+  {
+    "adati": "rauro",
+    "adat": "rotan"
+  },
+  {
+    "adati": "roti",
+    "adat": "roti"
+  },
+  {
+    "adati": "tambi",
+    "adat": "ruang dapur"
+  },
+  {
+    "adati": "ruanga",
+    "adat": "ruangan"
+  },
+  {
+    "adati": "marugi",
+    "adat": "rugi"
+  },
+  {
+    "adati": "ka'ana",
+    "adat": "rumah"
+  },
+  {
+    "adati": "colok",
+    "adat": "rumba"
+  },
+  {
+    "adati": "rusa",
+    "adat": "rusa"
+  },
+  {
+    "adati": "mudai",
+    "adat": "rusak"
+  },
+  {
+    "adati": "kadai",
+    "adat": "rusak/jelek"
+  },
+  {
+    "adati": "sabara",
+    "adat": "sabar"
+  },
+  {
+    "adati": "saptu",
+    "adat": "sabtu"
+  },
+  {
+    "adati": "benu",
+    "adat": "sabtu kelapa"
+  },
+  {
+    "adati": "sabo",
+    "adat": "sabuk"
+  },
+  {
+    "adati": "sabo",
+    "adat": "sabun"
+  },
+  {
+    "adati": "sadara",
+    "adat": "sadar"
+  },
+  {
+    "adati": "tabaro",
+    "adat": "sagu"
+  },
+  {
+    "adati": "kunci",
+    "adat": "sahur"
+  },
+  {
+    "adati": "sajada",
+    "adat": "sajadah"
+  },
+  {
+    "adati": "mulala",
+    "adat": "sakit"
+  },
+  {
+    "adati": "kupanaki",
+    "adat": "sakit"
+  },
+  {
+    "adati": "saksi",
+    "adat": "saksi"
+  },
+  {
+    "adati": "kakadu",
+    "adat": "saku"
+  },
+  {
+    "adati": "sala",
+    "adat": "salah"
+  },
+  {
+    "adati": "salak",
+    "adat": "salak"
+  },
+  {
+    "adati": "pucui-cui",
+    "adat": "saling  menunjuk"
+  },
+  {
+    "adati": "putaka-taka",
+    "adat": "saling melemparkan"
+  },
+  {
+    "adati": "puseru",
+    "adat": "saling menanduk"
+  },
+  {
+    "adati": "putandu",
+    "adat": "saling menanduk"
+  },
+  {
+    "adati": "pusabangkai",
+    "adat": "saling menemani"
+  },
+  {
+    "adati": "putemba-temba",
+    "adat": "saling menembak"
+  },
+  {
+    "adati": "pukana",
+    "adat": "sama"
+  },
+  {
+    "adati": "pu'ita",
+    "adat": "sama"
+  },
+  {
+    "adati": "sambala",
+    "adat": "sambal"
+  },
+  {
+    "adati": "sambungi",
+    "adat": "sambung"
+  },
+  {
+    "adati": "lawaci",
+    "adat": "sambut"
+  },
+  {
+    "adati": "rewu",
+    "adat": "sampah/hal tidak baik yang pernah dilakukan"
+  },
+  {
+    "adati": "rato",
+    "adat": "sampai"
+  },
+  {
+    "adati": "kokoli",
+    "adat": "sampan"
+  },
+  {
+    "adati": "suwiri",
+    "adat": "samping"
+  },
+  {
+    "adati": "sampo",
+    "adat": "sampo"
+  },
+  {
+    "adati": "kalampi",
+    "adat": "sampul"
+  },
+  {
+    "adati": "ilonge",
+    "adat": "sana"
+  },
+  {
+    "adati": "ilomai",
+    "adat": "sana"
+  },
+  {
+    "adati": "sandali",
+    "adat": "sandal"
+  },
+  {
+    "adati": "kangkeda",
+    "adat": "sandar"
+  },
+  {
+    "adati": "kumina mina",
+    "adat": "sangat berminyak"
+  },
+  {
+    "adati": "sangga sie",
+    "adat": "sangka"
+  },
+  {
+    "adati": "senga",
+    "adat": "sangrai"
+  },
+  {
+    "adati": "santai",
+    "adat": "santai"
+  },
+  {
+    "adati": "santa",
+    "adat": "santan"
+  },
+  {
+    "adati": "panda",
+    "adat": "sapa"
+  },
+  {
+    "adati": "sapi",
+    "adat": "sapi"
+  },
+  {
+    "adati": "kasambure",
+    "adat": "sapu"
+  },
+  {
+    "adati": "ksambure",
+    "adat": "sapu"
+  },
+  {
+    "adati": "karopu",
+    "adat": "sarang"
+  },
+  {
+    "adati": "cirisangi",
+    "adat": "saring"
+  },
+  {
+    "adati": "kacirisangi",
+    "adat": "saringan"
+  },
+  {
+    "adati": "karike",
+    "adat": "sarung"
+  },
+  {
+    "adati": "kasele",
+    "adat": "sarung pisau atau parang"
+  },
+  {
+    "adati": "sate",
+    "adat": "sate"
+  },
+  {
+    "adati": "hancipu",
+    "adat": "satpam atau hansip"
+  },
+  {
+    "adati": "dise",
+    "adat": "satu"
+  },
+  {
+    "adati": "elea",
+    "adat": "saudara"
+  },
+  {
+    "adati": "elea",
+    "adat": "saudara"
+  },
+  {
+    "adati": "kapele",
+    "adat": "saudara kandung"
+  },
+  {
+    "adati": "seluruh",
+    "adat": "sawuta'e"
+  },
+  {
+    "adati": "inda'u",
+    "adat": "saya"
+  },
+  {
+    "adati": "pani",
+    "adat": "sayap"
+  },
+  {
+    "adati": "pidadi/sayoro",
+    "adat": "sayur"
+  },
+  {
+    "adati": "pagana",
+    "adat": "sebar"
+  },
+  {
+    "adati": "abongkano",
+    "adat": "sebelah"
+  },
+  {
+    "adati": "abantara",
+    "adat": "sebentar"
+  },
+  {
+    "adati": "abongkano",
+    "adat": "seberang"
+  },
+  {
+    "adati": "ngea",
+    "adat": "sebut"
+  },
+  {
+    "adati": "sadia",
+    "adat": "sedia"
+  },
+  {
+    "adati": "sedi",
+    "adat": "sedih"
+  },
+  {
+    "adati": "sagala giu",
+    "adat": "segala macam"
+  },
+  {
+    "adati": "sehati",
+    "adat": "sehat"
+  },
+  {
+    "adati": "sejarah",
+    "adat": "sejara"
+  },
+  {
+    "adati": "gigisi",
+    "adat": "seka"
+  },
+  {
+    "adati": "akali",
+    "adat": "sekali"
+  },
+  {
+    "adati": "sakara",
+    "adat": "sekarang"
+  },
+  {
+    "adati": "sikopa",
+    "adat": "sekop"
+  },
+  {
+    "adati": "selamat",
+    "adat": "selamati"
+  },
+  {
+    "adati": "sala",
+    "adat": "selang"
+  },
+  {
+    "adati": "abalingkata",
+    "adat": "selangkah"
+  },
+  {
+    "adati": "salasa",
+    "adat": "selasa"
+  },
+  {
+    "adati": "salata",
+    "adat": "selatan"
+  },
+  {
+    "adati": "salenda",
+    "adat": "selendang"
+  },
+  {
+    "adati": "selera",
+    "adat": "selera"
+  },
+  {
+    "adati": "po'oli",
+    "adat": "selesai"
+  },
+  {
+    "adati": "hamurondo",
+    "adat": "semalam"
+  },
+  {
+    "adati": "hamurondo",
+    "adat": "semalam"
+  },
+  {
+    "adati": "sumbele",
+    "adat": "sembelih"
+  },
+  {
+    "adati": "siua",
+    "adat": "sembilan"
+  },
+  {
+    "adati": "pada",
+    "adat": "sembuh"
+  },
+  {
+    "adati": "umela",
+    "adat": "sembuh"
+  },
+  {
+    "adati": "pihoko",
+    "adat": "sembunyi"
+  },
+  {
+    "adati": "sime",
+    "adat": "semen"
+  },
+  {
+    "adati": "simere",
+    "adat": "semir"
+  },
+  {
+    "adati": "ciraho",
+    "adat": "sempat"
+  },
+  {
+    "adati": "cirahopo",
+    "adat": "sempat sempatnya"
+  },
+  {
+    "adati": "mu'ipi",
+    "adat": "sempit"
+  },
+  {
+    "adati": "samproti",
+    "adat": "semprot"
+  },
+  {
+    "adati": "siawuta'e",
+    "adat": "semua"
+  },
+  {
+    "adati": "laga",
+    "adat": "semut rangrang"
+  },
+  {
+    "adati": "sea",
+    "adat": "semut rangrang"
+  },
+  {
+    "adati": "sana",
+    "adat": "senang"
+  },
+  {
+    "adati": "lolosua",
+    "adat": "sendi"
+  },
+  {
+    "adati": "kanci'usa",
+    "adat": "sendiri"
+  },
+  {
+    "adati": "usa usa'u",
+    "adat": "sendirianku"
+  },
+  {
+    "adati": "usa usano",
+    "adat": "sendiriannya"
+  },
+  {
+    "adati": "kasendo",
+    "adat": "sendok"
+  },
+  {
+    "adati": "se",
+    "adat": "seng"
+  },
+  {
+    "adati": "hada'e",
+    "adat": "sengaja"
+  },
+  {
+    "adati": "cipu",
+    "adat": "sengat"
+  },
+  {
+    "adati": "kacipuno",
+    "adat": "sengatan"
+  },
+  {
+    "adati": "siasa",
+    "adat": "sengsara"
+  },
+  {
+    "adati": "seni",
+    "adat": "seni"
+  },
+  {
+    "adati": "sinene",
+    "adat": "senin"
+  },
+  {
+    "adati": "senti",
+    "adat": "sentimeter"
+  },
+  {
+    "adati": "runcu",
+    "adat": "sentuh"
+  },
+  {
+    "adati": "dincu",
+    "adat": "sentuh"
+  },
+  {
+    "adati": "dingku",
+    "adat": "sentuh"
+  },
+  {
+    "adati": "wili",
+    "adat": "senyum"
+  },
+  {
+    "adati": "mboi",
+    "adat": "senyum"
+  },
+  {
+    "adati": "sepa",
+    "adat": "sepak/tendangsd"
+  },
+  {
+    "adati": "sapatu",
+    "adat": "sepatu"
+  },
+  {
+    "adati": "supeda",
+    "adat": "sepeda"
+  },
+  {
+    "adati": "mutoro",
+    "adat": "sepeda motor"
+  },
+  {
+    "adati": "ku'ajo",
+    "adat": "seperti"
+  },
+  {
+    "adati": "mulino",
+    "adat": "sepi"
+  },
+  {
+    "adati": "kalino",
+    "adat": "sepi"
+  },
+  {
+    "adati": "ku'ajo hake",
+    "adat": "seprtinya"
+  },
+  {
+    "adati": "tolida",
+    "adat": "sepupu"
+  },
+  {
+    "adati": "padamalala",
+    "adat": "serai"
+  },
+  {
+    "adati": "karasi katoa",
+    "adat": "serak"
+  },
+  {
+    "adati": "cimusasu",
+    "adat": "seram"
+  },
+  {
+    "adati": "serangi",
+    "adat": "serang"
+  },
+  {
+    "adati": "sosopi",
+    "adat": "serap"
+  },
+  {
+    "adati": "soro",
+    "adat": "seret"
+  },
+  {
+    "adati": "ariwu",
+    "adat": "seribu"
+  },
+  {
+    "adati": "mincuru",
+    "adat": "sering"
+  },
+  {
+    "adati": "serius",
+    "adat": "serius"
+  },
+  {
+    "adati": "kapuro",
+    "adat": "serpihan"
+  },
+  {
+    "adati": "tandu",
+    "adat": "seruduk"
+  },
+  {
+    "adati": "suli",
+    "adat": "seruling"
+  },
+  {
+    "adati": "sorobo",
+    "adat": "seruput/sedot"
+  },
+  {
+    "adati": "jini",
+    "adat": "setan"
+  },
+  {
+    "adati": "sitiri",
+    "adat": "setir"
+  },
+  {
+    "adati": "sitoro",
+    "adat": "setor"
+  },
+  {
+    "adati": "sewa",
+    "adat": "sewa"
+  },
+  {
+    "adati": "siala",
+    "adat": "sial"
+  },
+  {
+    "adati": "kondocua",
+    "adat": "siang"
+  },
+  {
+    "adati": "huhuleo",
+    "adat": "siang-siang"
+  },
+  {
+    "adati": "siapu",
+    "adat": "siap"
+  },
+  {
+    "adati": "inde'e",
+    "adat": "siapa"
+  },
+  {
+    "adati": "inde'eno",
+    "adat": "siapa"
+  },
+  {
+    "adati": "gia",
+    "adat": "sibak"
+  },
+  {
+    "adati": "sibu",
+    "adat": "sibuk"
+  },
+  {
+    "adati": "sihiri",
+    "adat": "sihir"
+  },
+  {
+    "adati": "goso",
+    "adat": "sikat"
+  },
+  {
+    "adati": "kagoso",
+    "adat": "sikat/benda yang digunakan untuk menyikat"
+  },
+  {
+    "adati": "sikisa",
+    "adat": "siksa"
+  },
+  {
+    "adati": "siku",
+    "adat": "siku"
+  },
+  {
+    "adati": "sila",
+    "adat": "silat"
+  },
+  {
+    "adati": "mulunga",
+    "adat": "silau"
+  },
+  {
+    "adati": "kalunga",
+    "adat": "silau"
+  },
+  {
+    "adati": "sile",
+    "adat": "sile"
+  },
+  {
+    "adati": "parumpi",
+    "adat": "simpan"
+  },
+  {
+    "adati": "pikumela",
+    "adat": "simpan"
+  },
+  {
+    "adati": "paniwi",
+    "adat": "simpan, memelihara"
+  },
+  {
+    "adati": "ka'asi",
+    "adat": "simpati"
+  },
+  {
+    "adati": "kaboke",
+    "adat": "simpul"
+  },
+  {
+    "adati": "mbea",
+    "adat": "sinar"
+  },
+  {
+    "adati": "kasubia",
+    "adat": "singkong"
+  },
+  {
+    "adati": "kasubia mutawi",
+    "adat": "singkong yang tidak mengandung racun"
+  },
+  {
+    "adati": "sinti",
+    "adat": "sinting"
+  },
+  {
+    "adati": "sira",
+    "adat": "siram"
+  },
+  {
+    "adati": "karo'o",
+    "adat": "sirih"
+  },
+  {
+    "adati": "nangka",
+    "adat": "sirsak"
+  },
+  {
+    "adati": "labi",
+    "adat": "sisa"
+  },
+  {
+    "adati": "hawu",
+    "adat": "sisa pembakaran yang berwarna abu-abu"
+  },
+  {
+    "adati": "lepe",
+    "adat": "sisi"
+  },
+  {
+    "adati": "hana",
+    "adat": "sisik"
+  },
+  {
+    "adati": "kasuru",
+    "adat": "sisir"
+  },
+  {
+    "adati": "kasuru",
+    "adat": "sisir"
+  },
+  {
+    "adati": "kagomposa",
+    "adat": "situasi sempit"
+  },
+  {
+    "adati": "kawowo",
+    "adat": "siul"
+  },
+  {
+    "adati": "sadara",
+    "adat": "siuman"
+  },
+  {
+    "adati": "soal",
+    "adat": "soal"
+  },
+  {
+    "adati": "mubenci",
+    "adat": "sobek, robek"
+  },
+  {
+    "adati": "kabenci",
+    "adat": "sobek, robek, sobekan, robekan"
+  },
+  {
+    "adati": "umela",
+    "adat": "sopan"
+  },
+  {
+    "adati": "sopi",
+    "adat": "sopi, minuman keras yang terbuat dari penyulingan nira atau enau"
+  },
+  {
+    "adati": "supiri",
+    "adat": "sopir"
+  },
+  {
+    "adati": "mu'apu",
+    "adat": "sore"
+  },
+  {
+    "adati": "mu'apu",
+    "adat": "sore"
+  },
+  {
+    "adati": "sonto",
+    "adat": "sotong"
+  },
+  {
+    "adati": "surukaea",
+    "adat": "srikaya"
+  },
+  {
+    "adati": "siteresi",
+    "adat": "stres"
+  },
+  {
+    "adati": "muhane",
+    "adat": "suami"
+  },
+  {
+    "adati": "sambu",
+    "adat": "suap"
+  },
+  {
+    "adati": "bamba",
+    "adat": "suara"
+  },
+  {
+    "adati": "ou",
+    "adat": "suara tangisan"
+  },
+  {
+    "adati": "hiki",
+    "adat": "suara tawa nyaring"
+  },
+  {
+    "adati": "subu",
+    "adat": "subuh"
+  },
+  {
+    "adati": "mimbali",
+    "adat": "subur"
+  },
+  {
+    "adati": "po'olimo",
+    "adat": "sudah"
+  },
+  {
+    "adati": "po'olimo",
+    "adat": "sudah"
+  },
+  {
+    "adati": "singku",
+    "adat": "sudut"
+  },
+  {
+    "adati": "suju",
+    "adat": "sujud"
+  },
+  {
+    "adati": "pe'elu",
+    "adat": "suka"
+  },
+  {
+    "adati": "pamowine",
+    "adat": "suka main perempuan"
+  },
+  {
+    "adati": "kambumbulaku",
+    "adat": "suka mencuri"
+  },
+  {
+    "adati": "mintadei",
+    "adat": "suka mengurus yang bukan urusannya"
+  },
+  {
+    "adati": "paboke",
+    "adat": "suka menyabung ayam"
+  },
+  {
+    "adati": "suku",
+    "adat": "sukun"
+  },
+  {
+    "adati": "muhali",
+    "adat": "sulit"
+  },
+  {
+    "adati": "cumpe",
+    "adat": "sulung"
+  },
+  {
+    "adati": "sumbangi",
+    "adat": "sumbang/menyumbang"
+  },
+  {
+    "adati": "sumbanga",
+    "adat": "sumbangan"
+  },
+  {
+    "adati": "ongoci",
+    "adat": "sumbat/menyumbat"
+  },
+  {
+    "adati": "sumbu",
+    "adat": "sumbu"
+  },
+  {
+    "adati": "sumpa",
+    "adat": "sumpah"
+  },
+  {
+    "adati": "sumu",
+    "adat": "sumur"
+  },
+  {
+    "adati": "pikambulaku",
+    "adat": "sunat"
+  },
+  {
+    "adati": "sunti",
+    "adat": "suntik"
+  },
+  {
+    "adati": "sura",
+    "adat": "surat"
+  },
+  {
+    "adati": "suruga",
+    "adat": "surga"
+  },
+  {
+    "adati": "cindala",
+    "adat": "suruh"
+  },
+  {
+    "adati": "muhoci",
+    "adat": "surut pada laut"
+  },
+  {
+    "adati": "susu",
+    "adat": "susu"
+  },
+  {
+    "adati": "susu",
+    "adat": "susun"
+  },
+  {
+    "adati": "sahada",
+    "adat": "syahadat"
+  },
+  {
+    "adati": "sukuru",
+    "adat": "syukur"
+  },
+  {
+    "adati": "tandu",
+    "adat": "t anduk"
+  },
+  {
+    "adati": "bisa",
+    "adat": "tabib"
+  },
+  {
+    "adati": "tabraki",
+    "adat": "tabrak"
+  },
+  {
+    "adati": "pomalia",
+    "adat": "tabu"
+  },
+  {
+    "adati": "haleo",
+    "adat": "tadi"
+  },
+  {
+    "adati": "giwu",
+    "adat": "tagih"
+  },
+  {
+    "adati": "taha",
+    "adat": "tahan/menahan"
+  },
+  {
+    "adati": "tahu",
+    "adat": "tahu"
+  },
+  {
+    "adati": "taku",
+    "adat": "tahun"
+  },
+  {
+    "adati": "taki",
+    "adat": "ta'i"
+  },
+  {
+    "adati": "muntaro",
+    "adat": "tajam"
+  },
+  {
+    "adati": "paso",
+    "adat": "taji"
+  },
+  {
+    "adati": "musasu",
+    "adat": "takut"
+  },
+  {
+    "adati": "musasu",
+    "adat": "takut"
+  },
+  {
+    "adati": "kapisulu",
+    "adat": "talang air"
+  },
+  {
+    "adati": "katanandoa",
+    "adat": "talenan atau alas tebal untuk memotong"
+  },
+  {
+    "adati": "tali",
+    "adat": "tali"
+  },
+  {
+    "adati": "tamati",
+    "adat": "tamat"
+  },
+  {
+    "adati": "tamba",
+    "adat": "tambah"
+  },
+  {
+    "adati": "tambaki",
+    "adat": "tambah"
+  },
+  {
+    "adati": "rinci",
+    "adat": "tamborin"
+  },
+  {
+    "adati": "mangada",
+    "adat": "tampan/mangada"
+  },
+  {
+    "adati": "ajo",
+    "adat": "tampang"
+  },
+  {
+    "adati": "topa",
+    "adat": "tampar/menampar"
+  },
+  {
+    "adati": "katopa",
+    "adat": "tamparan"
+  },
+  {
+    "adati": "tampili",
+    "adat": "tampil"
+  },
+  {
+    "adati": "tamu",
+    "adat": "tamu"
+  },
+  {
+    "adati": "wuta",
+    "adat": "tanah"
+  },
+  {
+    "adati": "wuta",
+    "adat": "tanah"
+  },
+  {
+    "adati": "pitadu",
+    "adat": "tanam/menanam"
+  },
+  {
+    "adati": "pimbula",
+    "adat": "tanam/menanam"
+  },
+  {
+    "adati": "paniwi",
+    "adat": "tanaman atau hewan peliharaan"
+  },
+  {
+    "adati": "ka'awo",
+    "adat": "tanaman liar"
+  },
+  {
+    "adati": "tanda",
+    "adat": "tanda"
+  },
+  {
+    "adati": "tanda tanga",
+    "adat": "tanda tangan"
+  },
+  {
+    "adati": "lima",
+    "adat": "tangan"
+  },
+  {
+    "adati": "ea",
+    "adat": "tangga"
+  },
+  {
+    "adati": "tanggala",
+    "adat": "tanggal"
+  },
+  {
+    "adati": "tanggo",
+    "adat": "tangguk"
+  },
+  {
+    "adati": "tanggo",
+    "adat": "tanggung"
+  },
+  {
+    "adati": "tanggo jawapu",
+    "adat": "tanggung jawab"
+  },
+  {
+    "adati": "tangkula",
+    "adat": "tangkai"
+  },
+  {
+    "adati": "raso",
+    "adat": "tangkap"
+  },
+  {
+    "adati": "tengki",
+    "adat": "tangki"
+  },
+  {
+    "adati": "sangko",
+    "adat": "tangkis"
+  },
+  {
+    "adati": "papangarawasa'a",
+    "adat": "tanjakan"
+  },
+  {
+    "adati": "tanjo",
+    "adat": "tanjung"
+  },
+  {
+    "adati": "pe'ena",
+    "adat": "tanya/berrtanya"
+  },
+  {
+    "adati": "hawali",
+    "adat": "tapi"
+  },
+  {
+    "adati": "ntarawe",
+    "adat": "tarawih"
+  },
+  {
+    "adati": "terigu",
+    "adat": "tarigu"
+  },
+  {
+    "adati": "cimpa",
+    "adat": "taring"
+  },
+  {
+    "adati": "tau",
+    "adat": "taruh"
+  },
+  {
+    "adati": "tasi",
+    "adat": "tas"
+  },
+  {
+    "adati": "tasi",
+    "adat": "tas"
+  },
+  {
+    "adati": "tasi",
+    "adat": "tas"
+  },
+  {
+    "adati": "kasbehe",
+    "adat": "tasbih"
+  },
+  {
+    "adati": "tonto",
+    "adat": "tatap"
+  },
+  {
+    "adati": "katonto",
+    "adat": "tatapan"
+  },
+  {
+    "adati": "pudada",
+    "adat": "tawar"
+  },
+  {
+    "adati": "mutembe",
+    "adat": "tawar"
+  },
+  {
+    "adati": "katembe",
+    "adat": "tawar"
+  },
+  {
+    "adati": "boto",
+    "adat": "tebak"
+  },
+  {
+    "adati": "kaboto-boto",
+    "adat": "tebak-tebakan/tebak-menebak"
+  },
+  {
+    "adati": "mukapa",
+    "adat": "tebal"
+  },
+  {
+    "adati": "towu",
+    "adat": "tebu"
+  },
+  {
+    "adati": "tabusu",
+    "adat": "tebus"
+  },
+  {
+    "adati": "tegasi",
+    "adat": "tegas"
+  },
+  {
+    "adati": "doku",
+    "adat": "teguk"
+  },
+  {
+    "adati": "panda",
+    "adat": "tegur"
+  },
+  {
+    "adati": "cidoki",
+    "adat": "tekan"
+  },
+  {
+    "adati": "pisi",
+    "adat": "tekan/pijit/urut"
+  },
+  {
+    "adati": "cere",
+    "adat": "teko"
+  },
+  {
+    "adati": "tolo",
+    "adat": "telan"
+  },
+  {
+    "adati": "pilalambe",
+    "adat": "telanjang"
+  },
+  {
+    "adati": "takulambe",
+    "adat": "telanjang"
+  },
+  {
+    "adati": "telipisi",
+    "adat": "televisi"
+  },
+  {
+    "adati": "tolinga",
+    "adat": "telinga"
+  },
+  {
+    "adati": "tolinga",
+    "adat": "telinga"
+  },
+  {
+    "adati": "kancui",
+    "adat": "telunjuk"
+  },
+  {
+    "adati": "cikolu manu",
+    "adat": "telur ayam"
+  },
+  {
+    "adati": "sabangka",
+    "adat": "teman"
+  },
+  {
+    "adati": "andea",
+    "adat": "teman"
+  },
+  {
+    "adati": "sabangkai",
+    "adat": "temani"
+  },
+  {
+    "adati": "temba",
+    "adat": "tembak"
+  },
+  {
+    "adati": "tabako",
+    "adat": "tembakau"
+  },
+  {
+    "adati": "tembo",
+    "adat": "tembok"
+  },
+  {
+    "adati": "pulosa",
+    "adat": "tembus"
+  },
+  {
+    "adati": "hawu",
+    "adat": "tempat menyalakan api untuk memasak"
+  },
+  {
+    "adati": "kaka'alua",
+    "adat": "tempat teduh"
+  },
+  {
+    "adati": "tempe",
+    "adat": "tempe"
+  },
+  {
+    "adati": "papika",
+    "adat": "tempel"
+  },
+  {
+    "adati": "kabulu",
+    "adat": "tempurung kelapa"
+  },
+  {
+    "adati": "tenda",
+    "adat": "tenda"
+  },
+  {
+    "adati": "sepa",
+    "adat": "tendang"
+  },
+  {
+    "adati": "ranca",
+    "adat": "tendang"
+  },
+  {
+    "adati": "karanca",
+    "adat": "tendangan"
+  },
+  {
+    "adati": "kasepa",
+    "adat": "tendangan"
+  },
+  {
+    "adati": "tonga",
+    "adat": "tengah"
+  },
+  {
+    "adati": "tonga",
+    "adat": "tengah"
+  },
+  {
+    "adati": "mintonga alo",
+    "adat": "tengah malam"
+  },
+  {
+    "adati": "mutonu",
+    "adat": "tenggelam untuk kapal"
+  },
+  {
+    "adati": "mulomo",
+    "adat": "tenggelam untuk orang"
+  },
+  {
+    "adati": "tantara",
+    "adat": "tentara"
+  },
+  {
+    "adati": "tapo",
+    "adat": "tepung"
+  },
+  {
+    "adati": "tara",
+    "adat": "terang"
+  },
+  {
+    "adati": "pambolo",
+    "adat": "terangkat keatas"
+  },
+  {
+    "adati": "rara",
+    "adat": "terawang"
+  },
+  {
+    "adati": "lola",
+    "adat": "terbang"
+  },
+  {
+    "adati": "lola",
+    "adat": "terbang"
+  },
+  {
+    "adati": "cidangku",
+    "adat": "terbentur pada bagian kepala"
+  },
+  {
+    "adati": "umba",
+    "adat": "terbit"
+  },
+  {
+    "adati": "mutongka",
+    "adat": "tercabut, digunakan untuk gigi"
+  },
+  {
+    "adati": "torampe",
+    "adat": "terdampar"
+  },
+  {
+    "adati": "sindoli",
+    "adat": "tergelincir"
+  },
+  {
+    "adati": "ntoa",
+    "adat": "teriak"
+  },
+  {
+    "adati": "aki",
+    "adat": "teriakan"
+  },
+  {
+    "adati": "mudada",
+    "adat": "terik"
+  },
+  {
+    "adati": "tarima",
+    "adat": "terima"
+  },
+  {
+    "adati": "cipou",
+    "adat": "teripang"
+  },
+  {
+    "adati": "cipisili",
+    "adat": "terkelupas"
+  },
+  {
+    "adati": "mawiwiri",
+    "adat": "terkena angin sejuk"
+  },
+  {
+    "adati": "sauri",
+    "adat": "terlalu"
+  },
+  {
+    "adati": "cipiro",
+    "adat": "terlelap"
+  },
+  {
+    "adati": "teremusu",
+    "adat": "termus"
+  },
+  {
+    "adati": "tarpala",
+    "adat": "terpal"
+  },
+  {
+    "adati": "ciparato",
+    "adat": "tersampaikan"
+  },
+  {
+    "adati": "kuwili",
+    "adat": "tersenyum"
+  },
+  {
+    "adati": "kumboi",
+    "adat": "tersenyum"
+  },
+  {
+    "adati": "pimboi",
+    "adat": "tersenyum"
+  },
+  {
+    "adati": "piwili-wili",
+    "adat": "tersenyum senyum"
+  },
+  {
+    "adati": "pimboli",
+    "adat": "tersisa"
+  },
+  {
+    "adati": "citabraki",
+    "adat": "tertabrak"
+  },
+  {
+    "adati": "citaha",
+    "adat": "tertahan"
+  },
+  {
+    "adati": "ciraso",
+    "adat": "tertangkap"
+  },
+  {
+    "adati": "kuhiki",
+    "adat": "tertawa nyaring"
+  },
+  {
+    "adati": "pihiki-hiki",
+    "adat": "tertawa tawa dengan nyaring"
+  },
+  {
+    "adati": "cipiro",
+    "adat": "tertidur"
+  },
+  {
+    "adati": "cibokoli",
+    "adat": "tertinggal"
+  },
+  {
+    "adati": "citola",
+    "adat": "tertolak/ditolak"
+  },
+  {
+    "adati": "cipindua",
+    "adat": "terulang"
+  },
+  {
+    "adati": "palola",
+    "adat": "terung"
+  },
+  {
+    "adati": "tarusu",
+    "adat": "terus"
+  },
+  {
+    "adati": "tatarusu",
+    "adat": "terus-menerus"
+  },
+  {
+    "adati": "sanda",
+    "adat": "tes"
+  },
+  {
+    "adati": "tatapu",
+    "adat": "tetap"
+  },
+  {
+    "adati": "hawali",
+    "adat": "tetapi"
+  },
+  {
+    "adati": "te",
+    "adat": "the"
+  },
+  {
+    "adati": "tia",
+    "adat": "tiang"
+  },
+  {
+    "adati": "cia",
+    "adat": "tidak"
+  },
+  {
+    "adati": "cia",
+    "adat": "tidak"
+  },
+  {
+    "adati": "muncuru",
+    "adat": "tidur"
+  },
+  {
+    "adati": "tolu",
+    "adat": "tiga"
+  },
+  {
+    "adati": "toboki",
+    "adat": "tikam"
+  },
+  {
+    "adati": "apa",
+    "adat": "tikar"
+  },
+  {
+    "adati": "wulawo",
+    "adat": "tikus"
+  },
+  {
+    "adati": "tima",
+    "adat": "timah"
+  },
+  {
+    "adati": "katimba",
+    "adat": "timba"
+  },
+  {
+    "adati": "kilo",
+    "adat": "timbangan"
+  },
+  {
+    "adati": "cimburu",
+    "adat": "timur"
+  },
+  {
+    "adati": "bacuri",
+    "adat": "tindih/timpa/menindih"
+  },
+  {
+    "adati": "duduk",
+    "adat": "tinggal/duduk"
+  },
+  {
+    "adati": "mucinggi",
+    "adat": "tinggi"
+  },
+  {
+    "adati": "tingka",
+    "adat": "tingkat"
+  },
+  {
+    "adati": "cumbu",
+    "adat": "tinju/tonjok"
+  },
+  {
+    "adati": "tinta",
+    "adat": "tinta"
+  },
+  {
+    "adati": "munipi",
+    "adat": "tipis"
+  },
+  {
+    "adati": "akala",
+    "adat": "tipu"
+  },
+  {
+    "adati": "tisu",
+    "adat": "tisu"
+  },
+  {
+    "adati": "titi",
+    "adat": "titik"
+  },
+  {
+    "adati": "kasamea",
+    "adat": "titipan/nasihat"
+  },
+  {
+    "adati": "kalamboko",
+    "adat": "titipan/titip"
+  },
+  {
+    "adati": "poro",
+    "adat": "tiup"
+  },
+  {
+    "adati": "toba",
+    "adat": "tobat"
+  },
+  {
+    "adati": "toke",
+    "adat": "tokek"
+  },
+  {
+    "adati": "toko",
+    "adat": "toko"
+  },
+  {
+    "adati": "tola",
+    "adat": "tolak"
+  },
+  {
+    "adati": "tamate",
+    "adat": "tomat"
+  },
+  {
+    "adati": "tumba",
+    "adat": "tombak"
+  },
+  {
+    "adati": "tombolo",
+    "adat": "tombol"
+  },
+  {
+    "adati": "to",
+    "adat": "ton"
+  },
+  {
+    "adati": "katoko",
+    "adat": "tongkat untuk berjalan"
+  },
+  {
+    "adati": "tongkulo",
+    "adat": "tongol"
+  },
+  {
+    "adati": "cubo",
+    "adat": "topang/menobang"
+  },
+  {
+    "adati": "topi",
+    "adat": "topi"
+  },
+  {
+    "adati": "lancinaoda",
+    "adat": "tornado"
+  },
+  {
+    "adati": "tereki",
+    "adat": "truk/menikam"
+  },
+  {
+    "adati": "mancuana",
+    "adat": "tua/orang tua/sudah tua"
+  },
+  {
+    "adati": "Sali",
+    "adat": "tuang"
+  },
+  {
+    "adati": "bada",
+    "adat": "tubuh"
+  },
+  {
+    "adati": "sangga",
+    "adat": "tuduh/menuduh"
+  },
+  {
+    "adati": "ropea",
+    "adat": "tujuan"
+  },
+  {
+    "adati": "picu",
+    "adat": "tujuh"
+  },
+  {
+    "adati": "tuka",
+    "adat": "tukang"
+  },
+  {
+    "adati": "sambe",
+    "adat": "tukar"
+  },
+  {
+    "adati": "buku",
+    "adat": "tulang"
+  },
+  {
+    "adati": "buku",
+    "adat": "tulang"
+  },
+  {
+    "adati": "kakasuru",
+    "adat": "tulang rusuk"
+  },
+  {
+    "adati": "buku towu",
+    "adat": "tulang tebu"
+  },
+  {
+    "adati": "cumbu",
+    "adat": "tumbuh"
+  },
+  {
+    "adati": "cucu",
+    "adat": "tumbuk"
+  },
+  {
+    "adati": "tumisi",
+    "adat": "tumis"
+  },
+  {
+    "adati": "kuruncungo",
+    "adat": "tumit"
+  },
+  {
+    "adati": "cibolo",
+    "adat": "tumpah/tenggelam untuk kapal"
+  },
+  {
+    "adati": "suncu",
+    "adat": "tumpuk/menumpuk"
+  },
+  {
+    "adati": "kangaba",
+    "adat": "tumpul"
+  },
+  {
+    "adati": "mungaba",
+    "adat": "tumpul"
+  },
+  {
+    "adati": "cumbi",
+    "adat": "tunas"
+  },
+  {
+    "adati": "cungku",
+    "adat": "tunduk"
+  },
+  {
+    "adati": "antagi",
+    "adat": "tunggu"
+  },
+  {
+    "adati": "tungku",
+    "adat": "tungku"
+  },
+  {
+    "adati": "cui",
+    "adat": "tunjuk"
+  },
+  {
+    "adati": "tuntu",
+    "adat": "tuntut/menuntut"
+  },
+  {
+    "adati": "sampu",
+    "adat": "turun"
+  },
+  {
+    "adati": "pisampu humende",
+    "adat": "turun naik"
+  },
+  {
+    "adati": "cicingkulua",
+    "adat": "turunan"
+  },
+  {
+    "adati": "cicingkuluwasa'a",
+    "adat": "turunan"
+  },
+  {
+    "adati": "sumba",
+    "adat": "tusuk"
+  },
+  {
+    "adati": "rumba",
+    "adat": "tusuk"
+  },
+  {
+    "adati": "tutu",
+    "adat": "tutup"
+  },
+  {
+    "adati": "doe",
+    "adat": "uang"
+  },
+  {
+    "adati": "doe",
+    "adat": "uang"
+  },
+  {
+    "adati": "kua",
+    "adat": "uban"
+  },
+  {
+    "adati": "kajawa",
+    "adat": "ubi"
+  },
+  {
+    "adati": "tehele",
+    "adat": "ubin"
+  },
+  {
+    "adati": "wusa",
+    "adat": "ubun-ubun"
+  },
+  {
+    "adati": "tabe",
+    "adat": "ucapan sopan ketika lewat di depan atau didekat orang atau ketika meminta tolong bahkan menerima suatu barang yang diberikan orang lain"
+  },
+  {
+    "adati": "uda",
+    "adat": "udang"
+  },
+  {
+    "adati": "pusi",
+    "adat": "ujung"
+  },
+  {
+    "adati": "pusi",
+    "adat": "ujung"
+  },
+  {
+    "adati": "ukuru",
+    "adat": "ukur"
+  },
+  {
+    "adati": "ukura",
+    "adat": "ukuran"
+  },
+  {
+    "adati": "pindua",
+    "adat": "ulang/mengulang"
+  },
+  {
+    "adati": "sa'a",
+    "adat": "ular"
+  },
+  {
+    "adati": "kule",
+    "adat": "ulat"
+  },
+  {
+    "adati": "cobe",
+    "adat": "ulekan"
+  },
+  {
+    "adati": "rege",
+    "adat": "ulir/alur"
+  },
+  {
+    "adati": "umbu-umbu",
+    "adat": "umbul-umbul"
+  },
+  {
+    "adati": "upa",
+    "adat": "umpan"
+  },
+  {
+    "adati": "umuru",
+    "adat": "umur"
+  },
+  {
+    "adati": "noti",
+    "adat": "undang"
+  },
+  {
+    "adati": "kanoti",
+    "adat": "undangan"
+  },
+  {
+    "adati": "ngga'aso",
+    "adat": "untuk"
+  },
+  {
+    "adati": "ngga'aso",
+    "adat": "untuk"
+  },
+  {
+    "adati": "punambo",
+    "adat": "upah"
+  },
+  {
+    "adati": "ua",
+    "adat": "urat"
+  },
+  {
+    "adati": "tadei",
+    "adat": "urus"
+  },
+  {
+    "adati": "sapulei",
+    "adat": "usap"
+  },
+  {
+    "adati": "mangangada",
+    "adat": "usil"
+  },
+  {
+    "adati": "usere",
+    "adat": "usir"
+  },
+  {
+    "adati": "mpumpuru",
+    "adat": "usus"
+  },
+  {
+    "adati": "dosa",
+    "adat": "utang"
+  },
+  {
+    "adati": "napa",
+    "adat": "utara"
+  },
+  {
+    "adati": "peci",
+    "adat": "vetsin"
+  },
+  {
+    "adati": "poli",
+    "adat": "voli"
+  },
+  {
+    "adati": "polume",
+    "adat": "volume"
+  },
+  {
+    "adati": "tatampa",
+    "adat": "wadah"
+  },
+  {
+    "adati": "tampa",
+    "adat": "wadah"
+  },
+  {
+    "adati": "hula",
+    "adat": "wajah"
+  },
+  {
+    "adati": "kawali",
+    "adat": "wajan"
+  },
+  {
+    "adati": "waje",
+    "adat": "wajik"
+  },
+  {
+    "adati": "wawalangki",
+    "adat": "walet"
+  },
+  {
+    "adati": "warna",
+    "adat": "warna"
+  },
+  {
+    "adati": "waru",
+    "adat": "warung"
+  },
+  {
+    "adati": "yoyo",
+    "adat": "yoyo"
+  },
+  {
+    "adati": "jakati",
+    "adat": "zakat"
+  },
+  {
+    "adati": "jamani",
+    "adat": "zaman"
+  },
+  {
+    "adati": "jikiri",
+    "adat": "zikir"
+  },
+  {
+    "adati": "ba'ita itamo",
+    "adat": "abaikan/biarkan"
+  },
+  {
+    "adati": "hawu-hawu",
+    "adat": "abu-abu"
+  },
+  {
+    "adati": "acara",
+    "adat": "acara"
+  },
+  {
+    "adati": "dane'e",
+    "adat": "ada"
+  },
+  {
+    "adati": "pi'anda-anda",
+    "adat": "berada"
+  },
+  {
+    "adati": "ka'ada'a",
+    "adat": "keadaan"
   }
 ]
