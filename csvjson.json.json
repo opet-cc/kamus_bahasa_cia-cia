@@ -1788,8 +1788,8 @@
     "arti": "gosok"
   },
   {
-    "kata": "mungau",
-    "arti": "gosong"
+    "kata": "tondo",
+    "arti": "pembatas pada kebun yang dibuat menggunakan batu yang disusun"
   },
   {
     "kata": "goea",
@@ -4584,12 +4584,12 @@
     "arti": "model"
   },
   {
-    "kata": "ndoke",
-    "arti": "monyet"
+    "kata": "ka",
+    "arti": "ungkapan untuk memastikan sesuatu"
   },
   {
-    "kata": "ndoke",
-    "arti": "monyet"
+    "kata": "kuci",
+    "arti": "gigit"
   },
   {
     "kata": "ndoke",
@@ -6221,7 +6221,7 @@
   },
   {
     "kata": "muhoci",
-    "arti": "surut pada laut"
+    "arti": "air laut surut"
   },
   {
     "kata": "susu",
@@ -8486,5 +8486,73 @@
   {
     "kata": "pitapa",
     "arti": "memanggang"
+  },
+  {
+    "kata": "sanggara",
+    "arti": "pisang goreng"
+  },
+  {
+    "kata": "mutembe",
+    "arti": "hambar"
+  },
+  {
+    "kata": "katembe",
+    "arti": "hambar"
+  },
+  {
+    "kata": "kajepe",
+    "arti": "makanan tradisional yang terbuat dari jagung muda yang dihaluskan dengan isian gula atau parutan kelapa yang dicampur gula merah dan dibungkus menggunakan kulit jagung muda"
+  },
+  {
+    "kata": "papara",
+    "arti": "gode-gode"
+  },
+  {
+    "kata": "pagete",
+    "arti": "petasan"
+  },
+  {
+    "kata": "pakingki",
+    "arti": "menegangkan tubuh atau bagian tubuh"
+  },
+  {
+    "kata": "kingki",
+    "arti": "kondisi dimana tubuh tegang/keras"
+  },
+  {
+    "kata": "palilinto",
+    "arti": "membuat orang berjalan tidak tentu arah"
+  },
+  {
+    "kata": "linto",
+    "arti": "tidak tentu arah"
+  },
+  {
+    "kata": "pikalilinto",
+    "arti": "berjalan tanpa arah"
+  },
+  {
+    "kata": "inte",
+    "arti": "pergi"
+  },
+  {
+    "kata": "pusanga",
+    "arti": "minta izin"
+  },
+  {
+    "kata": "pidama",
+    "arti": "menyulu"
+  },
+  {
+    "kata": "hende ure",
+    "arti": "air laut pasang"
+  },
+  {
+    "kata": "kalapea",
+    "arti": "alat untuk memanggang ikan dalam jumlah besar yang terbuat dari bambu"
+  },
+  {
+    "kata": "kawaea",
+    "arti": "panggang ikan yang terbuat dari besi"
   }
 ]
