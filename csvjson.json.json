@@ -2185,7 +2185,7 @@
   },
   {
     "kata": "lele",
-    "arti": "isu, berita"
+    "arti": "isu, berita, kabar"
   },
   {
     "kata": "incua",
@@ -2464,8 +2464,8 @@
     "arti": "jum'at"
   },
   {
-    "kata": "kabara",
-    "arti": "kabar"
+    "kata": "kaparu",
+    "arti": "parutan"
   },
   {
     "kata": "kabele",
@@ -8446,5 +8446,45 @@
   {
     "kata": "kabea",
     "arti": "bego"
+  },
+  {
+    "kata": "kasega",
+    "arti": "jahat"
+  },
+  {
+    "kata": "musega",
+    "arti": "berani"
+  },
+  {
+    "kata": "kocu",
+    "arti": "kentut"
+  },
+  {
+    "kata": "koncu",
+    "arti": "batu yang sangat besar"
+  },
+  {
+    "kata": "mbanake'e",
+    "arti": "begini"
+  },
+  {
+    "kata": "mbalungke'e",
+    "arti": "seperti itu"
+  },
+  {
+    "kata": "tapa",
+    "arti": "panggang"
+  },
+  {
+    "kata": "isa katapa",
+    "arti": "ikan panggang"
+  },
+  {
+    "kata": "pikatapai",
+    "arti": "menghangatkan diri dekat api"
+  },
+  {
+    "kata": "pitapa",
+    "arti": "memanggang"
   }
 ]
