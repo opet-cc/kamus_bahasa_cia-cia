@@ -1904,8 +1904,8 @@
     "arti": "hancur"
   },
   {
-    "kata": "hando",
-    "arti": "handuk"
+    "kata": "kahombo",
+    "arti": "sebutan untuk buah yang diperam"
   },
   {
     "kata": "hando",
@@ -5660,8 +5660,8 @@
     "arti": "selesai"
   },
   {
-    "kata": "hamurondo",
-    "arti": "semalam"
+    "kata": "hombo",
+    "arti": "peram"
   },
   {
     "kata": "hamurondo",
@@ -7173,7 +7173,7 @@
   },
   {
     "kata": "sa'a",
-    "arti": "ular"
+    "arti": "ular, menyala"
   },
   {
     "kata": "kule",
@@ -8654,5 +8654,13 @@
   {
     "kata": "cilao",
     "arti": "terlanjur"
+  },
+  {
+    "kata": "kampo",
+    "arti": "kampung"
+  },
+  {
+    "kata": "pindamu",
+    "arti": "membelah atau memotong kayu menggunakan kapak"
   }
 ]
